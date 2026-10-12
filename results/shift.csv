@@ -1,0 +1,5 @@
+run,tokens,top1_agreement,mean_nll
+original,21112,0.9977,0.1468
+mild,4728,0.7312,2.6199
+medium,8347,0.7252,2.46
+strong,6088,0.6759,3.2404

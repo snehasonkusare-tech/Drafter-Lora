@@ -1,0 +1,104 @@
+/bin/bash: line 1: nvidia-smi: command not found
+[33mWARNING: Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x7b00385b6120>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /simple/transformers/[0m[33m
+[0m[33mWARNING: Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x7b003877ac10>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /simple/transformers/[0m[33m
+[0m[33mWARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x7b003877ae90>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /simple/transformers/[0m[33m
+[0m[33mWARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x7b003877b110>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /simple/transformers/[0m[33m
+[0m[33mWARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<pip._vendor.urllib3.connection.HTTPSConnection object at 0x7b003877b390>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /simple/transformers/[0m[33m
+[0m[31mERROR: Could not find a version that satisfies the requirement transformers==4.53.3 (from versions: none)[0m[31m
+[0m[31mERROR: No matching distribution found for transformers==4.53.3[0m[31m
+[0mfatal: unable to access 'https://github.com/SafeAILab/EAGLE.git/': Could not resolve host: github.com
+/bin/bash: line 1: cd: /kaggle/working/EAGLE: No such file or directory
+Traceback (most recent call last):
+  File [35m"<string>"[0m, line [35m1[0m, in [35m<module>[0m
+    import torch, transformers, peft; print('torch', torch.__version__, '| transformers', transformers.__version__, '| peft', peft.__version__, '|', [31mtorch.cuda.get_device_name[0m[1;31m(0)[0m)
+                                                                                                                                                     [31m~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[1;31m^^^[0m
+  File [35m"/usr/local/lib/python3.13/dist-packages/torch/cuda/__init__.py"[0m, line [35m653[0m, in [35mget_device_name[0m
+    return [31mget_device_properties[0m[1;31m(device)[0m.name
+           [31m~~~~~~~~~~~~~~~~~~~~~[0m[1;31m^^^^^^^^[0m
+  File [35m"/usr/local/lib/python3.13/dist-packages/torch/cuda/__init__.py"[0m, line [35m686[0m, in [35mget_device_properties[0m
+    [31m_lazy_init[0m[1;31m()[0m  # will define _get_device_properties
+    [31m~~~~~~~~~~[0m[1;31m^^[0m
+  File [35m"/usr/local/lib/python3.13/dist-packages/torch/cuda/__init__.py"[0m, line [35m471[0m, in [35m_lazy_init[0m
+    raise AssertionError("Torch not compiled with CUDA enabled")
+[1;35mAssertionError[0m: [35mTorch not compiled with CUDA enabled[0m
+/kaggle/working/drafter-lora
+Writing common.py
+Writing head_lora.py
+Writing make_prompts.py
+Writing check_head.py
+Writing bench.py
+Writing summarize.py
+Writing train_target_lora.py
+Writing gen_head_data.py
+Writing train_head_lora.py
+Writing plot.py
+'[Errno -3] Temporary failure in name resolution' thrown while requesting HEAD https://huggingface.co/datasets/tatsu-lab/alpaca/resolve/main/README.md
+Retrying in 1s [Retry 1/5].
+'[Errno -3] Temporary failure in name resolution' thrown while requesting HEAD https://huggingface.co/datasets/tatsu-lab/alpaca/resolve/main/README.md
+Retrying in 2s [Retry 2/5].
+'[Errno -3] Temporary failure in name resolution' thrown while requesting HEAD https://huggingface.co/datasets/tatsu-lab/alpaca/resolve/main/README.md
+Retrying in 4s [Retry 3/5].
+'[Errno -3] Temporary failure in name resolution' thrown while requesting HEAD https://huggingface.co/datasets/tatsu-lab/alpaca/resolve/main/README.md
+Retrying in 8s [Retry 4/5].
+'[Errno -3] Temporary failure in name resolution' thrown while requesting HEAD https://huggingface.co/datasets/tatsu-lab/alpaca/resolve/main/README.md
+Retrying in 8s [Retry 5/5].
+'[Errno -3] Temporary failure in name resolution' thrown while requesting HEAD https://huggingface.co/datasets/tatsu-lab/alpaca/resolve/main/README.md
+Traceback (most recent call last):
+  File [35m"/kaggle/working/drafter-lora/make_prompts.py"[0m, line [35m22[0m, in [35m<module>[0m
+    alpaca = [31mload_dataset[0m[1;31m("tatsu-lab/alpaca", split="train")[0m.shuffle(seed=SEED)
+             [31m~~~~~~~~~~~~[0m[1;31m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  File [35m"/usr/local/lib/python3.13/dist-packages/datasets/load.py"[0m, line [35m1688[0m, in [35mload_dataset[0m
+    builder_instance = load_dataset_builder(
+        path=path,
+    ...<10 lines>...
+        **config_kwargs,
+    )
+  File [35m"/usr/local/lib/python3.13/dist-packages/datasets/load.py"[0m, line [35m1315[0m, in [35mload_dataset_builder[0m
+    dataset_module = dataset_module_factory(
+        path,
+    ...<5 lines>...
+        cache_dir=cache_dir,
+    )
+  File [35m"/usr/local/lib/python3.13/dist-packages/datasets/load.py"[0m, line [35m1207[0m, in [35mdataset_module_factory[0m
+    raise e1 from None
+  File [35m"/usr/local/lib/python3.13/dist-packages/datasets/load.py"[0m, line [35m1133[0m, in [35mdataset_module_factory[0m
+    raise ConnectionError(f"Couldn't reach '{path}' on the Hub ({e.__class__.__name__})") from e
+[1;35mConnectionError[0m: [35mCouldn't reach 'tatsu-lab/alpaca' on the Hub (LocalEntryNotFoundError)[0m
+Traceback (most recent call last):
+  File [35m"/kaggle/working/drafter-lora/check_head.py"[0m, line [35m15[0m, in [35m<module>[0m
+    model = load_ea_model(args.base, args.head)
+  File [35m"/kaggle/working/drafter-lora/common.py"[0m, line [35m61[0m, in [35mload_ea_model[0m
+    from eagle.model.ea_model import EaModel
+[1;35mModuleNotFoundError[0m: [35mNo module named 'eagle'[0m
+Traceback (most recent call last):
+  File [35m"/kaggle/working/drafter-lora/bench.py"[0m, line [35m27[0m, in [35m<module>[0m
+    model = load_ea_model(args.base, args.head)
+  File [35m"/kaggle/working/drafter-lora/common.py"[0m, line [35m61[0m, in [35mload_ea_model[0m
+    from eagle.model.ea_model import EaModel
+[1;35mModuleNotFoundError[0m: [35mNo module named 'eagle'[0m
+Traceback (most recent call last):
+  File [35m"/kaggle/working/drafter-lora/summarize.py"[0m, line [35m17[0m, in [35m<module>[0m
+    data = list(csv.DictReader([31mopen[0m[1;31m(path)[0m))
+                               [31m~~~~[0m[1;31m^^^^^^[0m
+[1;35mFileNotFoundError[0m: [35m[Errno 2] No such file or directory: 'results/smoke/stage1.csv'[0m
+Traceback (most recent call last):
+  File [35m"/kaggle/working/drafter-lora/bench.py"[0m, line [35m27[0m, in [35m<module>[0m
+    model = load_ea_model(args.base, args.head)
+  File [35m"/kaggle/working/drafter-lora/common.py"[0m, line [35m61[0m, in [35mload_ea_model[0m
+    from eagle.model.ea_model import EaModel
+[1;35mModuleNotFoundError[0m: [35mNo module named 'eagle'[0m
+Traceback (most recent call last):
+  File [35m"/kaggle/working/drafter-lora/summarize.py"[0m, line [35m17[0m, in [35m<module>[0m
+    data = list(csv.DictReader([31mopen[0m[1;31m(path)[0m))
+                               [31m~~~~[0m[1;31m^^^^^^[0m
+[1;35mFileNotFoundError[0m: [35m[Errno 2] No such file or directory: 'results/stage1_baseline.csv'[0m
+
+zip error: Nothing to do! (try: zip -qr drafter-lora-results.zip . -i drafter-lora/results drafter-lora/prompts)
+/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\|'
+  cells[i][c] = re.sub('\\\\\|', '|', cell)
+/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\_'
+  text = re.sub(r'_', '\_', text) # Escape underscores in display text
+[NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+[NbConvertApp] Writing 58343 bytes to __notebook__.ipynb
+[NbConvertApp] Converting notebook __notebook__.ipynb to html
+[NbConvertApp] Writing 447309 bytes to __results__.html

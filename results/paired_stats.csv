@@ -1,0 +1,10 @@
+comparison,prompts,before_mean,after_mean,mean_change,pct_change,ci95_low,ci95_high,after_higher,after_lower
+medical: mild LoRA vs original,93,2.874,2.934,0.059,2.1,-0.058,0.183,42,51
+medical: medium LoRA vs original,96,2.874,2.514,-0.36,-12.5,-0.472,-0.238,19,77
+medical: strong LoRA vs original,99,2.88,2.472,-0.407,-14.1,-0.508,-0.304,15,84
+medical (S3): strong LoRA vs original,99,2.88,2.472,-0.407,-14.1,-0.508,-0.304,15,84
+medical (S3): adapter vs no adapter,99,2.472,2.946,0.474,19.2,0.408,0.543,95,2
+medical (S3): adapter vs original,99,2.88,2.946,0.067,2.3,-0.051,0.194,46,52
+general (S3b): strong LoRA vs original,98,3.063,2.628,-0.435,-14.2,-0.548,-0.316,16,82
+general (S3b): adapter vs no adapter,98,2.628,2.945,0.317,12.1,0.259,0.375,82,3
+general (S3b): adapter vs original,99,3.056,2.95,-0.106,-3.5,-0.211,0.009,37,62

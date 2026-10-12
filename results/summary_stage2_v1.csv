@@ -1,0 +1,4 @@
+run,prompts,accept_len,ea_tok_per_s,base_tok_per_s,speedup,same_output_pct
+baseline (general),100,3.035,46.61,22.82,2.042,81.0
+original target (medical),100,2.861,42.41,21.92,1.935,73.0
+"LoRA target, original head (medical)",100,3.573,52.13,21.75,2.398,87.0

@@ -1,0 +1,1163 @@
+id,input_len,ea_new_tokens,ea_steps,accept_len,ea_time_s,ea_tok_per_s,base_new_tokens,base_time_s,base_tok_per_s,speedup,same_output,ea_text
+0d3453ee-77ef-400b-9e64-4ff5b6cbfcc8,67,107,41,2.6098,2.9924,35.76,107,5.3352,20.06,1.7829,True,"**Answer: D. 1 mm posterior to plane**
+
+**Explanation:**  
+In Ricketts esthetic plane, the **lower lip** rests **1 mm posterior to the esthetic plane**. This is a key anatomical reference point used in aesthetic dentistry to assess and correct lip position, particularly in cases of lip retraction or lip augmentation. The esthetic plane is the plane of the lip's natural contour, and the lower lip is slightly behind this plane to maintain a natural, aesthetically pleasing appearance."
+4080f3a3-a88c-4bcb-a8a3-2add0483fca0,54,244,100,2.44,7.3466,33.21,244,12.1208,20.13,1.6499,True,"**Answer: D. SIRS score**
+
+**Explanation:**  
+The **SIRS (Systemic Inflammatory Response Syndrome) score** is used to assess the severity of systemic inflammation and is commonly used to evaluate the risk of wound infection, especially in patients with wounds that are at higher risk of infection (e.g., in the elderly, immunocompromised, or post-surgery).
+
+- **SIRS score** is based on clinical findings such as:
+  - Tachycardia (>90 bpm)
+  - Tenderness on palpation
+  - Fever (>38°C)
+  - Hypoxia (PaO₂ < 60 mmHg)
+  - Wound exudate or purulence
+
+- It helps in identifying patients at risk for wound infection and guiding treatment.
+
+**Other options:**
+- **A. Glasgow coma scale** (GCS): Evaluates consciousness but not directly related to wound infection.
+- **B. Southampton score**: Used for assessing wound healing and complications, but not specifically for infection.
+- **C. Apgar score**: Evaluates newborns and not related to wound infection.
+
+**Correct Answer: D. SIRS score**"
+6bd02755-f813-46d8-87ff-e40297a2a949,54,181,64,2.8281,4.7181,38.36,181,8.9335,20.26,1.8935,True,"**Correct Answer: D. DHEA**
+
+**Explanation:**  
+The adrenal glands in females secrete **dehydroepiandrosterone (DHEA)**, which is a precursor to both estrogen and testosterone. While the adrenal glands in males are more active in producing testosterone, females also produce DHEA, which is converted into estrogen and testosterone in the body. DHEA is often referred to as the ""mother hormone"" of sex hormones. 
+
+**Other options:**
+- **A. Progesterone** is produced by the corpus luteum of the ovary, not the adrenal glands.
+- **B. Testosterone** is primarily produced by the testes, not the adrenal glands.
+- **C. Estrogen** is mainly produced by the ovaries, not the adrenal glands.
+
+Thus, **D. DHEA** is the correct answer."
+cb022556-5a47-402a-b52c-725b6c314e83,98,189,80,2.3625,5.8423,32.35,189,9.3616,20.19,1.6024,True,"**Answer: C. Guanylate cyclase**
+
+**Explanation:**  
+Sodium nitroprusside is a vasodilator used to treat hypertension and hyperteus. It is metabolized to form an **active metabolite** that acts by **activating guanylate cyclase**. 
+
+Guanylate cyclase is an enzyme that catalyzes the formation of **cyclic guanosine monophosphate (cGMP)** from guanosine triphosphate (GTP). cGMP then activates **smooth muscle relaxation** in blood vessels, leading to vasodilation.
+
+The active metabolite of sodium nitroprusside is **nitroprusside**, which acts by **activating guanylate cyclase** in target tissues (such as vascular smooth muscle), leading to **vasodilation** and reduced blood pressure.
+
+**Correct Option: C. Guanylate cyclase**"
+72b14998-6b80-45d4-ad70-9766f94e8026,59,184,68,2.7059,4.9604,37.09,184,9.0821,20.26,1.8309,True,"**Correct Answer: A. Divalent cation transporter**
+
+**Explanation:**  
+Iron enters the enterocyte (intestinal cell) primarily through **divalent cation transporter (DCT)**, which is part of the **sodium-dependent ferroportin** system. This transporter facilitates the uptake of **iron in the form of Fe²⁺** (ferrous iron) into the enterocyte. 
+
+**Other options:**
+- **B. Ferropoin** – This is not a known term. It might be a misspelling or incorrect term.
+- **C. Hephaestin** – This is a protein involved in iron metabolism but is not the primary transporter in the enterocyte.
+- **D. Ceruloplasmin** – This is an iron-binding protein in the blood, not involved in intestinal iron uptake.
+
+Thus, **A** is the correct and most accurate answer."
+8abcdea2-c351-4df7-ab42-8898201f9949,78,228,80,2.85,5.8765,38.8,228,11.2876,20.2,1.9208,True,"**Answer:** **D. Pulpless primary teeth next to the line of a palatal cleft**
+
+**Explanation:**  
+Pulpectomy is the removal of the pulp from a primary tooth, typically performed when the pulp is infected or inflamed. However, in cases where the pulp is **pulpless** (i.e., the tooth has no pulp), it is **not necessary** to perform a pulpectomy. 
+
+- **A. Primary teeth with sinus tract:** A sinus tract is a sign of pulp infection, so pulpectomy is indicated.
+- **B. Primary teeth without successor:** These teeth are often retained for future use, and pulpectomy is usually performed to prevent infection.
+- **C. Primary teeth with furcation pathology:** Furcation pathology (e.g., apical periodontitis) often requires pulpectomy.
+- **D. Pulpless primary teeth next to the line of a palatal cleft:** These teeth are **pulpless** and do not require pulpectomy because the pulp is already absent.
+
+Thus, **D** is the correct answer."
+7cc17f9f-5ecd-4e71-b32f-74fdf3a6537b,101,222,85,2.6118,6.2324,35.62,222,10.9917,20.2,1.7636,True,"**Correct Answer: C. Belongs to Herpes family**
+
+**Explanation:**
+
+A 22-year-old college boy who has had sexual contact with a commercial worker presents with a lesion in the genital region. The most likely diagnosis is **genital herpes**, which is caused by the **Herpes simplex virus (HSV)**, specifically **HSV-2**.
+
+- **HSV-2** is a **DNA virus**, not an RNA virus, so **D is incorrect**.
+- **Intracytoplasmic vacuolations (A)** are seen in some viral infections, but they are not specific to HSV.
+- **Multinucleated giant cells (B)** are seen in **tuberculosis** or **some other infections**, not specifically in HSV.
+- **Herpes family** includes **HSV-1, HSV-2, VZV (varicella-zoster virus)**, and **herpesvirus 6**, all of which cause genital herpes.
+
+**Therefore, the most likely finding is that the lesion belongs to the Herpes family.**"
+dec39d56-fcb3-4cf1-8e83-e09a09a8ce6e,91,258,93,2.7742,6.909,37.34,257,12.7497,20.16,1.8525,True,"**Correct Answer: C. Differentiates between Lactose fermenter and non-lactose fermenters**
+
+**Explanation:**  
+CLED (Columbia Lactose Enriched) media is a selective and differential medium used for the identification of bacteria. It is **selective** for lactose-fermenting bacteria and **differential** in that it distinguishes between lactose-fermenting and non-lactose-fermenting bacteria. 
+
+- **Lactose-fermenting bacteria** (e.g., *Staphylococcus aureus*, *E. coli*) produce acid and gas when they ferment lactose, which turns the medium from **blue to colorless** (due to the production of acid) and **bubbles** (due to gas).
+- **Non-lactose-fermenting bacteria** (e.g., *Enterobacter*, *Pseudomonas*) do not ferment lactose and do not produce acid or gas, so the medium remains **blue**.
+
+**Option C** correctly identifies that CLED media **differentiates between lactose fermenters and non-fermenters**, making it a **differential** medium.
+
+**Other options:**
+- **A** is incorrect because C"
+747359d5-2ce7-439e-b229-d04381853421,83,172,66,2.6061,5.0668,33.95,172,8.5473,20.12,1.6869,True,"**Answer: A. Respiratory acidosis**
+
+**Explanation:**  
+In this case, the patient has a **pH of 7.3** (which is **below 7.35**, indicating **acidosis**) and a **pCO₂ of 35 mm Hg** (which is **elevated**, indicating **respiratory insufficiency**).  
+
+- **Low pH** suggests **acidosis**.
+- **Elevated pCO₂** suggests **respiratory acidosis** (because high CO₂ levels lead to respiratory acidosis when the lungs can't expel CO₂ effectively).
+
+**Key point:**  
+Respiratory acidosis is characterized by **high CO₂** and **low pH**, which matches this scenario.  
+
+**Correct answer: A. Respiratory acidosis**."
+8ecc6a1a-b653-4b05-81f1-341c356e6c62,90,257,71,3.6197,5.2313,49.13,257,12.7587,20.14,2.4389,False,"**Answer: D. Breaking disulphide linkages**
+
+**Explanation:**
+
+Insulin is a heterodimer composed of two polypeptide chains, **A-chain** (21 amino acids) and **B-chain** (30 amino acids). The structure of insulin is stabilized by **disulphide bonds**, which are critical for its three-dimensional structure and function. These disulphide bonds are essential for the proper folding and activity of insulin.
+
+- **Interchange of A1 & A4** (Option A): This would disrupt the structure of the A-chain, potentially altering the conformation and function of insulin.
+- **Interchange of B29 & B30** (Option B): This would affect the B-chain structure, which is crucial for the formation of the disulphide bonds and the overall stability of the insulin molecule.
+- **Interchange of A5 & A6** (Option C): This would also disrupt the A-chain structure, which is vital for the correct folding and function of insulin.
+- **Breaking disulphide linkages** (Option D): This would **not** significantly alter the function of insulin because the disulphide bonds are not essential for the **primary function** of insulin ("
+f8c972d0-7aa8-45f7-a333-823c27dd5db8,63,257,92,2.7935,6.7966,37.81,257,12.7374,20.18,1.8741,True,"**Correct Answer: D. Foreign body in upper airway**
+
+**Explanation:**  
+The **maximum alveolar aerial oxygen difference (MAAOD)** is a measure of the difference between the oxygen in the alveoli and the oxygen in the blood. It reflects the **capacity of the alveoli to exchange oxygen** and is typically **increased** in conditions where there is **obstructive or restrictive lung disease** that limits gas exchange.
+
+- **Pulmonary embolism (A)**: This causes acute obstruction in the pulmonary arteries, but it does not directly affect the alveolar oxygen difference.
+- **Severe asthma (B)**: This causes airway obstruction and inflammation, but the MAAOD is not specifically increased in severe asthma.
+- **Interstitial lung disease (C)**: This involves fibrosis and reduced alveolar surface area, which can reduce gas exchange, but the MAAOD is not the primary measure in this condition.
+- **Foreign body in upper airway (D)**: This causes **obstruction** in the airway, leading to **hypoxia** and **hypercapnia**. The MAAOD is **increased** in this condition because the alveoli are unable to fully exchange oxygen"
+f4adbaa0-775b-4ef4-89e6-5f8b8290d6d9,61,191,68,2.8088,5.0171,38.07,191,9.5823,19.93,1.9099,True,"**Answer: B. Retinoblastoma**
+
+**Explanation:**  
+Retinoblastoma is the most common inherited malignancy in children, particularly in those under the age of 5. It is a type of eye cancer that arises from the retina and is often caused by a mutation in the **RB1** gene, which is inherited in an **autosomal dominant** manner. This makes it a **genetic disorder** and the most common inherited childhood cancer.
+
+While **neuroblastoma** (D) is also a common childhood cancer, it is typically **sporadic** and not inherited. **Wilm's tumor** (C) is also mostly sporadic, though it can occur in children with certain genetic syndromes. **Infant leukemia** (A) is a common cancer in infants but is not specifically inherited.
+
+Thus, **retinoblastoma** is the most common inherited malignancy."
+ff42704e-3996-4abe-a5b6-574344e7aaf0,76,188,63,2.9841,4.6324,40.58,188,9.4038,19.99,2.03,True,"**C. Islet cell hyperplasia**
+
+**Explanation:**  
+- **A. Abdominal trauma** – This is a known etiological factor for pancreatitis, especially in cases of **traumatic pancreatitis**.
+- **B. Hyperlipidemia** – This is a common cause of **acute pancreatitis**, particularly in patients with **fatty liver disease** or **high triglyceride levels**.
+- **D. Germline mutations in the cationic trypsinogen gene** – This is associated with **hereditary pancreatitis**, a genetic cause of the disease.
+- **C. Islet cell hyperplasia** – This is not a recognized etiological factor for pancreatitis. Islet cell hyperplasia is more commonly associated with **insulinomas** (a type of pancreatic tumor), not pancreatitis.
+
+**Correct answer: C. Islet cell hyperplasia**"
+662c0f6c-a3d9-48a4-b21a-0cc20ef76b87,55,258,87,2.9655,6.5049,39.66,257,12.7651,20.13,1.97,True,"**Answer: D. Arginine**
+
+**Explanation:**
+
+Buffering capacity refers to the ability of a solution to resist changes in pH when acid or base is added. This is determined by the **pKa values** of the amino acid residues and their **conjugate bases or acids**.
+
+- **Histidine (A)**: Has a **pKa of 1.8** (for the NH₃⁺ group), **6.0** (for the imidazole ring), and **pKa of 10.3** (for the side chain). It has **three pKa values**, which means it can act as a **tridentate buffer** in different pH ranges.
+
+- **Cysteine (B)**: Has a **pKa of 2.3** (for the thiol group), **8.4** (for the side chain), and **pKa of 10.5** (for the side chain). It also has **two pKa values**, so it can act as a **bidentate buffer**.
+
+- **Tyrosine (C)**: Has a **pKa of 2.2** (for the hydroxyl group), **9.1** (for the"
+b8e2e066-a036-4d14-8364-4e91a93812d5,99,257,104,2.4712,7.5893,33.86,257,12.7329,20.18,1.6777,True,"**Correct Answer: A. Increased activity of lipoprotein lipase and decreased activity of hormone sensitive lipase**
+
+**Explanation:**
+
+In **uncontrolled diabetes mellitus**, the body is unable to effectively clear triglycerides from the bloodstream. This is primarily due to:
+
+- **Increased activity of **lipoprotein lipase** (LPL):**  
+  LPL is an enzyme that breaks down triglycerides in lipoproteins (such as VLDL and chylomicrons) in the bloodstream. In diabetes, LPL activity is **increased**, leading to more triglyceride breakdown and more free fatty acids in the blood.
+
+- **Decreased activity of **hormone-sensitive lipase** (HSL):**  
+  HSL is responsible for breaking down triglycerides in adipose tissue. In diabetes, HSL activity is **decreased**, leading to reduced release of free fatty acids from fat stores.
+
+When both LPL and HSL are affected, it results in **elevated triglycerides** and **increased VLDL production**, which contributes to **metabolic syndrome** and **cardiovascular risk** in uncontrolled diabetes.
+
+**Incorrect options:**
+
+- **B. Increased activity of HSL"
+876a5607-e467-4745-b315-13812c405904,97,257,94,2.734,7.0266,36.58,257,12.8678,19.97,1.8313,True,"**Correct Answer: A. Spironolactone**
+
+**Explanation:**
+
+- **Primary amenorrhea** is the absence of menstrual periods and secondary sexual characteristics in a girl who has not developed puberty.
+- **Polycystic Ovary Syndrome (PCOS)** is a common cause of primary amenorrhea, especially in adolescents, and is characterized by hirsutism, irregular bleeding, and infertility.
+- **Spironolactone** is a **selective estrogen receptor modulator (SERM)** that blocks estrogen action in the ovaries and can **reduce androgen levels**. However, it is **not recommended** in PCOS due to the risk of **hyperkalemia (high potassium)** and **gynecomastia** (male breast enlargement), which can occur in women with PCOS.
+
+- **Tamoxifen** (B) is a **selective estrogen receptor modulator** used in PCOS to **induce ovulation** and is **recommended**.
+- **Oral Contraceptives (OCPs)** (C) are **used to regulate menstrual cycles** and **reduce androgen levels** in PCOS.
+- **Clomiphene citrate** (D) is a **first-line"
+16759fbf-ac94-4ec3-9fde-0702eee3eac5,58,105,36,2.9167,2.7229,38.56,105,5.3218,19.73,1.9545,True,"**C. Sham surgery**
+
+**Explanation:** A placebo is a treatment that has no active therapeutic effect, but it is perceived by the patient as having an effect. In the context of a sham surgery, the procedure is performed in a way that mimics a real surgery, but with no actual medical intervention. The patient may believe they are receiving a real surgery, which can lead to a psychological effect that improves their condition, even though there is no real medical benefit. This is a classic example of a placebo effect."
+37439d71-3558-4ceb-85af-8332c259afe1,123,260,80,3.25,5.9763,43.5,257,12.893,19.93,2.1825,False,"**Answer: A. Normal anion gap met acidosis**
+
+### Explanation:
+
+Let's analyze the data:
+
+- **pH = 7.40** – **Normal** (within the normal range of 7.35–7.45)
+- **pCO₂ = 40** – **Normal** (normal range is 35–45 mmHg)
+- **HCO₃⁻ = 25** – **Normal** (normal range is 22–26 mmol/L)
+- **Na⁺ = 145 mEq/L** – **Normal** (normal range is 135–145 mEq/L)
+- **Cl⁻ = 100 mEq/L** – **Normal** (normal range is 96–106 mEq/L)
+
+### Key Observations:
+
+- **pH is normal**, which suggests **no acidosis** in the **pH** sense.
+- **pCO₂ is normal**, so **no respiratory acidosis**.
+- **HCO₃⁻ is normal**, so **no metabolic alkalosis or acidosis** in the **HCO₃⁻** sense.
+
+### Anion Gap:
+
+- **Anion"
+16ce8442-864b-43f1-b815-f9096e55fa54,56,170,61,2.7869,4.5611,37.27,170,8.6093,19.75,1.8876,True,"**Correct Answer: B. Ethmoidal**
+
+**Explanation:**  
+The **ethmoidal sinus** is the first paranasal sinus to develop at birth. It forms during the embryonic development of the nasal cavity and is one of the first sinuses to be present in the infant. The other paranasal sinuses (maxillary, frontal, and sphenoidal) develop later, usually after the first few months of life.
+
+**Reasoning:**  
+- The ethmoidal sinus is located between the nasal cavity and the frontal bone.
+- It begins to form during the third to fourth weeks of gestation.
+- The other sinuses (maxillary, frontal, and sphenoidal) develop later, often after the first few months of life.
+
+**Thus, the correct answer is: B. Ethmoidal**."
+6343810a-6571-4662-b3a6-aa7e13a7c65b,82,195,63,3.0952,4.755,41.01,246,12.4142,19.82,2.0695,False,"**Correct Answer: B. By observing the movement of air water column in the tube during respiration**
+
+**Explanation:**  
+The ICD (Intercostal) tube is used in patients with respiratory distress or failure. To check its functioning, the **movement of the air-water column** in the tube during respiration is a key indicator. This movement confirms that the tube is patent and functioning properly, allowing for adequate ventilation. 
+
+- **Option A** is incorrect because continuous air bubbles in the underwater drain suggest a leak or blockage, not proper function.
+- **Option C** is incorrect because X-rays are not typically used to check the function of an ICD tube; they are used for imaging the lungs or chest.
+- **Option D** is incorrect because auscultation (listening to breath sounds) is used to assess respiratory function, not the movement of the air-water column in the tube.
+
+**Thus, B is the correct answer.**"
+52d643b9-6455-43f0-a04e-a838bf1ba1c8,73,258,90,2.8667,6.8208,37.83,257,12.9814,19.8,1.9106,True,"**Answer: D. ad**
+
+**Explanation:**
+
+- **Pure left-sided failure** refers to the failure of the **left side of the heart** (left ventricle or left atrium), which results in **fluid accumulation in the left side of the body** (e.g., pulmonary edema, left-sided heart failure).
+
+- **Atrial septal defect (ASD)**: This is a defect in the atrial septum, allowing blood to flow from the left atrium to the right atrium. It is **purely left-sided** (since it allows left-sided blood to enter the right side), and can lead to **left-sided heart failure** if not compensated for.
+
+- **Patent ductus arteriosus (PDA)**: This is a congenital condition where the ductus arteriosus remains open after birth. It allows **left-to-right shunting** of blood, which can lead to **left-sided heart failure** and **pulmonary hypertension**.
+
+- **Pulmonary valvular obstruction**: This refers to a blockage in the pulmonary valve, which can lead to **pulmonary hypertension** and **left-sided heart failure** (as the left ventricle has to work harder to pump blood to the"
+efbacdd9-1c25-4697-8ad9-377c7a8105b8,55,259,97,2.6701,7.1919,36.01,257,12.9361,19.87,1.8127,False,"**Correct Answer: D. Phenol**
+
+**Explanation:**  
+Boiled lobster syndrome refers to a condition where a person is poisoned by **phenol** (also known as carbolic acid), leading to severe systemic toxicity. The name ""boiled lobster syndrome"" comes from the fact that the poison is often ingested in a form that is highly soluble in water, and the body's metabolism of phenol can lead to severe symptoms, including:
+
+- Severe abdominal pain
+- Nausea
+- Vomiting
+- Diarrhea
+- Fever
+- Seizures
+- Coma
+- Death
+
+**Phenol** is a strong disinfectant and is commonly used in medical and industrial settings. It is also a known poison, especially in food and environmental contexts.
+
+**Other options:**
+- **A. Boric acid**: Causes poisoning by causing irritation and can lead to severe systemic effects, but it is not called ""boiled lobster syndrome.""
+- **B. HNO3 (nitric acid)**: Causes severe burns and toxicity, but not specifically associated with ""boiled lobster syndrome.""
+- **C. H2SO4 (sulfuric acid)**: Causes severe chemical burns and toxicity, but not specifically associated with ""boiled"
+360f90ec-189e-464a-a60d-ed9d9bda46ef,76,116,40,2.9,2.9752,38.99,116,5.9049,19.64,1.9847,True,"**Correct answer: A. 0.5-1 kg**
+
+**Explanation:**  
+In ophthalmological experiments, rabbits are commonly used for eye surgeries or studies. The typical weight range for rabbits used in such experiments is **0.5 to 1 kg**. This size allows for adequate surgical access and handling while keeping the animal relatively small and manageable for experimental procedures. Larger rabbits (e.g., 5-7 kg or 10-12 kg) are less commonly used in these types of experiments due to the increased complexity and difficulty in handling."
+09657fa4-eeb3-4860-8b8c-f2e25c7eabab,70,244,95,2.5684,7.076,34.48,253,12.9073,19.6,1.7592,False,"**Correct Answer: C. Optic nerve hypoplasia**
+
+**Explanation:**
+
+Enlargement of the blind spot (also known as **optic disc edema** or **optic disc swelling**) occurs in **optic nerve hypoplasia**. 
+
+- **Optic nerve hypoplasia** is a condition where the optic nerve is underdeveloped, leading to a larger blind spot (a region where vision is lost due to the lack of retinal ganglion cell axons crossing the optic nerve).
+
+- Other conditions listed do not typically cause an enlarged blind spot:
+
+  - **Primary open angle glaucoma** causes **degenerative changes** in the optic nerve and leads to **progressive vision loss**, not an enlarged blind spot.
+  - **Diabetic macular edema** affects the **retina** and causes **macular distortion**, not a blind spot.
+  - **Papilledema** is **increased intracranial pressure** causing **swelling of the optic disc**, but it does not cause an enlarged blind spot.
+
+Thus, **optic nerve hypoplasia** is the only condition where the **blind spot enlarges**."
+a1a782cf-d0f2-4645-a96d-79ef0cef3516,55,208,82,2.5366,6.105,34.07,193,9.6894,19.92,1.7105,False,"**Correct Answer: D. Miotic**
+
+**Explanation:**  
+Atropine is an anticholinergic drug with multiple uses, but it is **not** used as a **miotic** (muscle relaxant or mydriatic). Instead, atropine is used as a **miotic** to **dilate the pupil** (mydriasis) and **relax smooth muscles** in the gastrointestinal tract and bladder. 
+
+However, the question asks for **""A/E""** (antagonist of which), and the correct answer is **D. Miotic**, because **atropine is not used as a miotic**. 
+
+The **correct use of atropine** is in **organophosphorus poisoning** (A), **mushroom poisoning** (B), and **arrhythmia** (C). 
+
+So, the **incorrect** use (i.e., not a use of atropine) is **D. Miotic**.
+
+**Correct"
+5b612728-c228-4423-8fd8-fde0ff1d3f68,64,229,68,3.3676,5.1147,44.77,229,11.5569,19.81,2.2596,True,"**Correct Answer: C. Preclampsia is pregnancy**
+
+**Explanation:**  
+Preclampsia is a **medical condition** that occurs during pregnancy, characterized by high blood pressure and signs of damage to the mother's organs, typically the liver and kidneys. It is **not** a ""risk factor"" for the infant, but rather a **pregnancy-related condition** that can lead to complications for both the mother and the infant.
+
+The other options are not accurate criteria for an infant at risk:
+
+- **A. Working mothers** – This is a general risk factor for pregnancy complications but not a specific criterion for an infant at risk.
+- **B. Have not taken 100 days folic acid** – This is a known risk factor for neural tube defects, but it is not a direct criterion for an infant being at risk in the context of pregnancy.
+- **D. Malpresentation during birth** – This is a risk factor for complications during delivery, but not a direct indicator of an infant being ""at risk"" in the context of the question.
+
+Thus, **C** is the correct answer."
+0778d314-486a-4af0-b2bd-cab83e7e2166,100,260,92,2.8261,6.8889,37.74,257,12.9785,19.8,1.906,False,"**Answer: A. Viral meningitis**
+
+**Explanation:**
+
+- **Clinical Presentation:** The girl is 10 years old and presents with **fever convulsions**, **neck rigidity**, which are classic signs of **meningitis**.
+- **CSF Findings:**
+  - **Protein:** 150 mg (elevated in meningitis)
+  - **Sugar:** 40 mg (elevated in **viral** meningitis, as viruses typically do not destroy the blood-brain barrier, so sugar remains normal or low in bacterial meningitis)
+  - **Chloride:** 2500 mg (normal or slightly elevated in viral meningitis, but not specific)
+  - **Lymphocytic pleocytosis:** Common in **viral** meningitis, as the immune system responds with lymphocytes.
+
+- **Key Differentiation:**
+  - **Viral meningitis** typically has **low glucose** (not elevated), **normal chloride**, and **elevated protein**.
+  - **Bacterial meningitis** (e.g., pyogenic or tuberculous) would have **low glucose**, **elevated white blood cell count** (with neutrophils), and **"
+5c0f862f-2651-4ed4-88d4-2456dab0f036,85,258,81,3.1852,6.0565,42.6,257,12.995,19.78,2.154,True,"**Correct Answer: C. 12**
+
+**Explanation:**
+
+- **A patient with endotracheal intubation** (ETT) and **airway management** typically has a **stable airway** and is **not in acute distress**.
+- The **GCS (Glasgow Coma Scale)** is used to assess **consciousness** in patients with **trauma or neurological injury**.
+- A **GCS score of 12** is **moderate** and indicates **somnolence** or **confusion** but **not severe**.
+- A **GCS score of 15** is **normal** and indicates **清醒 (alert)**, which is typical for a patient with **stable airway** and **no neurological impairment**.
+- A **GCS score of 8** is **severe** and indicates **coma**, which is unlikely in a patient with **endotracheal intubation**.
+- A **GCS score of 10** is **moderate** and **possible** in a patient with **partial consciousness**.
+
+**Most likely GCS score** for a patient with **endotracheal intubation** and **no obvious neurological injury** is **"
+afd502ff-b700-4ecf-acec-f849331dd1ed,57,153,67,2.2836,4.963,30.83,167,8.3612,19.97,1.5435,False,"**Answer: C**
+
+**Explanation:**  
+During a **cochlear mastoidectomy**, the **lateral semicircular canal** is the **last** structure to be removed. The surgical sequence typically follows the order:  
+1. **Semicircular canals** (vestibular and lateral)  
+2. **Cochlea**  
+3. **Mastoid cavity**  
+
+Thus, the **arrow pointing to the lateral semicircular canal** would be the **third arrow** in the sequence.  
+
+If the options are labeled A, B, C, D in the order of removal (from outer to inner), then **C** would be the correct answer.  
+
+**Therefore, the correct option is: C**."
+5ce754b8-b358-4270-9bd1-8828700a19b1,53,253,83,3.0482,6.2088,40.75,253,12.7906,19.78,2.0601,True,"The question is about **scaling and root planing**, a common dental procedure to remove plaque and calculus from the tooth roots and to smooth the root surface to prevent further accumulation of plaque.
+
+### Key Concept:
+- **Blade angle** refers to the angle of the **dental scaler** blade relative to the tooth surface.
+- For **scaling and root planing**, the **blade should be at a 45° angle** to the tooth surface to effectively remove calculus and plaque from the **root surfaces** and **interdental spaces**.
+
+### Correct Answer:
+**A. A** (Assuming ""A"" refers to the 45° angle blade, which is standard for scaling and root planing)
+
+### Explanation:
+- A **45° blade angle** is optimal for **scaling and root planing** because it allows the scaler to:
+  - Reach **deep into the periodontal pocket**.
+  - Remove **calculus and plaque** from the **root surface**.
+  - Smooth the **root surface** to prevent **periodontal disease** recurrence.
+
+### Final Answer:
+**A. A**  
+**Explanation:** A 45° blade angle is appropriate for scaling and root planing."
+03952f72-4223-48bc-a0df-51af60400a7a,82,244,83,2.9398,6.1832,39.46,257,12.8964,19.93,1.9802,False,"**Correct Answer: D. IV carbamazepine**
+
+**Explanation:**
+
+In a patient who has been admitted for a seizure disorder (e.g., epilepsy) and has been on oral anticonvulsants (like valproate or lamotrigine), and the condition is not improved, the next step is to consider **IV anticonvulsants** for rapid control of seizures.
+
+- **Midazolam (A)** is a benzodiazepine used for status epilepticus, but it is not typically used as a first-line IV anticonvulsant for long-term control.
+- **I/V Phenobarbital (B)** is a barbiturate, but it is not commonly used as a first-line IV anticonvulsant for seizure control in patients with refractory seizures.
+- **Oral Valproate (C)** is not given IV; it is used orally.
+- **IV Carbamazepine (D)** is a first-line IV anticonvulsant for seizure control in patients with refractory or status epilepticus.
+
+**Therefore, IV carbamazepine is the most appropriate choice for this scenario.**"
+75ea3569-eb32-44a0-81dd-705aa50c2769,57,231,80,2.8875,6.0113,38.43,231,11.579,19.95,1.9262,True,"**Answer: A. Conduction velocity**
+
+**Explanation:**  
+The **diameter of the nerve fiber/axon** directly affects the **conduction velocity** of action potentials. Larger diameter fibers allow for faster propagation of electrical signals because the axon can carry the action potential more efficiently. This is due to the reduced resistance to the flow of ions, which is governed by the **myelination** and **cross-sectional area** of the axon.
+
+- **Refractory period** (B): This is the time during which the neuron cannot fire another action potential, and it is not directly related to the diameter of the axon.
+- **Latency period** (C): This is the time between the onset of the action potential and the onset of the response, and it is influenced by the distance traveled and the speed of conduction, but not directly by the diameter.
+- **Amplitude** (D): This refers to the strength of the action potential, which is related to the number of sodium channels open and not the diameter of the axon.
+
+Thus, the correct answer is **A. Conduction velocity**."
+a1e41d9c-2e03-4195-a5c9-73ee0ac1b8d1,75,213,61,3.4918,4.5544,46.77,204,10.2269,19.95,2.3446,False,"**Correct Answer: D. Ectoderm and endoderm**
+
+**Explanation:**
+
+The **oral cavity** (including the mouth, tongue, teeth, and palate) develops from **both the ectoderm and endoderm** during embryogenesis.
+
+- **Ectoderm** gives rise to the **outer layers** of the mouth, including the **epithelium** of the oral cavity and the **nerve cells** that form the **facial and oral structures**.
+- **Endoderm** gives rise to the **inner lining** of the oral cavity, including the **mucosa** and **glands** (e.g., salivary glands).
+
+While the **teeth** develop from **mesoderm** (as they are derived from the **mesoderm** in the **mesenchyme**), the **oral cavity** as a whole develops from **both ectoderm and endoderm**.
+
+**Correct Option: D. Ectoderm and endoderm**
+"
+62b9add2-a5e9-451f-92c2-2eee629ee143,105,259,87,2.977,6.5351,39.63,257,12.8611,19.98,1.9833,False,"**Correct Answer: C. Pulpectomy and root canal filling with gutta percha**
+
+**Explanation:**
+
+A **necrotic pulp** in a **central incisor** indicates that the pulp has died, but there are no other pathological findings (e.g., infection, abscess, or other complications). The treatment of choice in this case is **pulpectomy** (removal of the entire pulp) followed by **root canal filling with gutta percha**.
+
+- **Pulpectomy** is the removal of the pulp tissue, which is necessary when the pulp is necrotic and cannot be saved.
+- **Root canal filling with gutta percha** is the standard treatment to prevent reinfection and maintain the integrity of the tooth.
+- **Option A (Watchful observation)** is not appropriate because a necrotic pulp in a permanent tooth (central incisor) is not self-limiting and requires treatment.
+- **Option B (Extraction followed by space maintainer)** is not the best choice because the pulp is necrotic, and the tooth is still functional. Extraction would be a last resort, and a space maintainer is not needed if the pulp is not infected.
+- **Option D (Endodontic treatment and root"
+a432db53-67f5-4865-af52-18edf81d1225,69,226,85,2.6588,6.3028,35.86,226,11.2173,20.15,1.7797,True,"**Answer: A. Trophozoites**
+
+**Explanation:**  
+Transfusion-associated malaria occurs when a person receives blood from a carrier who is infected with **Plasmodium falciparum**. The **trophozoites** are the active, feeding stage of the parasite in the red blood cells. These trophozoites can be transmitted through the blood to a recipient, leading to a longer incubation period compared to other stages like gametocytes or merozoites. 
+
+- **Trophozoites** are the stage that is present in the blood and can be transmitted.
+- **Sporozoites** are injected into the bloodstream during the initial infection (e.g., from anopheles mosquito).
+- **Female gametocyte** is the stage that is present in the bloodstream but is not infectious.
+- **Merozoites** are the stage that infects red blood cells but are not present in the blood at the time of transmission.
+
+Thus, **trophozoites** are the reason for the **longer incubation period** in transfusion-associated malaria."
+20cbdec0-d488-4dcf-9630-2707c948390a,62,209,74,2.8243,5.4197,38.56,210,10.4886,20.02,1.9261,False,"**Correct option: B. Does not accumulate in tissues**
+
+**Explanation:**  
+The **volume of distribution (Vd)** is a theoretical volume that represents the total amount of a drug that would be needed to produce the observed concentration in the bloodstream. A **low volume of distribution** means that the drug remains mostly in the **circulatory system** (bloodstream) and does not distribute into tissues. This implies that the drug is **not readily accumulated in tissues**, which is why it is often used in situations where tissue accumulation is undesirable (e.g., in patients with certain conditions or in therapeutic windows that require steady plasma levels). 
+
+**Key points:**
+- **Low Vd** = Drug stays in blood, not in tissues.
+- **High Vd** = Drug distributes into tissues.
+- **Bioavailability (A)** and **absorption (C)** are different from Vd.
+- **Metabolism (D)** is related to drug elimination, not distribution.
+
+Thus, **B** is the correct answer."
+b6b91d49-7a30-4a9a-91e6-b2f20341470c,53,161,55,2.9273,4.1225,39.05,161,8.1086,19.86,1.9669,True,"**Answer:** A. Lordosis
+
+**Explanation:**  
+Normal curvature seen in the **lumbar** region is **lordosis**, which is the natural curve of the lower back. It is a **positive curvature** (inward curve) that helps distribute weight and maintain balance. 
+
+- **Kyphosis** (B) is a **negative curvature** (outward curve) in the thoracic spine, often seen in aging or disease.
+- **Scoliosis** (C) is a lateral curvature of the spine, not a normal curvature.
+- **Recurvatum** (D) is a condition where the spine becomes straightened, often due to muscle weakness or injury, and is not a normal curvature.
+
+Thus, **lordosis** is the correct answer."
+57336e68-8096-4fa9-89f5-36c05dcd5482,73,246,90,2.7333,6.6042,37.25,257,12.8274,20.04,1.8592,False,"**Answer: D. Pont's index**
+
+**Explanation:**
+
+- **Pont's index** is a **dental radiographic** analysis used to assess the **development of the deciduous dentition**, particularly in evaluating the **position and eruption of the first molars**. It is **always** associated with **radiographs** to determine the **position of the first molars** relative to the **canines** and **premolars**.
+
+- **Carey's analysis**, **Moyer's analysis**, and **Nance-Carey's analysis** are **all based on radiographic** evaluations of the **deciduous dentition**. These analyses are used to assess **dental arch development**, **molar position**, and **arch length**.
+
+- **Pont's index** is **not** based on **radiographs**. It is a **dental radiographic** analysis, but it is **not** used in **all** cases of mixed dentition analysis. It is **specifically** used to assess **molar position** and **arch development**, and it is **not** always required to use radiographs.
+
+**Correct Answer: D. Pont's index**"
+fe55c8c7-c6ba-4882-a3c0-15171d62e603,62,162,61,2.6557,4.5535,35.58,162,8.1963,19.76,1.8,True,"**Correct Answer: C. Doxycycline**
+
+**Explanation:**  
+Scrub typhus is caused by *Rickettsia rickettsii*, and the **preferred treatment** is **doxycycline**. It is effective in treating the disease and is typically given as a 10-day course. 
+
+- **Azithromycin** (A) is used for other rickettsial infections but is not the first-line treatment for scrub typhus.
+- **Ciprofloxacin** (B) and **chloramphenicol** (D) are **not recommended** for scrub typhus due to potential resistance and side effects.
+
+**Doxycycline** is the **most appropriate choice** for treating scrub typhus."
+da529e73-61fe-4b52-81b1-8686b6a62ffd,87,257,90,2.8556,6.7372,38.15,257,12.8518,20.0,1.9076,True,"**Answer: A. CME (Central Retinal Artery Occlusion)**
+
+**Explanation:**  
+The patient has a history of cataract surgery 1 year ago and is now presenting with **sudden painless loss of vision**. This is highly suggestive of **Central Retinal Artery Occlusion (CRAO)**, which is a **sudden, painless loss of vision** due to **blockage of the central retinal artery**.
+
+Key points:
+- **CRAO** is a **traumatic event** that can occur after cataract surgery due to **vasculature changes** or **inflammation**.
+- The **sudden onset** and **painless nature** are classic features.
+- **Chloroquine toxicity** (C) is a **rare cause** of sudden vision loss, but it is **not typically associated** with cataract surgery.
+- **Chronic choroiditis** (D) is a **chronic condition** and not associated with sudden vision loss.
+- **Macular hole** (B) is a **progressive condition** and would present with **progressive vision loss**, not sudden.
+
+Thus, **A. CME** is the most likely diagnosis."
+893ad532-01e8-421e-ac71-d5e8dfb882e5,63,243,76,3.1974,5.6319,43.15,243,12.1452,20.01,2.1565,True,"**D. Chronic active hepatitis**
+
+**Explanation:**  
+Wilson's disease is a genetic disorder that causes excessive accumulation of the metal copper in the body, leading to damage to various organs, particularly the liver and brain. In children, the common features include:
+
+- **A. Fanconi syndrome** – This is a feature of Wilson's disease, as it involves impaired renal function and excretion of electrolytes.
+- **B. Sensory changes** – These are common in Wilson's disease, especially in the nervous system, due to copper deposition in the brain.
+- **C. Hemolytic anemia** – This can occur due to copper-induced damage to red blood cells.
+- **D. Chronic active hepatitis** – This is **not** a typical feature of Wilson's disease. Wilson's disease primarily affects the liver, but it is not characterized by chronic active hepatitis. Instead, it is more commonly associated with **liver failure** and **hepatitis** in the context of **Wilson's disease with hemochromatosis** (a separate condition), but **chronic active hepatitis** is not a hallmark of Wilson's disease.
+
+**Correct answer: D. Chronic active hepatitis**"
+83b776f2-ae9a-42ec-8262-931b29af2d9f,86,248,87,2.8506,6.4255,38.6,195,9.8322,19.83,1.9461,False,"**Answer: B. 2a**
+
+**Explanation:**
+
+- **Pneumatosis coli** is a hallmark of **necrotizing enterocolitis (NEC)** and is often seen in the **abdominal X-ray** in infants with NEC.
+- The **stage of NEC** is determined based on the **severity of the disease** and the **progression of clinical and radiological findings**.
+- **Pneumatosis coli** is typically **stage 2a** in NEC, which is **moderate** and **progressing**.
+- **Stage 1a** is **mild** and may present with **abdominal distension** and **pneumatosis coli** but without **severe bowel involvement**.
+- **Stage 2a** is **moderate** and includes **pneumatosis coli**, **abdominal distension**, and **bowel wall thickening**.
+- **Stage 3a** is **severe** and may involve **complete bowel necrosis**, **septated bowel**, and **septated bowel wall**.
+
+Thus, the **correct staging** for this case is **2a**.
+"
+8e0eacd3-9755-426d-b1c5-2bff71295f88,55,187,70,2.6714,5.2388,35.7,187,9.4139,19.86,1.797,True,"**Answer: B. SIRS score**
+
+**Explanation:**  
+The **SIRS (Systemic Inflammatory Response Syndrome) score** is commonly used to assess the severity of systemic inflammation and is often employed to predict the risk of wound infection, especially in patients with compromised immune systems or those undergoing surgery. It evaluates signs of systemic inflammation, such as fever, tachycardia, tachypnea, and leukocytosis, and is used to guide treatment and prognosis.
+
+**Other options:**
+- **A. ASA score** (American Society of Anesthesiologists) is used to assess the patient's risk during surgery.
+- **C. Southampton score** is used for evaluating wound healing and complications in patients with chronic wounds.
+- **D. Glasgow score** is used for assessing brain injury and is not related to wound infection.
+
+Thus, **B. SIRS score** is the correct answer."
+e0c3fa32-b170-46e4-a748-9965e38ca3a9,77,159,55,2.8909,4.1048,38.73,127,6.3661,19.95,1.9416,False,"The correct answer is: **D. 7.5 K ohm**
+
+### Explanation:
+The electric resistance between the oral mucosa and the periodontal ligament (PDL) is **always constant** and is typically **around 7.5 K ohms**. This value is a well-established physiological reference in periodontology and is used in various clinical and research contexts, such as:
+
+- **Electrophysiological studies** of the periodontal ligament.
+- **Diagnostic tools** for assessing periodontal health.
+- **Biomechanical modeling** of the periodontal ligament.
+
+Other options (A–C) are not standard values for this specific resistance. Therefore, **7.5 K ohm** is the correct and consistent value."
+f6445d02-67c1-458d-8983-debf90b50ebc,74,237,83,2.8554,6.1346,38.63,237,11.817,20.06,1.9263,True,"**Correct Answer: B. Nucleus Tractus Solitarius**
+
+**Explanation:**
+
+The **nucleus tractus solitarius (NTS)** is a key nucleus in the brainstem that plays a crucial role in the **cardioinhibitory (heart rate reducing) function** of the autonomic nervous system. It receives sensory input from the body and sends signals to the cardiovascular system to regulate heart rate and blood pressure.
+
+- **Nucleus Ambiguus** (A): Involved in the formation of the facial nerve and regulates muscle tone in the neck and face.
+- **Rostral Ventrolateral Medulla** (C): Involved in the regulation of heart rate and blood pressure, but primarily in the **cardioexcitatory** (heart rate increasing) function.
+- **Dorsal motor nucleus of vagus** (D): Involved in the **cardioexcitatory** function of the vagus nerve, which can increase heart rate.
+
+Thus, the **nucleus tractus solitarius (NTS)** is the **only nucleus** that has a **cardioinhibitory** function."
+df493519-1b08-442e-853c-edd9ca4f6f57,81,194,67,2.8955,4.9266,39.38,194,9.7541,19.89,1.9799,True,"**Correct Answer: C. It prevents the cells from sticking to the slide surface**
+
+**Explanation:**  
+Leishmann's stain is used to stain protozoan parasites, such as *Leishmania*, which are present in blood. The stain contains **acetone-free methyl alcohol** (also known as **acetone**), which serves to **prevent the cells from sticking to the slide surface**. This is important for maintaining the integrity of the cells during microscopic examination. 
+
+While acetone-free methyl alcohol may have other effects (like fixing the cells or affecting their color), the primary function in Leishmann's stain is to **prevent adhesion** to the slide, allowing for better visualization of the parasites. 
+
+**Option A** is incorrect because acetone-free methyl alcohol does not fix the cells to the slide.  
+**Option B** and **D** are also incorrect because they describe functions of other components of the stain or unrelated processes."
+0447b9a2-22ec-449c-8a23-a52c28ac6b34,103,171,64,2.6719,4.8092,35.56,168,8.3466,20.13,1.7665,True,"The correct answer is:
+
+**D. TIBC, Ferritin, Transferrin saturation**
+
+### Explanation:
+
+In **iron deficiency anemia**, the following findings are typically observed:
+
+- **TIBC (Total Iron Binding Capacity)**: Increases because the body's ability to bind iron is reduced due to low iron stores.
+- **Ferritin**: Decreases because ferritin is a storage form of iron and its levels reflect the body's iron stores.
+- **Transferrin saturation**: Decreases because transferrin (the protein that carries iron in the blood) is less saturated with iron due to low iron stores.
+
+These three parameters are **used to diagnose iron deficiency anemia** and are commonly measured in clinical settings.
+
+### Correct Option:
+**D. TIBC, Ferritin, Transferrin saturation**
+
+Let me"
+17cb7e3f-0ca7-4937-a407-76bf9f401143,163,258,81,3.1852,6.029,42.79,257,12.8208,20.05,2.1348,True,"**Correct Answer: D. Extraction of 12 and RCT in 11**
+
+---
+
+### **Explanation:**
+
+Let's break down the clinical findings and their implications:
+
+- **12 (12-year-old boy)**:
+  - **Complicated crown fracture** with **abscess formation**.
+  - **Radiolucency** in relation to **11**.
+  - **Immature blunderbuss canal** (a sign of **odontogenic abscess** or **infection** in the **canal**).
+  - **11** has **complete root formation** and **vitality**.
+  - **21** is **negative** (no vitality).
+
+---
+
+### **Key Clinical Findings:**
+
+- **12 has an immature blunderbuss canal** → This suggests a **chronic infection** or **abscess** in the **canal**.
+- **Radiolucency** in relation to **11** → This indicates **bone resorption** or **abscess** around **11**, possibly due to **infection** or **inflammatory response**.
+- **11 is vital** → So it's **not a source of infection**.
+- **21 is"
+014ba2fe-d596-4265-bf46-616641ea4a9f,100,257,88,2.9205,6.5501,39.24,257,12.7639,20.13,1.9487,True,"**D. Non-invasive prenatal testing (NIPT)**
+
+**Explanation:**  
+The patient is a G3P2 (gravida 3, para 2) with a history of two children born with **thalassemia major**, which is a genetic disorder. Thalassemia is a chromosomal or genetic disorder, and the risk of recurrence can be assessed with genetic testing.
+
+**Non-invasive prenatal testing (NIPT)** is a safe, non-invasive test that analyzes cell-free fetal DNA from the mother's blood to assess for chromosomal abnormalities, including **trisomy 18, 13, and 21**. It is particularly useful in high-risk pregnancies, especially when there is a family history of genetic disorders.
+
+**Why not the other options?**
+- **A. Amniocentesis** is invasive and carries a higher risk of complications (e.g., preterm labor, infection), and is typically reserved for high-risk pregnancies.
+- **B. Chorionic villus sampling (CVS)** is also invasive and has a higher risk of complications, and is usually performed in the first trimester.
+- **C. Cordocentesis** is a more invasive procedure and is rarely used in routine"
+422e1a54-04f3-4193-ac55-61c4ae8b23a9,61,248,81,3.0617,6.0632,40.9,248,12.4458,19.93,2.0527,True,"**Correct Answer: B. Alpha ketoglutarate**
+
+**Explanation:**  
+The **alpha-ketoglutarate** is an intermediate of the **Krebs cycle** (also known as the citric acid cycle). It is a key precursor in the **heme synthesis pathway**, specifically in the **porphyrin ring formation**. 
+
+In the heme synthesis pathway, alpha-ketoglutarate is converted into **succinyl-CoA** via the **transamination** reaction, which is part of the **porphobilinogen** synthesis. This intermediate is crucial for the formation of **porphyrin**, which is a component of heme.
+
+**Other options:**
+- **A. Succinyl-CoA**: This is a product of the Krebs cycle, not an intermediate in heme synthesis.
+- **C. Citrate**: This is an intermediate in the Krebs cycle, but not directly involved in heme synthesis.
+- **D. Aspaate**: This is a typo for **aspartate**, which is involved in amino acid metabolism, not directly in heme synthesis.
+
+**Thus, the correct answer is B. Alpha ketoglutarate.**"
+59110b4f-4074-4293-aa6d-96b1a6b49b82,64,182,68,2.6765,5.0149,36.29,182,9.0419,20.13,1.803,True,"**Correct Answer: C. Metaproteronol**
+
+**Explanation:**  
+Metaproterenol (also known as metaproteronol) is a **beta-2 agonist** that is available for **subcutaneous administration**. It is commonly used in respiratory therapy to relieve bronchospasm and is often used in inhalation therapy, but it can also be administered subcutaneously.
+
+**Other options:**
+- **A. Albuterol** and **D. Pirbuterol** are **beta-2 agonists** used in inhalation therapy and are typically administered via inhalation or via a nebulizer.
+- **B. Terbutaline** is also a **beta-2 agonist** and is usually given via inhalation or intravenous routes.
+
+**Only Metaproteronol is specifically available for subcutaneous administration.**"
+074d6dbc-2825-4387-ada2-01725dd954e2,76,259,82,3.1585,5.9367,43.63,257,12.7964,20.08,2.1723,True,"**Correct Answer: D. Radioactive sodium and radioactive labelled albumin**
+
+**Explanation:**
+
+Interstitial fluid volume can be determined using **radioactive sodium and radioactive labelled albumin** because:
+
+- **Radioactive sodium** (e.g., sodium-22 or sodium-24) is used to measure interstitial fluid volume because it is freely diffusible across cell membranes and accumulates in the interstitial space.
+- **Radioactive labelled albumin** is used to measure the volume of interstitial fluid because albumin is a major protein in interstitial fluid and is not freely filtered by the glomerular barrier. The amount of albumin in the blood is relatively constant, so the amount of labelled albumin in the interstitial fluid can be used to estimate the interstitial fluid volume.
+
+**Other options are incorrect:**
+
+- **A. Radioactive iodine and radiolabelled water** – Iodine is used for thyroid function, not interstitial fluid volume.
+- **B. Radioactive water and radiolabelled albumin** – Water is not typically used to measure interstitial fluid volume.
+- **C. Radioactive sodium and radioactive water** – Water is not typically used to measure interstitial fluid volume.
+
+Thus, **D** is the correct"
+dc918205-fb3a-42a9-805e-ec2c3e1c7352,106,260,81,3.2099,5.9756,43.51,257,12.7734,20.12,2.1625,True,"**Correct Answer: B. Seminoma**
+
+**Explanation:**
+
+- **Clinical Presentation:** A 49-year-old male with a **painless mass in the left scrotal sac** and **microscopic hematuria**.
+- **Laboratory Findings:** **Alpha-fetoprotein (AFP)** and **lactate dehydrogenase (LDH)** are **negative**.
+- **Key Considerations:**
+
+  - **Seminoma** is a **gynecomastia** (male breast enlargement) **or** a **testicular mass**, and it is **common in men over 40**.
+  - It often presents as a **painless, solid mass** in the testicle.
+  - **Microscopic hematuria** is **not typical** in seminoma, but **can occur in some cases** (e.g., if the tumor is large and compresses the renal pelvis or ureter).
+  - **AFP** is **not elevated** in seminoma, which is **contradictory** to the **common association** of seminoma with **AFP elevation**. However, **in some cases**, especially in **advanced or large tumors**, **AFP may be low** due to"
+fec4f95e-7c1c-4e3e-9245-18cc14fe84e9,93,218,86,2.5349,6.3799,34.17,218,10.8272,20.13,1.6971,True,"**Correct Answer: B. Blocking voltage gated Ca²⁺ channels on presynaptic membrane**
+
+**Explanation:**  
+Acetylcholine (ACh) is released from the presynaptic membrane via exocytosis, which requires the influx of calcium ions (Ca²⁺) into the presynaptic terminal. Voltage-gated Ca²⁺ channels are activated by depolarization of the presynaptic membrane, allowing Ca²⁺ to enter and trigger the fusion of synaptic vesicles with the plasma membrane.
+
+- **A. Blocking voltage-gated Na⁺ channels** would prevent depolarization, which would reduce ACh release.
+- **B. Blocking voltage-gated Ca²⁺ channels** would prevent Ca²⁺ influx, which would reduce ACh release.
+- **C. Blocking voltage-gated K⁺ channels** would not directly affect ACh release.
+- **D. Blocking voltage-gated Cl⁻ channels** would not directly affect ACh release.
+
+Thus, **blocking voltage-gated Ca²⁺ channels** is the correct action that increases ACh release."
+4eb2c660-2893-450f-957c-536b6a6f9b3d,64,192,62,3.0968,4.5538,42.16,192,9.5818,20.04,2.1041,True,"**Correct Answer: C. Salivation on smelling food**
+
+**Explanation:**  
+The feed forward mechanism refers to the body's ability to anticipate and prepare for a stimulus before it occurs. In this case, **smelling food** is a **predictable and anticipated stimulus**. The brain anticipates the presence of food and triggers the salivary glands to secrete saliva, which is a **feed forward response**.
+
+- **A. Feeling thirsty while walking in hot temperature** – This is a **feedback response** (the body detects dehydration and responds by feeling thirsty).
+- **B. Shivering on exposure to cold temperature** – This is also a **feedback response** (the body detects cold and responds by shivering).
+- **D. Increase blood pressure during supine posture** – This is a **feedback response** (the body detects changes in posture and adjusts blood pressure accordingly).
+
+**Only C is a feed forward mechanism.**"
+7c6fe266-845b-4f4b-8ddb-ca5d016e0396,139,236,70,3.3714,5.279,44.71,236,11.7026,20.17,2.2168,True,"**Correct Answer: A. At least one case of non-polio AFP per year per 1000 population of under 5 years**
+
+**Explanation:**  
+The **Key indicator for AFP (Acute Flaccid Paralysis) surveillance** is typically based on **cases of non-polio AFP** per **10,000 population** of **under 5 years**. This is because **non-polio AFP** is a major cause of **childhood paralysis** in low- and middle-income countries, and early detection is critical for effective public health response.
+
+- **Option A** is correct because it uses **per 1000 population** of **under 5 years**, which is a commonly used threshold in AFP surveillance.
+- **Option B** is too high (per 100,000 population), which is not standard.
+- **Option C** uses **under 15 years**, which is not the standard age group for AFP surveillance.
+- **Option D** is also too high (per 100,000 population).
+
+**Thus, the correct answer is A.**"
+e5be7962-590f-4590-bb2b-84860a14a42a,63,262,96,2.7292,7.1162,36.82,257,12.8076,20.07,1.8348,True,"**Correct Answer: A. Metabolic acidosis**
+
+**Explanation:**
+
+Massive blood transfusion can lead to **metabolic acidosis** due to the following reasons:
+
+- **Hemolysis**: When large volumes of blood are transfused, it can cause **hemolysis** (rupture of red blood cells), releasing **heme** into the bloodstream. Heme breaks down into **bilirubin** and **iron**, and **bilirubin** is a **weak base** that can cause **metabolic alkalosis** in some cases, but **metabolic acidosis** is more commonly associated with **lactic acidosis** or **uremic acidosis** from **hypovolemia** or **renal failure**.
+
+- **Lactic acidosis**: In cases of **hypovolemia** (low blood volume), the body may not be able to deliver enough oxygen to tissues, leading to **lactic acid accumulation** and **metabolic acidosis**.
+
+- **Ketoacidosis**: In rare cases, **ketoacidosis** can occur if there is **excessive insulin deficiency** or **renal failure**, but this is not the most common complication of massive blood transfusion.
+
+- **Respiratory acidosis**: This can"
+20f29076-98f9-479b-a77b-96fae28d5689,129,259,87,2.977,6.4747,40.0,257,12.7408,20.17,1.9831,True,"**Answer: A. VHL syndrome**
+
+**Explanation:**  
+The clinical presentation of a 48-year-old female with **seizures, recurrent gross hematuria, and left flank abdominal pain** along with **left perinephric hematoma and multiple angiomyolipomas** (1.5–6.5 cm) is highly suggestive of **von Hippel-Lindau (VHL) syndrome**.
+
+- **VHL syndrome** is a **genetic disorder** characterized by the **development of benign tumors** (angiomyolipomas) in various organs, including the kidneys, brain, and adrenal glands.
+- The **renal angiomyolipomas** are **common** in VHL and can cause **hematuria, flank pain, and even hematomas** due to their **vascular nature**.
+- **Seizures** may occur due to **neurological involvement** (e.g., brain tumors or seizures from the vascular anomalies).
+- **Autosomal dominant polycystic kidney disease (ADPKD)** is **not** associated with angiomyolipomas, and **Tuberous sclerosis** is associated with **tuberous lesions** and **neurocutaneous tumors**, not angiomyolip"
+bdc34663-b39a-47bb-b034-7f804e437c09,89,257,100,2.57,7.3491,34.97,257,12.7639,20.13,1.7368,True,"**Answer: A. Akathisia**
+
+**Explanation:**  
+The patient is on **5 mg haloperidol** for many days and is now experiencing **inner restlessness and urges to move**. This is most consistent with **akathisia**, a common extrapyramidal side effect of antipsychotics like haloperidol.
+
+- **Akathisia** is characterized by **restlessness, a feeling of being ""driven"" or ""unrestful,"" and an urge to move**, often described as a ""parking lot"" sensation.
+- It is **not** a movement disorder in the same way as **tardive dyskinesia** (which involves involuntary movements like grimacing or lip-smacking).
+- **Tardive dyskinesia** typically develops after prolonged use of antipsychotics and involves **involuntary, repetitive movements**.
+- **Rabbit syndrome** is a rare condition associated with **dopamine receptor blockade**, but it is not commonly seen with haloperidol.
+- **Acute dystonia** is a severe form of movement disorder, usually associated with **acute poisoning** or **rapid dose escalation**, not prolonged antipsychotic use.
+
+Thus, the most likely diagnosis is **"
+e342fc89-9875-4188-9009-b9065fdf5b9c,54,104,27,3.8519,2.0035,51.91,104,5.1909,20.04,2.5909,True,"**Answer: D. Al, V**
+
+**Explanation:**  
+In the **alpha phase** of Ti6Al4V, the stable elements are **Al** and **V**. 
+
+- **Ti** is the base metal, but it is not stable in the alpha phase.
+- **Al** (aluminum) is stable in the alpha phase.
+- **V** (vanadium) is also stable in the alpha phase.
+
+Thus, the correct answer is **D. Al, V**."
+18d5c4a1-cb81-41a8-9bfc-b6f7dec431d2,58,240,94,2.5532,6.8678,34.95,241,12.0315,20.03,1.7446,False,"**Answer: A. Ventricular bigeminy**
+
+**Explanation:**  
+Ventricular bigeminy is a rhythm where the ventricular rate is 3-4 times per minute, and the rhythm is regular. It is characterized by **two normal beats followed by one premature ventricular contraction (PVC)**. This is a **rhythmic abnormality**, not a structural heart disease, and is often seen in conditions like **ischemic heart disease**, **hypertrophic cardiomyopathy**, or **electrolyte imbalances**.
+
+- **B. Electrical alternans** is a **structural** finding, not a rhythm. It refers to the **alternating amplitude** of the QRS complex in the electrocardiogram (ECG), which is a sign of **fluid overload** or **cardiogenic shock**.
+- **C. P pulmonale** is a **pulmonary sign**, indicating **pulmonary hypertension** or **right-sided heart failure**.
+- **D. Left ventricular failure** is a **clinical syndrome** and not a direct ECG finding.
+
+**Correct Option: A. Ventricular bigeminy**"
+65bef933-00cc-4f7b-8ca0-a77f2fe92c57,62,213,82,2.5976,5.9766,35.64,212,10.5189,20.15,1.7683,True,"**Answer: C. Schedule X**
+
+**Explanation:**  
+Schedule X drugs are **prescription-only medications** in the U.S. under the Controlled Substances Act. These drugs are classified as **Schedule X** due to their high potential for abuse and dependence, and they must be prescribed by a licensed medical practitioner. 
+
+Other schedules (A, B, D) are not prescription-only; they are classified based on their potential for abuse and medical use, but they are not necessarily restricted to prescription-only sale. For example:
+
+- **Schedule H** (e.g., **Opioids**) are **prescription-only** in many states, but not all.
+- **Schedule G** (e.g., **Amphetamines**) are **prescription-only** in some states.
+- **Schedule M** (e.g., **Cocaine**) are **prescription-only** in some states.
+
+However, **Schedule X** is **strictly prescription-only** and must be dispensed only with a valid prescription by a licensed medical practitioner.
+"
+97bd8c32-3ea6-41e1-856e-b9a91d20e643,56,196,75,2.6133,5.6379,34.76,195,9.7248,20.05,1.7338,True,"**Correct Answer: C. PDA**
+
+**Explanation:**  
+Infective endocarditis is most commonly seen in patients with **patent ductus arteriosus (PDA)**. This is because the patent ductus arteriosus is a congenital abnormality that allows blood to flow from the aorta to the pulmonary artery, creating a left-to-right shunt. In the presence of endocarditis, the bacteria can travel from the bloodstream to the heart valves, particularly the **aortic valve** and **mitral valve**, due to the shunt. 
+
+While other congenital heart defects like **ASD (Atrial Septal Defect)**, **VSD (Ventricular Septal Defect)**, and **Pulmonary Stenosis** can also be associated with endocarditis, **PDA** is the most common site for **infective endocarditis** in the context of congenital heart disease.
+"
+770a2934-5df3-4d53-a79c-0d4358b95016,65,147,58,2.5345,4.284,34.31,147,7.359,19.98,1.7178,True,"**Answer:** B. Ovary
+
+**Explanation:**  
+Intraocular metastasis (spread of cancer to the eye) in a female most commonly occurs from **ovarian cancer**. This is because the ovary is a common site for metastatic ovarian cancer, and approximately 10-15% of ovarian cancer cases are associated with intraocular metastasis. 
+
+While other gynaecological cancers, such as **endometrial** (D), **cervical** (C), and **breast** (A), can also metastasize to the eye, **ovarian cancer** is the most frequent source of intraocular metastasis in females.
+
+**Correct Option: B. Ovary**"
+725d9973-1082-4c9b-b4fb-9c63a4615e63,62,95,31,3.0645,2.3419,40.57,95,4.8055,19.77,2.052,True,"**Correct answer: D. 4 weeks**
+
+**Explanation:**  
+Postherpetic neuralgia (PHN) is defined as pain that lasts **more than 4 weeks** after the onset of shingles (herpes zoster). It is a common complication of shingles and is characterized by persistent pain in the area of a shingles rash. The duration of pain is the key diagnostic criterion for PHN.
+
+**Answer: D. 4 weeks**"
+0fc0b4ce-9bfd-48a2-920d-88c67e2c4e9c,126,260,90,2.8889,6.5717,39.56,257,12.8063,20.07,1.9714,True,"**Answer: B. Hypertensive intracranial hemorrhage**
+
+**Explanation:**
+
+- The patient is a 26-year-old woman who had **fetal distress** and **LSCS (Laparotomy for fetal distress)**, which is a common procedure in cases of fetal distress.
+- She had **mild hypertension** during pregnancy, which is a risk factor for **intracranial hemorrhage**.
+- Two days post-delivery, she presents with **headache and seizures**, which are **non-specific** but **suggestive** of **intracranial pathology**.
+- **Proteinuria was not present**, which rules out **eclampsia** (which typically presents with proteinuria).
+- **CT scan shows a 2 x 3 cm parasagittal hematoma**, which is **consistent with a hypertensive intracranial hemorrhage**—a common complication of **preeclampsia or chronic hypertension** in pregnancy.
+- **Hypeensive intracranial hemorrhage** is the most likely diagnosis here, as it explains the **headache, seizures**, and **hematoma** without the presence of **proteinuria**.
+
+**Incorrect options:**
+- **A. Eclampsia**:"
+be168ef1-fee0-4f80-9c60-6259e78b56b9,66,187,65,2.8769,4.7863,39.07,187,9.3284,20.05,1.949,True,"**Correct Answer: B. 90 minutes**
+
+**Explanation:**  
+Migratory motor complexes (MMCs) are rhythmic contractions of the gastrointestinal tract that occur in the small intestine, primarily in the **duodenum and jejunum**. These complexes are essential for maintaining gut motility and preventing stagnation of food. 
+
+MMC activity typically **reappears after intervals of 90 minutes**, which is the **normal interval** between successive cycles of these motor waves. This pattern is part of the **gut's natural rhythm** and is important for efficient digestion and nutrient absorption.
+
+**Other options are incorrect** because:
+- **60 minutes** is too short for a full MMC cycle.
+- **120 minutes** and **150 minutes** are longer than the typical interval between MMCs.
+
+Thus, the correct answer is **B. 90 minutes**."
+8729556c-a513-42d6-abc1-ed7f6c9ca397,106,259,96,2.6979,7.0419,36.78,257,12.8322,20.03,1.8365,False,"**Correct Answer: A. Risperidone**
+
+**Explanation:**
+
+The patient presents with **abnormal excessive blinking and grunting**, which are **manifestations of a movement disorder**—specifically **tardive dyskinesia**. This is often associated with **antipsychotic medications**, particularly **first-generation antipsychotics** like **imipramine** and **carbamazepine**, which are known to cause extrapyramidal side effects (EPS).
+
+However, **risperidone** is a **second-generation antipsychotic** (atypical antipsychotic) that is **more effective at preventing EPS** compared to first-generation antipsychotics. It is also used in the management of **tardive dyskinesia**.
+
+**Why not the other options?**
+
+- **B. Imipramine** – A tricyclic antidepressant, not used for movement disorders. It is more associated with **serotonin syndrome** or **neuroleptic malignant syndrome** in high doses.
+- **C. Carbamazepine** – A valproate derivative, used for **epilepsy** and **seizures**, but not for movement disorders.
+- **D. M"
+1348a664-1ccc-422f-a083-91d77cb24b92,46,166,60,2.7667,4.3543,38.12,166,8.1848,20.28,1.8797,True,"**Correct Answer: B. Meteorological**
+
+**Explanation:**  
+The natural disaster that causes the **maximum deaths** is typically a **meteorological** event. Examples include **tornadoes, hurricanes, typhoons, and severe thunderstorms**. These events often occur in **highly populated areas** and can cause **strong winds, heavy rainfall, flooding, and lightning**, which can lead to **mass casualties**. 
+
+While **geological** events like earthquakes and volcanic eruptions can also cause significant loss of life, **meteorological** events are generally associated with **higher death tolls** due to their **intensity and widespread impact**. 
+
+**Note:** The question is somewhat ambiguous, but **meteorological** is the most commonly accepted answer for the natural disaster causing the **maximum deaths**."
+0489f20c-a0ce-4251-9eec-e8d5e691a49e,79,264,82,3.2195,6.0466,43.66,257,12.7866,20.1,2.1723,False,"**Correct Answer: B. Bradycardia with AV Block**
+
+**Explanation:**
+
+Metoprolol and Verapamil are both **cardioselective beta-blockers** and **calcium channel blockers**, respectively. When these two drugs are used together, they can cause **drug interactions** that lead to **bradycardia (slow heart rate)** and **AV block (atrioventricular conduction delay)**.
+
+- **Verapamil** is a **calcium channel blocker** that slows conduction through the AV node and can cause **AV block**.
+- **Metoprolol** is a **beta-blocker** that also slows heart rate and can cause **AV block**.
+- Together, they can lead to **reduced heart rate** and **delayed AV conduction**, resulting in **bradycardia with AV block**.
+
+**Other options:**
+- **A. Atrial fibrillation**: Not typically a result of metoprolol and verapamil together.
+- **C. Torsades de pointes**: This is a type of **ventricular tachycardia** caused by **QT interval prolongation**, which is not typically associated with metoprolol and verapamil.
+- **D. Tachyc"
+bee78f93-a09e-491f-856e-846b81e4aa5c,88,160,54,2.963,4.0212,39.79,167,8.2339,20.28,1.9618,False,"**Answer: A. Extended treatment for diabetic retinopathy study**
+
+**Explanation:**  
+ETDRS stands for **""Early Treatment for Diabetic Retinopathy Study""**. It is a well-known clinical study that evaluates the progression and treatment of diabetic retinopathy. The term ""Extended"" in the option refers to the long-term follow-up and study design of the original ETDRS study, which focused on the long-term effects of treatment on diabetic retinopathy. However, the standard and widely recognized name is **""Early Treatment for Diabetic Retinopathy Study""** (ETDRS), not ""Extended."" 
+
+The correct answer is **A**, but it's important to note that the full name is **ETDRS**, not ""Extended ETDRS."""
+4c0b406e-5d78-4f1d-99ca-c51f8d240e4f,117,243,76,3.1974,5.6525,42.99,243,12.1378,20.02,2.1474,True,"**Correct Answer: D. Singeing of eyebrows and facial hair**
+
+**Explanation:**
+
+- **A. Yellow colored sputum** – This is a common sign of **inhalation burns**, as the heat from the fire can cause irritation and damage to the airways, leading to mucus production and yellow sputum.
+
+- **B. Blackish soot deposit on posterior pa of tongue** – This is a classic sign of **inhalation burns**, as soot and ash from the fire can be deposited in the mouth and throat.
+
+- **C. Hoarseness & stridor of voice** – These are signs of **airway injury** from inhalation burns, leading to vocal cord damage and respiratory distress.
+
+- **D. Singeing of eyebrows and facial hair** – This is **not** a sign of **inhalation burns**. Singeing of hair is more commonly associated with **thermal injury to the skin**, not to the airway. It is a sign of **burn depth and severity**, but not a direct indicator of inhalation injury.
+
+**Thus, D is the correct answer, as it is not a proof of inhalation burns.**"
+3745bf96-43aa-40b2-ae62-3be01c0f92a4,95,259,94,2.7553,6.9578,37.22,257,12.8915,19.94,1.8672,False,"**Correct Answer: C. Ongoing pregnancy**
+
+**Explanation:**
+
+A **spontaneous abortion** (miscarriage) followed by **secondary amenorrhea** (loss of menstrual cycle) suggests that the **ovulatory function has been disrupted**. 
+
+- **FSH (Follicle-Stimulating Hormone)** is **elevated** in **secondary amenorrhea** due to **ovarian dysfunction**. However, in this case, **FSH is 6 IU/mL**, which is **low** for a woman who has had a spontaneous abortion and is now amenorrheic. 
+
+- **Ovarian failure (A)** would typically result in **high FSH** (elevated), not low.  
+- **Pituitary failure (B)** would also lead to **high FSH**, not low.  
+- **Uterine synechiae (D)** would cause **amenorrhea** but would not typically cause **low FSH**.  
+- **Ongoing pregnancy (C)** would **prevent** the **ovulation** and **hormonal changes** that lead to **amenorrhea**, and would **not** cause **low FSH**. 
+
+In this case, the **"
+28709e53-cbb8-48d9-aa3e-44aaa7037257,57,110,44,2.5,3.2964,33.37,110,5.4963,20.01,1.6674,True,"**Answer: D. >50%**
+
+**Explanation:**  
+Moality (mortality) following emergency abdominal aortic surgery is a well-known complication. Studies have shown that the mortality rate can be as high as **>50%** in certain cases, particularly in patients with comorbidities, severe aortic pathology, or complex surgical procedures. This rate is higher than in other types of abdominal surgery and underscores the importance of careful patient selection and preoperative evaluation. 
+
+**Correct Option: D. >50%**"
+7912bdab-3d26-40a1-91c3-9d52e760b930,83,168,58,2.8966,4.3063,39.01,168,8.3971,20.01,1.9499,True,"**Answer: B. Sackett**
+
+**Explanation:**  
+The ""gold-standard"" for providing evidence for therapeutic decision making is indeed a concept that was first proposed by **David Sackett**, a pioneer in evidence-based medicine. He is often referred to as the ""father of evidence-based medicine."" The description of a prospectively evaluated, double-blinded, randomized clinical trial is a key component of the **randomized controlled trial (RCT)**, which is considered the highest level of evidence in medical research.
+
+While other figures like Hippocrates (the father of medicine) and da Vinci (a Renaissance physician) made significant contributions to medical knowledge, **Sackett** is the one who formalized the concept of evidence-based medicine and the RCT as the gold standard. 
+
+**Correct Option: B. Sackett**"
+2f6be3a1-0736-4ec3-9e42-aa9732e401d6,95,254,93,2.7312,6.8637,37.01,253,12.5176,20.21,1.8309,True,"**Answer: A. Pentazocine**
+
+**Explanation:**
+
+Pentazocine is a **mixed opioid agonist-antagonist** drug, meaning it has **agonist activity at kappa receptors** and **antagonist activity at mu receptors**. This makes it particularly useful in patients with a history of **opioid dependence** or **renal disease**, as it has a **lower risk of respiratory depression** and **less potential for abuse** compared to full opioid agonists.
+
+- **Buprenorphine** is a **partial opioid agonist** (μ-receptor agonist) and is used in **opioid substitution therapy** (e.g., for opioid use disorder), but it is **not a kappa receptor agonist**.
+- **Tramadol** is an **opioid agonist** (μ-receptor) with **limited kappa receptor activity**.
+- **Fentanyl** is a **full opioid agonist** and does not act at kappa receptors.
+
+Thus, **Pentazocine** is the most appropriate choice for a patient with **renal stones** and **pain in the right lower quadrant** who requires **kappa receptor agonist activity** and **mu receptor antagonist activity**.
+"
+c5bc52bf-c316-48d2-9c03-ed4ac17338ab,66,249,85,2.9294,6.408,38.86,249,12.4881,19.94,1.9488,True,"**Correct Answer: D. Metformin**
+
+**Explanation:**  
+Polycystic Ovary Syndrome (PCOS) is a common endocrine disorder in women of reproductive age, characterized by insulin resistance, hyperandrogenism, and ovarian cysts. In PCOS, **insulin resistance** is a key feature, and **metformin** is the **first-line treatment** for insulin resistance in PCOS. It improves insulin sensitivity and can help with ovulation and fertility.
+
+**Drug not given in PCOD (PCOS) in a 30-year-old lady with infertility:**
+
+- **Clomiphene (A)**: Used for ovulation induction in PCOS.
+- **Tamoxifen (B)**: Used for breast cancer prevention or treatment, and also in PCOS for ovulation induction (less commonly).
+- **OCPs (C)**: Oral contraceptives are often used in PCOS to regulate menstrual cycles and reduce androgen levels.
+- **Metformin (D)**: **Not** typically given as a first-line treatment for infertility in PCOS, though it is used to manage insulin resistance.
+
+**Thus, the correct answer is D. Metformin.**"
+543b341f-7350-4a9b-9bc6-63a1a2cee1e8,57,131,37,3.5405,2.7651,47.38,131,6.5186,20.1,2.3574,True,"**Answer: A. CRISPR**
+
+**Explanation:**  
+CRISPR is a revolutionary gene-editing technology that allows scientists to make precise changes to DNA. It is widely used in research and medicine for editing genes, correcting genetic defects, and treating diseases. 
+
+- **B. Gene Xpe** is not a recognized term in gene editing.  
+- **C. Big Data** is used in analyzing genetic information but is not a tool for direct gene editing.  
+- **D. HealthCare App** is a tool for managing health but not for gene editing.
+
+Thus, **A. CRISPR** is the correct answer."
+8db7e145-052a-4774-9a5f-db3c4e9ac1d6,85,261,83,3.1446,6.1998,42.1,257,12.8602,19.98,2.1066,False,"The correct answer is **D. 146 cm**.
+
+### Explanation:
+In forensic anthropology, there is a well-known **humeral length-to-height ratio** that is used to estimate the height of a person based on the length of their humerus (the bone between the elbow and the wrist). The general rule is:
+
+- **Humerus length (in cm) × 2.8 = estimated height (in cm)**
+
+Using this formula:
+
+$$
+24.5 \, \text{cm} \times 2.8 = 68.6 \, \text{cm}
+$$
+
+Wait — this result is **too short** for a human. This suggests that the formula might be used **for adults** and the **humerus length is measured from the elbow to the middle of the humerus**, not from the end of the bone.
+
+Let’s use a more accurate and commonly used formula:
+
+- **Humerus length (in cm) × 2.7 = estimated height (in cm)**
+
+$$
+24.5 \, \text{cm} \times 2.7 = 66.15 \, \text{cm}
+$$
+
+This is still **too short** for a human,"
+28e47981-c859-48ad-a4b9-14a13c5b3a34,83,150,59,2.5424,4.351,34.47,163,8.0437,20.26,1.7013,False,"**Answer:** A. Radical cure of Plasmodium vivax
+
+**Explanation:**  
+Tafenoquine is a **radical cure** agent specifically used for **Plasmodium vivax** malaria. It is effective in eliminating both the gametocyte and sporozoite stages of the parasite, which is crucial for a complete cure, especially in cases where the infection is chronic or recurrent. It is not used for **falciparum malaria** (which is caused by *P. falciparum* and is more severe), **prophylaxis of malaria in pregnancy**, or **endemic malaria in children < 2 years**. These uses are typically handled by other antimalarial drugs."
+46653ca7-d61a-4d6a-a135-91309eff9b49,58,204,68,3.0,5.0705,40.23,204,10.2562,19.89,2.0227,True,"**D. Disability adjusted life years (DALY)**
+
+**Explanation:**  
+The **Disability Adjusted Life Years (DALY)** is considered the best index for measuring the **burden of disease** because it combines both **mortality** and **disability** caused by disease. It quantifies the total number of years lost due to disease, including those lost due to disability, which provides a comprehensive measure of the overall impact of disease on a population. 
+
+- **Morbidity data** (B) measures the number of people with a disease, but it does not account for the severity or impact of the disease.
+- **Case fatality rate** (A) measures the proportion of people with a disease who die from it, which is not a comprehensive measure of disease burden.
+- **Dependency ratio** (C) measures the proportion of the population that is dependent on others, which is not directly related to the burden of disease.
+
+**Correct Answer: D. Disability adjusted life years**"
+678018c2-3154-4411-937e-0e5d4116739f,74,198,71,2.7887,5.292,37.42,198,9.8883,20.02,1.8685,True,"**Answer: B. Alkylation**
+
+**Explanation:**  
+Euchromatin is a loosely packed, transcriptionally active form of chromatin. **Methylation** (A) of cytosine residues at CpG islands is a key regulatory mechanism that can either activate or repress gene expression. **Phosphorylation** (C) and **sumoylation** (D) are post-translational modifications that can also influence chromatin structure and gene expression. However, **alkylation** (B) refers to the addition of alkyl groups to DNA, typically by enzymes like **DNA methyltransferase**, which is involved in **methylation** of cytosine, not alkylation. Alkylation is a different process, often associated with **DNA repair** or **mutagenesis**, not directly related to the regulation of euchromatin. 
+
+Thus, **alkylation** does not directly cause changes in euchromatin structure or function."
+93308f4a-1927-4596-981a-58f373a9707e,64,209,69,3.029,5.1407,40.66,209,10.37,20.15,2.0172,True,"**Answer: C. Polycarboxylate**
+
+**Explanation:**  
+The modulus of elasticity (a measure of a material's ability to resist deformation under stress) is crucial for **supporting complex amalgam restorations** because it affects how well the restoration maintains its shape and integrity over time. 
+
+- **Zinc oxide-eugenol (ZOE)**: Has a low modulus of elasticity, making it less suitable for restorations that require high structural support.
+- **Glass ionomer cement (GIC)**: Has a moderate modulus of elasticity, but it is not as high as polycarboxylate.
+- **Zinc phosphate**: Has a relatively low modulus of elasticity and is not typically used for complex restorations.
+- **Polycarboxylate cement**: Has the **highest modulus of elasticity** among the options, providing excellent structural support and resistance to deformation, making it ideal for complex amalgam restorations.
+
+**Correct Option: C. Polycarboxylate**"
+b22457e3-c620-4a3d-bde1-0aa6e6c185a7,59,257,86,2.9884,6.2844,40.89,212,10.571,20.05,2.0392,False,"The correct answer is: **A. A**
+
+### Explanation:
+The **Histrionic, shy, anxious, avoidant** personality traits are typically associated with the **Cluster B** of the **Big Five Personality Traits**. Specifically, this combination is characteristic of the **Avoidant Cluster**.
+
+- **Cluster B** includes personality types such as:
+  - **Histrionic** (e.g., dramatic, emotional, overly sensitive)
+  - **Antisocial** (e.g., manipulative, deceitful)
+  - **Borderline** (e.g., unstable, self-destructive)
+  - **Narcissistic** (e.g., self-centered, arrogant)
+  - **Avoidant** (e.g., shyness, fear of rejection, anxious)
+
+- The **Avoidant Cluster** includes traits like:
+  - Shyness
+  - Anxiety
+  - Fear of rejection
+  - Avoidant behavior
+  - Emotional detachment
+
+Thus, the **histrionic, shy, anxious, avoidant** personality is most accurately classified under **Cluster A** (which includes paranoid, schizoid, and schizotypal personality disorders), **Cluster B** (which includes avoidant), or **Cluster C** (which includes"
+cb6588a7-e4ef-4670-b6aa-7eae297fb443,71,244,81,3.0123,5.9731,40.85,245,12.1565,20.15,2.0269,False,"**Answer: B. 39 weeks**
+
+**Explanation:**  
+The **last menstrual period (LMP)** is the starting point for calculating the due date. The standard method to estimate the due date is the **Naegele's rule**, which states:
+
+- **280 days (40 weeks)** from the first day of the last menstrual period.
+
+However, if the **last menstrual period is March 2005**, we can calculate the due date as follows:
+
+- March 2005 is the **LMP**.
+- Adding **280 days** (40 weeks) to March 2005 gives the **due date** as **October 2005**.
+
+In reality, the **due date is typically 40 weeks** from the LMP, but in some cases, especially if the LMP is known with high accuracy, the **due date may be slightly adjusted**.
+
+However, **39 weeks** is the **most commonly accepted due date** when the LMP is known and the pregnancy is confirmed to be in the **last trimester**.
+
+**Correct Answer: B. 39 weeks**"
+713b94cf-fc1e-4c32-b28e-f187cf86562d,57,227,89,2.5506,6.553,34.64,227,11.3974,19.92,1.7393,True,"**Answer:** D. Crowding
+
+**Explanation:**  
+IOTN (Intraoral Orthodontic Trapezoid) is a technique used in orthodontics to correct **maxillary protrusion** and **bimaxillary protrusion** by applying a transverse force to the maxilla. It is particularly effective in cases where the upper jaw is too far forward.
+
+- **A. Open bite:** IOTN can be used to correct open bite by adjusting the position of the maxilla and mandible.
+- **B. CLP (Class II Malocclusion):** IOTN is used in Class II malocclusion to correct maxillary protrusion.
+- **C. Bimaxillary protrusion:** IOTN is used to correct this condition.
+- **D. Crowding:** IOTN is **not** used for crowding. Crowding is typically corrected using **braces** or **orthodontic appliances** that apply force to move teeth into proper positions, not a trapezoid-shaped force applied to the maxilla.
+
+**Correct Option: D. Crowding**"
+4f50899d-3016-461b-bd81-c1c29fbe6d29,51,135,51,2.6471,3.8547,35.02,135,6.7518,19.99,1.7516,True,"**Correct Answer: B. Military hospitals**
+
+**Explanation:**  
+A psychiatrist is typically posted in **district hospitals** (option C), **hospitals with medical colleges** (option D), and **PHC (Primary Health Centers)** (option A). However, **military hospitals** are usually run by the military and may not have a psychiatrist posted in the same way as civilian hospitals. Psychiatrists are often employed in government hospitals, but military hospitals may not be considered ""hospitals with medical colleges"" in the same context. 
+
+Thus, **military hospitals** are not typically where a psychiatrist is posted in the same capacity as in civilian settings."
+22e9f959-2d98-46de-b35c-601974f8d014,73,167,59,2.8305,4.3947,38.0,162,8.0939,20.02,1.8986,False,"**Answer: C. Tympanic membrane**
+
+**Explanation:**  
+In a patient with hypothermia, the **tympanic membrane (eardrum)** is the **ideal site to measure temperature** because it is **not affected by external factors** like clothing or environmental conditions. It is **more reliable** for measuring core body temperature in emergency settings, especially when the patient is unable to cooperate or has poor peripheral circulation. 
+
+Other options:
+- **A. Oral** – Can be affected by mouth conditions or lack of moisture.
+- **B. Rectal** – Can be affected by rectal conditions or patient discomfort.
+- **D. Armpit** – Less accurate and can be affected by environmental factors and poor circulation.
+
+Thus, **tympanic membrane** is the most reliable in this context."
+2c37d934-7b5e-4e0d-9b34-55ae75466301,67,176,59,2.9831,4.4327,39.7,176,8.8585,19.87,1.9984,True,"**Answer:** **B. Submandibular**
+
+**Explanation:**  
+In a **radical neck dissection**, the **submandibular gland** is **not** typically removed. The submandibular gland is usually left in place during a radical neck dissection, as it is not considered a critical structure for cancer staging or treatment in many cases. 
+
+However, in some cases, especially if the tumor involves the submandibular gland, it may be removed. But **this is not the standard practice** in a radical neck dissection.
+
+Other structures removed in a radical neck dissection include:
+- **Spinal accessory nerve** (A)
+- **Tail of the parotid gland** (C)
+- **Level 2 b lymph nodes** (D)
+
+Thus, **B. Submandibular** is the correct answer."
+bbb8ca0b-54ed-4f08-a87d-8eef087e37f1,90,192,63,3.0476,4.7081,40.78,191,9.5867,19.92,2.0469,True,"**Correct Answer: C. Life expectancy at bih, infant mortality and quality of life**
+
+**Explanation:**  
+The Human Development Index (HDI) is a composite measure that combines three key indicators to assess human development:
+
+1. **Life expectancy at birth** (a measure of health and survival).
+2. **Education** (often measured by mean years of schooling and expected years of schooling).
+3. **Standard of living** (often measured by GDP per capita or other indicators of well-being).
+
+While **quality of life** is sometimes included in the HDI, it is not one of the three core components. The correct set of indicators is:
+
+- **Life expectancy at birth** (bih)
+- **Infant mortality rate** (a measure of health)
+- **Quality of life** (often measured by HDI's ""standard of living"" component)
+
+Thus, **Option C** is the most accurate and correct choice.
+"
+71803632-1b88-4332-88f5-be3ac2515b85,61,199,59,3.3729,4.4351,44.87,199,9.923,20.05,2.2373,True,"**Correct Answer: A. PAX-6**
+
+**Explanation:**  
+PAX-6 is a **homeobox gene** that plays a critical role in eye development, including the formation of the lens. It is one of the **key genes involved in congenital cataract** formation. Mutations in PAX-6 can lead to defects in lens development, including cataract formation.
+
+**Other options:**
+- **B. CRYGS-3**: This is a **non-coding gene** and not typically associated with congenital cataract.
+- **C. LMX-IB**: This is a **gene involved in craniofacial development**, not directly linked to cataract.
+- **D. PITX-3**: This gene is involved in **development of the eye and brain**, but it is not the primary gene associated with congenital cataract.
+
+**Thus, the correct answer is A. PAX-6.**"
+ced0e6e7-048a-467e-aa7e-e10def9ebb5e,74,179,54,3.3148,3.9684,45.11,179,8.9644,19.97,2.2589,True,"**Answer: A. 1-2% Cetrimide**
+
+**Explanation:**  
+Cetrimide is a **surfactant** and **antimicrobial agent**, commonly used in **wet cleaning** and **disinfection**. However, it is **not typically used as a disinfectant** in the same way as other agents like alcohol or Lysol. It is more commonly used as a **pre-wetting agent** or **surface active agent** in cleaning products.
+
+- **1-2% Cetrimide** is **not** a standard disinfectant.  
+- **100% Alcohol (B)**, **2% Lysol (C)**, and **5% Chloroxylene (D)** are all **commonly used as disinfectants**.
+
+Thus, **A** is the correct answer."
+af87accb-34b2-42de-be48-16e94bbf22ab,69,217,72,3.0139,5.2979,40.96,217,10.8061,20.08,2.0397,True,"**Answer: C. Very long-chain fatty acid**
+
+**Explanation:**  
+In **cerebrohepatorenal syndrome (CHRS)**, there is a **deficiency in the enzyme** **acyl-CoA dehydrogenase**, which is responsible for breaking down very long-chain fatty acids (VLCFAs). This leads to **accumulation of VLCFAs** in the brain, liver, and kidneys. 
+
+The accumulation of VLCFAs causes **neurological symptoms** (e.g., seizures, developmental delay), **liver dysfunction**, and **renal failure**. 
+
+**Other options:**
+- **A. Pyruvate** – Not typically accumulated in the brain in CHRS.
+- **B. Sho-chain fatty acid** – These are **short-chain fatty acids** (SCFAs), not accumulated in the brain in CHRS.
+- **D. Acetyl CoA** – Is a metabolic intermediate, not typically accumulated in the brain in CHRS.
+
+**Correct Answer: C. Very long-chain fatty acid**"
+860f5673-7e87-4a35-ba17-628c738929fa,74,260,95,2.7368,6.915,37.6,257,12.8138,20.06,1.8747,True,"**Correct Answer: A. Low molecular weight heparin**
+
+**Explanation:**  
+Cancer-associated thromboembolism (CATE) is a common complication in cancer patients, often due to hypercoagulability. **Low molecular weight heparin (LMWH)** is the **first-line treatment** for CATE. It is preferred over oral anticoagulants like warfarin because it has a more predictable anticoagulant effect, lower risk of bleeding, and better monitoring options. LMWHs such as enoxaparin or dalteparin are commonly used in this context.
+
+**Other options:**
+- **B. Anti-thrombin III inhibitors** (e.g., argatroban) are used in specific situations, such as when LMWH is not suitable, but are not the first-line treatment for CATE.
+- **C. Direct Xainhibitors** (e.g., direct thrombin inhibitors like argatroban) are also used in specific cases, but not the first-line for CATE.
+- **D. Warfarin** is not used as first-line treatment for CATE due to its variable effect and need for regular monitoring.
+
+**Thus, the correct answer is A. Low molecular weight heparin.**"
+fb8c4e20-6d34-461e-8e14-45fcd8c662e4,107,253,97,2.6082,7.1708,35.28,253,12.5516,20.16,1.7504,True,"**Correct Answer: A. Ceftriaxone 250 mg IM single dose**
+
+**Explanation:**
+
+- **Gonococcal urethritis** and **non-gonococcal urethritis** are both bacterial infections caused by **Neisseria gonorrhoeae** and other pathogens, respectively.
+- **Ceftriaxone** is a **third-generation cephalosporin** that is **effective against both gonococcal and non-gonococcal urethritis**.
+- It is **given as a single intramuscular (IM) dose of 250 mg** to ensure adequate coverage and to prevent the development of resistance.
+- **Cefixime** (B) and **ciprofloxacin** (C) are **fluoroquinolones** and are **not recommended** for gonorrhea due to increasing resistance.
+- **Azithromycin** (D) is a **macrolide** and is **not recommended** for gonorrhea due to its **lower efficacy** and **potential for resistance**.
+
+**Therefore, Ceftriaxone (A)** is the **preferred treatment** for both types of urethritis."
+f8a5b0e2-b529-4ad4-b55d-f6e5fc4708e1,108,257,64,4.0156,4.7794,53.77,257,12.8507,20.0,2.6888,True,"To calculate the **positive predictive value (PPV)** of a screening test, we need to use the following formula:
+
+$$
+\text{PPV} = \frac{\text{True Positives (TP)}}{\text{True Positives (TP)} + \text{False Positives (FP)}}
+$$
+
+### Step 1: Understand the given data
+
+- **Population size**: 10,000 people
+- **Prevalence of disease**: 20% → 2,000 people have the disease, 8,000 do not.
+- **Sensitivity**: 95% → 95% of people with the disease test positive.
+- **Specificity**: 80% → 80% of people without the disease test negative.
+
+### Step 2: Calculate TP and FP
+
+- **True Positives (TP)**:  
+  $$
+  \text{TP} = 2000 \times 0.95 = 1900
+  $$
+
+- **False Positives (FP)**:  
+  $$
+  \text{FP} = 8000 \times (1 - 0.80) = "
+8be32dbe-9a46-4a8a-8c08-ff89c3e78c3d,68,139,63,2.2063,4.6509,29.89,139,6.9694,19.94,1.4985,True,"**Correct Answer: C. Aldosterone**
+
+**Explanation:**  
+The fetal adrenal glands primarily release **aldosterone**. This hormone is responsible for regulating blood pressure and electrolyte balance by promoting sodium retention and potassium excretion in the kidneys. 
+
+While the fetal adrenal glands do produce some other hormones like **testosterone** (in males) and **estrogen** (in females), **aldosterone** is the predominant hormone released by the fetal adrenal cortex. 
+
+**Note:** In adults, the adrenal glands primarily produce **aldosterone** and **cortisol**, but in the fetus, the adrenal cortex is not fully developed, and the primary hormone released is **aldosterone**."
+2ab8b27b-1646-4886-8378-f2f11f84a79e,57,195,68,2.8676,5.0842,38.35,199,10.0234,19.85,1.9319,False,"**Answer: B. H₂SO₄**
+
+**Explanation:**  
+Among the given acids, **H₂SO₄ (sulfuric acid)** is the only one that **does not show coagulation necrosis** on contact with the skin. 
+
+- **HCl (Hydrochloric acid)**, **HF (Hydrofluoric acid)**, and **HNO₃ (Nitric acid)** are **corrosive** and can cause **coagulation necrosis** (tissue death due to acid damage) when they come into contact with the skin.
+- **H₂SO₄** is a **strong acid** but it is **less corrosive** than the other acids and does **not** cause coagulation necrosis on contact with the skin. It is commonly used in industrial applications and is less likely to cause severe tissue damage.
+
+**Correct Option: B. H₂SO₄**"
+b3aa72de-f85c-407f-892b-9dae7d953417,61,164,61,2.6885,4.5206,36.28,164,8.2027,19.99,1.8145,True,"**Answer:** **B. Linezolid**
+
+**Explanation:**  
+- **Rifampicin (A)**: Inhibits DNA synthesis by inhibiting bacterial RNA polymerase.  
+- **Nitrofurantoin (C)**: Inhibits DNA synthesis by interfering with bacterial DNA replication.  
+- **Metronidazole (D)**: Inhibits DNA synthesis by causing cross-linking of DNA, which prevents replication and repair.  
+
+**Linezolid (B)**: **Does not affect DNA synthesis**. It is a **synthetic antibiotic** that primarily works by inhibiting bacterial protein synthesis (via binding to the 50S subunit of the ribosome), not by affecting DNA replication or repair.  
+
+Thus, **Linezolid** is the correct answer."
+db180b6d-8b4e-487e-a47d-7c554c8dad2e,75,255,96,2.6562,7.1434,35.7,231,11.5518,20.0,1.7851,False,"**Correct Answer: C. Polycarboxylate cements**
+
+**Explanation:**  
+Polycarboxylate cements contain **calcium and phosphate ions**, which are similar to those found in **enamel**. These cements form a **hydroxyapatite-like mineralization** during the setting process, making them chemically compatible with enamel. This compatibility allows them to bond effectively to enamel surfaces, making them suitable for restorations that require strong, long-lasting adhesion to calcified tissues like enamel.
+
+**Other options:**
+- **A. Composites**: These are not chemically compatible with enamel. They are typically composed of resin matrices and fillers that do not form a mineralized layer like enamel.
+- **B. Direct filling resins**: These are also not chemically compatible with enamel and are generally used in areas where enamel is not present or is not a primary concern.
+- **D. BIS-GMA resins in pit and fissure sealants**: These are used for sealing pits and fissures and are not designed to bond to enamel. They are more for sealing rather than bonding to calcified tissues.
+
+**Thus, the correct answer is: C. Polycarboxylate cements.**"

@@ -1,0 +1,359 @@
+id,input_len,ea_new_tokens,ea_steps,accept_len,ea_time_s,ea_tok_per_s,base_new_tokens,base_time_s,base_tok_per_s,speedup,same_output,ea_text
+0d3453ee-77ef-400b-9e64-4ff5b6cbfcc8,67,57,20,2.85,1.368,41.67,56,2.5807,21.7,1.9201,True,"Answer: A. 1 mm anterior to plane
+
+Explanation: Ans. is 'a' i.e., 1 mm anterior to planeThe Ricketts esthetic plane is the plane of the lower lip. The lower lip is 1 mm anterior to this plane.
+"
+4080f3a3-a88c-4bcb-a8a3-2add0483fca0,54,20,7,2.8571,0.562,35.59,19,0.9145,20.78,1.7129,True,"Answer: B. Southampton score
+
+Explanation: The Southampton score is used for wound infection.
+"
+6bd02755-f813-46d8-87ff-e40297a2a949,54,48,28,1.7143,1.9315,24.85,46,2.1175,21.72,1.144,False,"Answer: D. DHEA
+
+Explanation: Ans. is 'd' i.e., DHEA Adrenal cortex secretes androgens and estrogens. Adrenal medulla secretes catecholamines.
+"
+cb022556-5a47-402a-b52c-725b6c314e83,98,70,32,2.1875,2.2041,31.76,69,3.1897,21.63,1.4681,True,"Answer: C. Guanylate cyclase
+
+Explanation: Ans. is 'c' i.e., Guanylate cyclase Sodium nitroprusside is a vasodilator that acts by activating guanylate cyclase. It is metabolized to form an active metabolite that acts by activating guanylate cyclase.
+"
+72b14998-6b80-45d4-ad70-9766f94e8026,59,260,75,3.4667,5.0539,51.45,257,11.7138,21.94,2.3448,True,"Answer: A. Divalent cation transpoer
+
+Explanation: Ans. is 'a' i.e., Divalent cation transpoer Iron is absorbed by the enterocytes of the small intestine by a divalent cation transpoer. The divalent cation transpoer is a protein that is present in the intestinal epithelium and is responsible for the absorption of iron. The divalent cation transpoer is also known as the ferroportin. The divalent cation transpoer is a transmembrane protein that is responsible for the transport of iron across the intestinal epithelium. The divalent cation transpoer is also known as the ferroportin. The divalent cation transpoer is a transmembrane protein that is responsible for the transport of iron across the intestinal epithelium. The divalent cation transpoer is also known as the ferroportin. The divalent cation transpoer is a transmembrane protein that is responsible for the transport of iron across the intestinal epithelium. The divalent cation transpoer is also known as the ferroportin. The divalent cation transpoer is a transmembrane protein that is responsible for the transport of"
+8abcdea2-c351-4df7-ab42-8898201f9949,78,49,15,3.2667,1.0518,46.59,48,2.294,20.92,2.2264,True,"Answer: D. Pulpless primary teeth next to the line of a palatal cleft
+
+Explanation: Pulpectomy is done in primary teeth with furcation pathology, primary teeth without successor, and primary teeth with sinus tract.
+"
+7cc17f9f-5ecd-4e71-b32f-74fdf3a6537b,101,80,41,1.9512,2.8259,28.31,80,3.6571,21.88,1.2942,True,"Answer: C. Belongs to Herpes family
+
+Explanation: Ans. is 'c' i.e., Belongs to Herpes family Herpes simplex virus (HSV) is the most common cause of genital warts and genital herpes. It is a DNA virus. Ref: Ganong&;s review of medical physiology, 23rd edition, page number 1226"
+dec39d56-fcb3-4cf1-8e83-e09a09a8ce6e,91,257,61,4.2131,4.1431,62.03,257,11.7972,21.78,2.8474,True,"Answer: C. Differentiates between Lactose fermenter and non-lactose fermenters
+
+Explanation: Ans. is 'c' i.e., Differentiates between Lactose fermenter and non-lactose fermentersCLED media is a selective medium for the isolation of enteric bacteria. It is used for the isolation of enteric bacteria from the feces of patients with suspected enteric fever. It is also used for the isolation of enteric bacteria from the feces of patients with suspected enteric fever. It is also used for the isolation of enteric bacteria from the feces of patients with suspected enteric fever. It is also used for the isolation of enteric bacteria from the feces of patients with suspected enteric fever. It is also used for the isolation of enteric bacteria from the feces of patients with suspected enteric fever. It is also used for the isolation of enteric bacteria from the feces of patients with suspected enteric fever. It is also used for the isolation of enteric bacteria from the feces of patients with suspected enteric fever. It is also used for the isolation of enteric bacteria from the feces of patients with suspected enteric fever. It is also used for the isolation of enteric bacteria from the"
+747359d5-2ce7-439e-b229-d04381853421,83,82,32,2.5625,2.1938,37.38,81,3.7084,21.84,1.7113,True,"Answer: A. Respiratory acidosis
+
+Explanation: pH = 7.3 < 7.45 (normal) pCO2 = 35 mm Hg > 40 mm Hg (normal) So, the patient has respiratory acidosis. Ref: Ganong&;s review of medical physiology, 23rd edition, page number 122.
+"
+8ecc6a1a-b653-4b05-81f1-341c356e6c62,90,263,49,5.3673,3.3602,78.27,257,11.7162,21.94,3.5682,True,"Answer: B. Interchange of B29 and B30
+
+Explanation: Ans. is 'b' i.e., Interchange of B29 and B30 The B chain of insulin is composed of two polypeptide chains, B29 and B30. The B chain is composed of 30 amino acids. The B chain is composed of two polypeptide chains, B29 and B30. The B chain is composed of two polypeptide chains, B29 and B30. The B chain is composed of two polypeptide chains, B29 and B30. The B chain is composed of two polypeptide chains, B29 and B30. The B chain is composed of two polypeptide chains, B29 and B30. The B chain is composed of two polypeptide chains, B29 and B30. The B chain is composed of two polypeptide chains, B29 and B30. The B chain is composed of two polypeptide chains, B29 and B30. The B chain is composed of two polypeptide chains, B29 and B30. The B chain is composed of two polypeptide chains, B"
+f8c972d0-7aa8-45f7-a333-823c27dd5db8,63,48,15,3.2,1.0864,44.18,47,2.1449,21.91,2.0163,True,"Answer: D. Foreign body in upper airway
+
+Explanation: Ans. is 'd' i.e., Foreign body in upper airwayThe maximum alveolar air oxygen difference is seen in foreign body in upper airway.
+"
+f4adbaa0-775b-4ef4-89e6-5f8b8290d6d9,61,97,40,2.425,2.7209,35.65,96,4.4003,21.82,1.6341,True,"Answer: B. Retinoblastoma
+
+Explanation: Ans. is 'b' i.e., Retinoblastoma Retinoblastoma is the most common inherited malignancy. It is a malignant tumor of the retina of the eye. It is an autosomal dominant disorder. It is caused by mutation of the RB1 gene. Ref: Ganong&;s review of medical physiology, 23rd edition, page number 122.
+"
+ff42704e-3996-4abe-a5b6-574344e7aaf0,76,264,56,4.7143,3.7672,70.08,257,11.5417,22.27,3.1472,True,"Answer: C. Islet cell hyperplasia
+
+Explanation: Ans. is 'c' i.e., Islet cell hyperplasiaRef: Ganong&;s review of medical physiology, 23rd edition, page number: 1235, 1236, 1237, 1238, 1239, 1240, 1241, 1242, 1243, 1244, 1245, 1246, 1247, 1248, 1249, 1250, 1251, 1252, 1253, 1254, 1255, 1256, 1257, 1258, 1259, 1260, 1261, 1262, 1263, 1264, 1265, 1266, 1267, 1268, 1269, 1270"
+662c0f6c-a3d9-48a4-b21a-0cc20ef76b87,55,59,35,1.6857,2.3371,25.24,58,2.6714,21.71,1.1627,True,"Answer: D. Arginine
+
+Explanation: Ans. is 'd' i.e., ArginineThe amino acid with maximum buffering capacity is arginine. Ref: Ganong&;s review of medical physiology, 23rd edition, page number: 123.
+"
+b8e2e066-a036-4d14-8364-4e91a93812d5,99,262,74,3.5405,5.0507,51.87,257,11.6191,22.12,2.3452,True,"Answer: A. Increased activity of lipoprotein lipase and decreased activity of hormone sensitive lipase
+
+Explanation: In uncontrolled diabetes mellitus, the body is unable to clear the excess glucose from the blood. This leads to increased hepatic glucose production and decreased peripheral glucose utilization. The excess glucose is converted into fat and stored as triglycerides. The excess triglycerides are stored in the liver as VLDL. The excess VLDL is secreted into the blood and transported to peripheral tissues. The excess triglycerides are also stored in the liver as chylomicrons. The excess chylomicrons are secreted into the blood and transported to peripheral tissues. The excess triglycerides are also stored in the liver as chylomicrons. The excess chylomicrons are secreted into the blood and transported to peripheral tissues. The excess triglycerides are also stored in the liver as chylomicrons. The excess chylomicrons are secreted into the blood and transported to peripheral tissues. The excess triglycerides are also stored in the liver as chylomicrons. The excess chylomicrons are secreted into the blood and transported to peripheral tissues. The excess triglycerides are also stored in the liver as chylomicrons. The excess"
+876a5607-e467-4745-b315-13812c405904,97,24,8,3.0,0.5884,40.79,23,1.0715,21.46,1.9004,True,"Answer: C. OCPs
+
+Explanation: OCPs are contraindicated in PCOS.
+"
+16759fbf-ac94-4ec3-9fde-0702eee3eac5,58,95,46,2.0652,3.0846,30.8,94,4.3269,21.72,1.4176,True,"Answer: C. Sham surgery
+
+Explanation: Ans. is 'c' i.e., Sham surgeryPlacebo effect is the phenomenon in which a patient's belief in the effectiveness of a treatment leads to a real improvement in their condition. It is a psychological phenomenon and not a physiological one. It is also called the ""placebo effect"".Ref: Ganong&;s review of medical physiology, 23rd edition, page number: 122
+"
+37439d71-3558-4ceb-85af-8332c259afe1,123,259,47,5.5106,3.2007,80.92,257,11.7593,21.86,3.7026,True,"Answer: A. Normal anion gap met acidosis
+
+Explanation: The patient has normal anion gap metabolic acidosis. The patient has normal anion gap metabolic acidosis. The patient has normal anion gap metabolic acidosis. The patient has normal anion gap metabolic acidosis. The patient has normal anion gap metabolic acidosis. The patient has normal anion gap metabolic acidosis. The patient has normal anion gap metabolic acidosis. The patient has normal anion gap metabolic acidosis. The patient has normal anion gap metabolic acidosis. The patient has normal anion gap metabolic acidosis. The patient has normal anion gap metabolic acidosis. The patient has normal anion gap metabolic acidosis. The patient has normal anion gap metabolic acidosis. The patient has normal anion gap metabolic acidosis. The patient has normal anion gap metabolic acidosis. The patient has normal anion gap metabolic acidosis. The patient has normal anion gap metabolic acidosis. The patient has normal anion gap metabolic acidosis. The patient has normal anion gap metabolic acidosis. The patient has normal anion gap metabolic acidosis. The patient has normal anion gap metabolic acidosis. The patient has normal anion gap metabolic acidosis. The patient has"
+16ce8442-864b-43f1-b815-f9096e55fa54,56,39,18,2.1667,1.2573,31.02,38,1.7645,21.54,1.4404,True,"Answer: A. Maxillary
+
+Explanation: Ans. is 'a' i.e., MaxillaryThe first paranasal sinus to develop at bih is the maxillary sinus.
+"
+6343810a-6571-4662-b3a6-aa7e13a7c65b,82,261,71,3.6761,4.7786,54.62,156,7.2045,21.65,2.5225,False,"Answer: B. By observing the movement of air water column in the tube during respiration
+
+Explanation: Ans. is 'b' i.e., By observing the movement of air water column in the tube during respirationRef: Ganong&;s review of medical physiology, 23rd edition, page number: 1225The ICD tube is a thin, flexible tube that is inserted into the trachea. It is used to maintain the patency of the trachea in patients with tracheostomy. The tube is connected to a water-filled balloon that is connected to a water-filled tube. The balloon is connected to a water-filled tube that is connected to a water-filled tube. The balloon is connected to a water-filled tube that is connected to a water-filled tube. The balloon is connected to a water-filled tube that is connected to a water-filled tube. The balloon is connected to a water-filled tube that is connected to a water-filled tube. The balloon is connected to a water-filled tube that is connected to a water-filled tube. The balloon is connected to a water-filled tube that is connected to a water-filled tube. The balloon is connected to a water-filled tube that is connected to a water-filled tube. The balloon is connected to a water"
+52d643b9-6455-43f0-a04e-a838bf1ba1c8,73,264,60,4.4,4.0814,64.68,257,11.7824,21.81,2.9655,True,"Answer: B. c
+
+Explanation: Ans. is 'b' i.e., Aortic stenosisRef: Ganong&;s review of medical physiology, 23rd edition, page number: 1225, 1226, 1227, 1228, 1229, 1230, 1231, 1232, 1233, 1234, 1235, 1236, 1237, 1238, 1239, 1240, 1241, 1242, 1243, 1244, 1245, 1246, 1247, 1248, 1249, 1250, 1251, 1252, 1253, 1254, 1255, 1256, 1257, 1258, 1259, 1260, 1261"
+efbacdd9-1c25-4697-8ad9-377c7a8105b8,55,261,68,3.8382,4.6093,56.62,257,11.7088,21.95,2.5798,True,"Answer: A. Boric acid
+
+Explanation: Ans. is 'a' i.e., Boric acidBoiled lobster syndrome is a condition of poisoning by boric acid.Boiled lobster syndrome is also known as boric acid poisoning.Boiled lobster syndrome is a condition of poisoning by boric acid.Boiled lobster syndrome is also known as boric acid poisoning.Boiled lobster syndrome is a condition of poisoning by boric acid.Boiled lobster syndrome is also known as boric acid poisoning.Boiled lobster syndrome is a condition of poisoning by boric acid.Boiled lobster syndrome is also known as boric acid poisoning.Boiled lobster syndrome is a condition of poisoning by boric acid.Boiled lobster syndrome is also known as boric acid poisoning.Boiled lobster syndrome is a condition of poisoning by boric acid.Boiled lobster syndrome is also known as boric acid poisoning.Boiled lobster syndrome is a condition of poisoning by boric acid.Boiled lobster syndrome is also known as boric acid poisoning.Boiled lobster syndrome is a condition of poisoning by boric acid.Boiled lobster syndrome is also known as boric acid poisoning.Boiled lobster syndrome is a condition of poisoning by boric acid.Boiled lobster syndrome is also known as b"
+360f90ec-189e-464a-a60d-ed9d9bda46ef,76,40,8,5.0,0.5898,67.81,39,1.807,21.58,3.142,True,"Answer: B. 1.5-2.5 kg
+
+Explanation: The usual weight of rabbit used in ophthalmological experiments is 1.5-2.5 kg.
+"
+09657fa4-eeb3-4860-8b8c-f2e25c7eabab,70,263,59,4.4576,3.9688,66.27,257,11.7636,21.85,3.0332,True,"Answer: C. Optic nerve hypoplasia
+
+Explanation: Ans. is 'c' i.e., Optic nerve hypoplasia Ref: Ganong&;s review of medical physiology, 23rd edition, page number: 1227, 1228, 1230, 1231, 1232, 1233, 1234, 1235, 1236, 1237, 1238, 1239, 1240, 1241, 1242, 1243, 1244, 1245, 1246, 1247, 1248, 1249, 1250, 1251, 1252, 1253, 1254, 1255, 1256, 1257, 1258, 1259, 1260, 1261, 1262, 1"
+a1a782cf-d0f2-4645-a96d-79ef0cef3516,55,42,21,2.0,1.4387,29.19,41,1.9158,21.4,1.3641,True,"Answer: A. Organophoshorus poisoning
+
+Explanation: Ans. is 'a' i.e., Organophosphorus poisoningAtropine is used in poisoning by organophosphorus compounds.
+"
+5b612728-c228-4423-8fd8-fde0ff1d3f68,64,259,80,3.2375,5.319,48.69,257,11.9398,21.52,2.2622,False,"Answer: B. Have not taken 100 days folic acid
+
+Explanation: Ans. is 'b' i.e., Have not taken 100 days folic acidRef: Park 23rd edition p. 1227-1228The following are the criteria for infant at risk:1. Working mothers2. Have not taken 100 days folic acid3. Preclampsia is pregnancy4. Malpresentation during bih5. Maternal age >35 years6. Maternal history of preterm delivery7. Maternal history of preterm labor8. Maternal history of preterm delivery9. Maternal history of preterm labor10. Maternal history of preterm labor11. Maternal history of preterm labor12. Maternal history of preterm labor13. Maternal history of preterm labor14. Maternal history of preterm labor15. Maternal history of preterm labor16. Maternal history of preterm labor17. Maternal history of preterm labor18. Maternal history of preterm labor19. Maternal history of preterm labor20. Maternal history of preterm labor21. Mat"
+0778d314-486a-4af0-b2bd-cab83e7e2166,100,62,25,2.48,1.7179,36.09,61,2.7958,21.82,1.6541,True,"Answer: A. Viral meningitis
+
+Explanation: Ans. is 'a' i.e., Viral meningitisThe CSF findings in viral meningitis are: - Protein 150 mg, sugar 40 mg, chloride 2500 mg with lymphadenopathy.
+"
+5c0f862f-2651-4ed4-88d4-2456dab0f036,85,40,13,3.0769,0.9168,43.63,39,1.8011,21.65,2.0148,True,"Answer: B. 10
+
+Explanation: GCS score of 10 is the most likely score for a patient who has sustained A and endotracheal intubation.
+"
+afd502ff-b700-4ecf-acec-f849331dd1ed,57,36,18,2.0,1.2835,28.05,35,1.6256,21.53,1.3028,True,"Answer: B
+
+Explanation: Ans. is 'b' i.e., B The lateral semicircular canal is marked by arrow 'b' in the given figure.
+"
+5ce754b8-b358-4270-9bd1-8828700a19b1,53,41,19,2.1579,1.3281,30.87,53,2.4563,21.58,1.4307,False,"Answer: B. B
+
+Explanation: Ans. is 'b' i.e., B i.e., B (Angle of 15°) is appropriate for scaling and root planing.
+"
+03952f72-4223-48bc-a0df-51af60400a7a,82,260,56,4.6429,3.832,67.85,257,11.7388,21.89,3.0991,True,"Answer: B. I/V Phenobarbital
+
+Explanation: Ans. is 'b' i.e., I/V PhenobarbitalRef: Park 23rd ed. p. 1225-1226The patient is in a state of catatonia and is not responding to the initial treatment. The patient is in a state of catatonia and is not responding to the initial treatment. The patient is in a state of catatonia and is not responding to the initial treatment. The patient is in a state of catatonia and is not responding to the initial treatment. The patient is in a state of catatonia and is not responding to the initial treatment. The patient is in a state of catatonia and is not responding to the initial treatment. The patient is in a state of catatonia and is not responding to the initial treatment. The patient is in a state of catatonia and is not responding to the initial treatment. The patient is in a state of catatonia and is not responding to the initial treatment. The patient is in a state of catatonia and is not responding to the initial treatment. The patient is in a state of catatonia and is not responding to the initial treatment. The patient"
+75ea3569-eb32-44a0-81dd-705aa50c2769,57,64,31,2.0645,2.1149,30.26,63,2.8607,22.02,1.3741,False,"Answer: A. Conduction velocity
+
+Explanation: Ans. is 'a' i.e., Conduction velocityThe diameter of the axon is directly proportional to the conduction velocity. Ref: Ganong&;s review of medical physiology, 23rd edition, page number 125.
+"
+a1e41d9c-2e03-4195-a5c9-73ee0ac1b8d1,75,109,30,3.6333,2.0657,52.77,108,4.9906,21.64,2.4384,True,"Answer: A. Ectoderm, mesoderm
+
+Explanation: Ans. is 'a' i.e., Ectoderm, mesodermThe tooth is formed from the mesoderm and the ectoderm. The tooth is formed from the mesoderm and the ectoderm. The tooth is formed from the mesoderm and the ectoderm. The tooth is formed from the mesoderm and the ectoderm. The tooth is formed from the mesoderm and the ectoderm.
+"
+62b9add2-a5e9-451f-92c2-2eee629ee143,105,45,15,3.0,1.0701,42.05,44,2.0619,21.34,1.9707,True,"Answer: C. Pulpectomy and root canal filling with gutta percha
+
+Explanation: Pulpectomy and root canal filling with gutta percha is the treatment of choice for a necrotic pulp.
+"
+a432db53-67f5-4865-af52-18edf81d1225,69,257,62,4.1452,4.2685,60.21,257,11.8197,21.74,2.7691,True,"Answer: B. Sporozoites
+
+Explanation: Sporozoites are the infective form of Plasmodium. Sporozoites are present in the blood of a patient with malaria. Sporozoites are the infective form of Plasmodium. Sporozoites are present in the blood of a patient with malaria. Sporozoites are the infective form of Plasmodium. Sporozoites are present in the blood of a patient with malaria. Sporozoites are the infective form of Plasmodium. Sporozoites are present in the blood of a patient with malaria. Sporozoites are the infective form of Plasmodium. Sporozoites are present in the blood of a patient with malaria. Sporozoites are the infective form of Plasmodium. Sporozoites are present in the blood of a patient with malaria. Sporozoites are the infective form of Plasmodium. Sporozoites are present in the blood of a patient with malaria. Sporozoites are the infective form of Plasmodium. Sporozoites are present in the blood of a patient with malaria. Sporozoites are the"
+20cbdec0-d488-4dcf-9630-2707c948390a,62,261,56,4.6607,3.7675,69.28,257,11.7018,21.96,3.1543,True,"Answer: B. Does not accumulates in tissues
+
+Explanation: Ans. is 'b' i.e., Does not accumulates in tissuesRef: Ganong&;s review of medical physiology, 23rd edition, page number: 1227, 1228, 1230, 1231, 1232, 1233, 1234, 1235, 1236, 1237, 1238, 1239, 1240, 1241, 1242, 1243, 1244, 1245, 1246, 1247, 1248, 1249, 1250, 1251, 1252, 1253, 1254, 1255, 1256, 1257, 1258, 1259, 1260, 1261, 1262, 1"
+b6b91d49-7a30-4a9a-91e6-b2f20341470c,53,258,54,4.7778,3.7138,69.47,257,11.7964,21.79,3.1887,True,"Answer: A. Lordosis
+
+Explanation: Ans. is 'a' i.e., Lordosis Ref: Ganong&;s review of medical physiology, 23rd edition, page number: 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 1"
+57336e68-8096-4fa9-89f5-36c05dcd5482,73,258,74,3.4865,4.9192,52.45,257,11.7417,21.89,2.3962,True,"Answer: D. Pont's index
+
+Explanation: Ans. is 'd' i.e., Pont's indexRef: Park's textbook of preventive and social medicine, 23rd edition, pg. no. 1290-1291The following are the mixed dentition analysis:1. Nance-Carey analysis2. Moyer's analysis3. Pont's index4. Carey's analysis5. Begg's analysis6. Hume's analysis7. Hume's index8. Hume's index9. Hume's index10. Hume's index11. Hume's index12. Hume's index13. Hume's index14. Hume's index15. Hume's index16. Hume's index17. Hume's index18. Hume's index19. Hume's index20. Hume's index21. Hume's index22. Hume's index23. Hume's index24. Hume's index25. Hume's index26. Hume's index27. Hume's index28. Hume's index29. Hume's index30"
+fe55c8c7-c6ba-4882-a3c0-15171d62e603,62,43,15,2.8667,1.0628,40.46,42,1.9516,21.52,1.88,True,"Answer: C. Doxycycline
+
+Explanation: Ans. is 'c' i.e., DoxycyclineDrug of choice for scrub typhus is doxycycline.
+"
+da529e73-61fe-4b52-81b1-8686b6a62ffd,87,84,37,2.2703,2.5486,32.96,83,3.8306,21.67,1.5211,True,"Answer: B. Macularhole
+
+Explanation: Ans. is 'b' i.e., MacularholeThe patient has a history of cataract surgery 1 year back and presented with sudden painless loss of vision. This is a classic presentation of macular hole. Ref: Ganong&;s review of medical physiology, 23rd edition, page number: 127.
+"
+893ad532-01e8-421e-ac71-d5e8dfb882e5,63,257,99,2.596,6.6579,38.6,257,11.5837,22.19,1.7398,True,"Answer: C. Hemolytic anemia
+
+Explanation: Wilson's disease is a genetic disorder in which copper accumulates in the liver, brain, and kidneys. Wilson's disease is characterized by the following features: - Fanconi syndrome - Sensory changes - Chronic active hepatitis - Hepatic cirrhosis - Hepatic failure - Neurologic symptoms - Renal failure - Hepatic encephalopathy - Hepatocellular carcinoma - Hepatorenal syndrome - Hepatic artery thrombosis - Hepatic hemolytic anemia - Hepatic fibrosis - Hepatic steatosis - Hepatic necrosis - Hepatic atrophy - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation - Hepatic inflammation -"
+83b776f2-ae9a-42ec-8262-931b29af2d9f,86,264,64,4.125,4.376,60.33,257,11.7665,21.84,2.7621,True,"Answer: B. 2a
+
+Explanation: Ans. is 'b' i.e., 2a Stage of NEC: Stage 1: Necrotizing enterocolitis is diagnosed by the presence of pneumatosis poli (air in the bowel wall) and the presence of abdominal distension. Stage 2: Necrotizing enterocolitis is diagnosed by the presence of pneumatosis poli and the presence of abdominal distension and the presence of a palpable mass. Stage 3: Necrotizing enterocolitis is diagnosed by the presence of pneumatosis poli and the presence of abdominal distension and the presence of a palpable mass and the presence of a palpable mass and the presence of a palpable mass and the presence of a palpable mass and the presence of a palpable mass and the presence of a palpable mass and the presence of a palpable mass and the presence of a palpable mass and the presence of a palpable mass and the presence of a palpable mass and the presence of a palpable mass and the presence of a palpable mass and the presence of a palpable mass and the presence of a palpable mass and the presence of a palpable mass and the presence of a palpable mass and the presence of a palpable mass and"
+8e0eacd3-9755-426d-b1c5-2bff71295f88,55,262,77,3.4026,5.2895,49.53,242,11.0278,21.94,2.2572,False,"Answer: C. Southampton score
+
+Explanation: Ans. is 'c' i.e., Southampton scoreThe Southampton score is a scoring system used to assess the risk of wound infection. It is a 10-point scoring system that assesses the risk of wound infection based on the presence of wound infection risk factors. The risk factors are:1. Presence of a wound2. Presence of a wound in a patient with diabetes mellitus3. Presence of a wound in a patient with peripheral vascular disease4. Presence of a wound in a patient with peripheral neuropathy5. Presence of a wound in a patient with a history of previous wound infection6. Presence of a wound in a patient with a history of previous surgery7. Presence of a wound in a patient with a history of previous infection8. Presence of a wound in a patient with a history of previous surgery9. Presence of a wound in a patient with a history of previous infection10. Presence of a wound in a patient with a history of previous surgeryThe score is calculated by adding the number of risk factors present. The score is then used to determine the risk of wound infection. The risk of wound infection is as follows:Score 0: Risk of wound infection is 0%Score 1: Risk of wound infection is "
+e0c3fa32-b170-46e4-a748-9965e38ca3a9,77,54,22,2.4545,1.5012,35.97,53,2.4459,21.67,1.66,True,"Answer: A. 4.5 K ohm
+
+Explanation: Ans. is 'a' i.e., 4.5 K ohm The resistance of the oral mucosa and periodontal ligament is 4.5 K ohm.
+"
+f6445d02-67c1-458d-8983-debf90b50ebc,74,265,75,3.5333,5.0643,52.33,257,11.8707,21.65,2.417,True,"Answer: B. Nucleus Tractus Solitarius
+
+Explanation: Ans. is 'b' i.e., Nucleus Tractus SolitariusRef: Ganong&;s review of medical physiology, 23rd edition, page number: 123The nucleus tractus solitarius (NTS) is a nucleus in the medulla oblongata that is responsible for the regulation of the autonomic nervous system. It is the primary center for the regulation of the autonomic nervous system. It is also responsible for the regulation of the autonomic nervous system. It is also responsible for the regulation of the autonomic nervous system. It is also responsible for the regulation of the autonomic nervous system. It is also responsible for the regulation of the autonomic nervous system. It is also responsible for the regulation of the autonomic nervous system. It is also responsible for the regulation of the autonomic nervous system. It is also responsible for the regulation of the autonomic nervous system. It is also responsible for the regulation of the autonomic nervous system. It is also responsible for the regulation of the autonomic nervous system. It is also responsible for the regulation of the autonomic nervous system. It is also responsible for the regulation of the autonomic nervous system. It is also responsible for"
+df493519-1b08-442e-853c-edd9ca4f6f57,81,260,52,5.0,3.5864,72.5,257,11.8871,21.62,3.3532,True,"Answer: A. It fixes cells to the slide
+
+Explanation: Leishman's stain is a solution of 10% methanol and 10% acetone. It is used for staining the cells of Leishmania. It is a fixative and also a solvent. It is used for staining the cells of Leishmania. It is a fixative and also a solvent. It is used for staining the cells of Leishmania. It is a fixative and also a solvent. It is used for staining the cells of Leishmania. It is a fixative and also a solvent. It is used for staining the cells of Leishmania. It is a fixative and also a solvent. It is used for staining the cells of Leishmania. It is a fixative and also a solvent. It is used for staining the cells of Leishmania. It is a fixative and also a solvent. It is used for staining the cells of Leishmania. It is a fixative and also a solvent. It is used for staining the cells of Leishmania. It is a fixative and also a solvent. It is used for staining the cells of Leishmania. It is a fixative and also a solvent. It is used for"
+0447b9a2-22ec-449c-8a23-a52c28ac6b34,103,263,60,4.3833,4.145,63.45,257,11.8089,21.76,2.9155,True,"Answer: B. | TIBC, | Ferritin, | Transferrin saturation
+
+Explanation: Ans. is 'b' i.e., | TIBC, | Ferritin, | Transferrin saturationRef: Ganong&;s review of medical physiology, 23rd edition, page number: 1235, 1236, 1237, 1238, 1239, 1240, 1241, 1242, 1243, 1244, 1245, 1246, 1247, 1248, 1249, 1250, 1251, 1252, 1253, 1254, 1255, 1256, 1257, 1258, 1259, 1260, 1261, 1262, 1263, 1264, 1265, 1266, 1267,"
+17cb7e3f-0ca7-4937-a407-76bf9f401143,163,87,26,3.3462,1.7961,48.44,86,3.9622,21.71,2.2316,True,"Answer: A. Apexification of 12 and RCT of 11
+
+Explanation: The patient has a crown fracture of 12 and an abscess formation. The 12 has an immature blunderbuss canal and 11 has complete root formation. The vitality of 11 is negative. So, the management is apexification of 12 and RCT of 11.
+"
+014ba2fe-d596-4265-bf46-616641ea4a9f,100,73,29,2.5172,2.0259,36.03,73,3.3324,21.91,1.6449,False,"Answer: D. Non-invasive prenatal testing
+
+Explanation: Non-invasive prenatal testing (NIPT) is a blood test that can detect certain chromosomal abnormalities in the fetus. It is a non-invasive test that can be done as early as 10 weeks of gestation. Ref: Harrison 18e p 1225
+"
+422e1a54-04f3-4193-ac55-61c4ae8b23a9,61,48,24,2.0,1.6234,29.57,47,2.1837,21.52,1.3737,True,"Answer: B. Alpha ketoglutarate
+
+Explanation: Ans. is 'b' i.e., Alpha ketoglutarate Alpha ketoglutarate is the intermediate of Krebs cycle and is used in heme synthesis.
+"
+59110b4f-4074-4293-aa6d-96b1a6b49b82,64,27,9,3.0,0.6641,40.66,26,1.2213,21.29,1.9098,True,"Answer: C. Metaproteronol
+
+Explanation: Metaproteronol is available for subcutaneous injection.
+"
+074d6dbc-2825-4387-ada2-01725dd954e2,76,265,57,4.6491,3.9252,67.51,257,11.7865,21.8,3.0962,True,"Answer: B. Radioactive water and radiolabelled albumin
+
+Explanation: Ans. is 'b' i.e., Radioactive water and radiolabelled albuminRef: Ganong&;s review of medical physiology, 23rd edition, page number: 1225, 1226, 1227, 1228, 1229, 1230, 1231, 1232, 1233, 1234, 1235, 1236, 1237, 1238, 1239, 1240, 1241, 1242, 1243, 1244, 1245, 1246, 1247, 1248, 1249, 1250, 1251, 1252, 1253, 1254, 1255, 1256, 1257, 1258, 125"
+dc918205-fb3a-42a9-805e-ec2c3e1c7352,106,262,60,4.3667,4.0859,64.12,257,11.7075,21.95,2.9211,True,"Answer: B. Seminoma
+
+Explanation: Ans. is 'b' i.e., Seminoma Seminoma is a germ cell tumor of the testis. It is a malignant tumor of the testis and is characterized by the presence of a painless mass in the scrotum. It is also known as testicular cancer. Seminoma is a type of germ cell tumor. Seminoma is a type of germ cell tumor. Seminoma is a type of germ cell tumor. Seminoma is a type of germ cell tumor. Seminoma is a type of germ cell tumor. Seminoma is a type of germ cell tumor. Seminoma is a type of germ cell tumor. Seminoma is a type of germ cell tumor. Seminoma is a type of germ cell tumor. Seminoma is a type of germ cell tumor. Seminoma is a type of germ cell tumor. Seminoma is a type of germ cell tumor. Seminoma is a type of germ cell tumor. Seminoma is a type of germ cell tumor. Seminoma is a type of germ cell tumor. Seminoma is a type of germ cell tumor. Seminoma is a type of germ cell tumor. Seminoma is a"
+fec4f95e-7c1c-4e3e-9245-18cc14fe84e9,93,71,34,2.0882,2.3388,30.36,70,3.236,21.63,1.4034,True,"Answer: B. Blocking voltage gated Ca+ channels on presynaptic membrane
+
+Explanation: Acetyl choline release from presynaptic membrane is increased by blocking voltage gated Ca+ channels on presynaptic membrane. Ref: Ganong&;s review of medical physiology, 23rd edition, page no: 127.
+"
+4eb2c660-2893-450f-957c-536b6a6f9b3d,64,259,58,4.4655,3.8991,66.43,257,11.8449,21.7,3.0615,True,"Answer: A. Feeling thirsty while walking in hot temperature
+
+Explanation: Ans. is 'a' i.e., Feeling thirsty while walking in hot temperatureRef: Ganong&;s review of medical physiology, 23rd edition, page number: 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 16"
+7c6fe266-845b-4f4b-8ddb-ca5d016e0396,139,111,37,3.0,2.5377,43.74,110,5.0404,21.82,2.0042,True,"Answer: A. At least one case of non-polio AFP per year per 1000 population of under 5 years
+
+Explanation: Ans. is 'a' i.e., At least one case of non-polio AFP per year per 1000 population of under 5 yearsRef: Park 23rd edition p. 1222-1223The key indicator for AFP surveillance is the number of AFP cases per year per 1000 population of under 5 years.
+"
+e5be7962-590f-4590-bb2b-84860a14a42a,63,62,30,2.0667,2.1049,29.45,257,11.6483,22.06,1.335,False,"Answer: A. Metabolic acidosis
+
+Explanation: Ans. is 'a' i.e., Metabolic acidosis Massive blood transfusion leads to metabolic acidosis. Ref: Ganong&;s review of medical physiology, 23rd edition, page number: 125.
+"
+20f29076-98f9-479b-a77b-96fae28d5689,129,101,38,2.6579,2.5808,39.14,100,4.6394,21.55,1.8157,True,"Answer: A. VHL syndrome
+
+Explanation: VHL syndrome is characterized by multiple angiomyolipomas, hematuria, and hematuria with renal failure. The angiomyolipomas are located in the renal parenchyma and renal pelvis. The most common site of angiomyolipoma is the renal cortex. The most common site of hematuria is the renal pelvis. The most common site of renal failure is the renal parenchyma.
+"
+bdc34663-b39a-47bb-b034-7f804e437c09,89,259,58,4.4655,3.8894,66.59,257,11.789,21.8,3.0546,True,"Answer: A. Akathisia
+
+Explanation: Ans. is 'a' i.e., AkathisiaAkathisia is a restlessness of the limbs and a feeling of being unable to sit still. It is a common side effect of antipsychotic drugs. It is characterized by a feeling of inner restlessness and urges to move. It is a common side effect of antipsychotic drugs. It is characterized by a feeling of inner restlessness and urges to move. It is a common side effect of antipsychotic drugs. It is characterized by a feeling of inner restlessness and urges to move. It is a common side effect of antipsychotic drugs. It is characterized by a feeling of inner restlessness and urges to move. It is a common side effect of antipsychotic drugs. It is characterized by a feeling of inner restlessness and urges to move. It is a common side effect of antipsychotic drugs. It is characterized by a feeling of inner restlessness and urges to move. It is a common side effect of antipsychotic drugs. It is characterized by a feeling of inner restlessness and urges to move. It is a common side effect of antipsychotic drugs. It is characterized by a feeling of inner"
+e342fc89-9875-4188-9009-b9065fdf5b9c,54,259,47,5.5106,3.2174,80.5,257,11.8092,21.76,3.699,True,"Answer: A. V
+
+Explanation: Ans. is 'a' i.e., V Ti6Al4V is a stable alloy of Ti and Al. Ti6Al4V is a stable alloy of Ti and Al. Ti6Al4V is a stable alloy of Ti and Al. Ti6Al4V is a stable alloy of Ti and Al. Ti6Al4V is a stable alloy of Ti and Al. Ti6Al4V is a stable alloy of Ti and Al. Ti6Al4V is a stable alloy of Ti and Al. Ti6Al4V is a stable alloy of Ti and Al. Ti6Al4V is a stable alloy of Ti and Al. Ti6Al4V is a stable alloy of Ti and Al. Ti6Al4V is a stable alloy of Ti and Al. Ti6Al4V is a stable alloy of Ti and Al. Ti6Al4V is a stable alloy of Ti and Al. Ti6Al4V is a stable alloy of Ti and Al. Ti6Al4V is a stable alloy of Ti and Al. Ti6Al4V is a stable alloy of Ti and Al. Ti6Al4V is a stable alloy of Ti and Al. Ti6Al"
+18d5c4a1-cb81-41a8-9bfc-b6f7dec431d2,58,261,61,4.2787,4.1234,63.3,257,11.8461,21.69,2.9176,True,"Answer: A. Ventricular bigeminy
+
+Explanation: Ans. is 'a' i.e., Ventricular bigeminyThe given ECG shows the following features:1. Ventricular bigeminy2. ST segment depression in V1- V33. ST segment depression in V1- V34. ST segment depression in V1- V35. ST segment depression in V1- V36. ST segment depression in V1- V37. ST segment depression in V1- V38. ST segment depression in V1- V39. ST segment depression in V1- V310. ST segment depression in V1- V311. ST segment depression in V1- V312. ST segment depression in V1- V313. ST segment depression in V1- V314. ST segment depression in V1- V315. ST segment depression in V1- V316. ST segment depression in V1- V317. ST segment depression in V1- V318. ST segment depression in V1- V319. ST segment depression in V1- V320. ST segment depression in V1- V"
+65bef933-00cc-4f7b-8ca0-a77f2fe92c57,62,265,49,5.4082,3.3953,78.05,257,11.87,21.65,3.6048,True,"Answer: A. Schedule H
+
+Explanation: Ans. is 'a' i.e., Schedule H Schedule H: Schedule H drugs are the most dangerous drugs. These drugs are not available without prescription. These drugs are not available in the market. These drugs are not available in the market. These drugs are not available in the market. These drugs are not available in the market. These drugs are not available in the market. These drugs are not available in the market. These drugs are not available in the market. These drugs are not available in the market. These drugs are not available in the market. These drugs are not available in the market. These drugs are not available in the market. These drugs are not available in the market. These drugs are not available in the market. These drugs are not available in the market. These drugs are not available in the market. These drugs are not available in the market. These drugs are not available in the market. These drugs are not available in the market. These drugs are not available in the market. These drugs are not available in the market. These drugs are not available in the market. These drugs are not available in the market. These drugs are not available in the market. These drugs are not available in the market. These drugs are not available in the market."
+97bd8c32-3ea6-41e1-856e-b9a91d20e643,56,74,35,2.1143,2.4247,30.52,73,3.4083,21.42,1.4249,True,"Answer: B. VSD
+
+Explanation: Ans. is 'b' i.e., VSD Endocarditis is a complication of infective heart disease. It is most commonly seen in VSD, ASD, and PDA. Ref: Ganong&;s review of medical physiology, 23rd edition, page number 122.
+"
+770a2934-5df3-4d53-a79c-0d4358b95016,65,39,22,1.7727,1.5692,24.85,38,1.7852,21.29,1.1676,True,"Answer: B. Ovary
+
+Explanation: Ans. is 'b' i.e., Ovary Intraocular metastasis from ovarian cancer is the most common intraocular metastasis.
+"
+725d9973-1082-4c9b-b4fb-9c63a4615e63,62,40,15,2.6667,1.076,37.17,39,1.8291,21.32,1.7435,True,"Answer: B. 2 weeks
+
+Explanation: Ans. is 'b' i.e., 2 weeks Postherpetic neuralgia is defined as pain lasting beyond 2 weeks.
+"
+0fc0b4ce-9bfd-48a2-920d-88c67e2c4e9c,126,258,55,4.6909,3.778,68.29,257,11.8561,21.68,3.1504,False,"Answer: B. Hypeensive intracranial hemorrhage
+
+Explanation: Ans. is 'b' i.e., Hypeensive intracranial hemorrhage Ref: Park 23rd ed. p. 1225-1226, 1227, 1228, 1229, 1230, 1231, 1232, 1233, 1234, 1235, 1236, 1237, 1238, 1239, 1240, 1241, 1242, 1243, 1244, 1245, 1246, 1247, 1248, 1249, 1250, 1251, 1252, 1253, 1254, 1255, 1256, 1257, 1258, 1259, 126"
+be168ef1-fee0-4f80-9c60-6259e78b56b9,66,258,72,3.5833,4.9326,52.3,257,11.7972,21.78,2.401,True,"Answer: B. 90 minutes
+
+Explanation: Ans. is 'b' i.e., 90 minutes Ref: Ganong&;s review of medical physiology, 23rd edition, page number: 1276 Migratory motor complexes are the rhythmic contractions of the gut that occur in the absence of food. These are the rhythmic contractions of the gut that occur in the absence of food. These are the rhythmic contractions of the gut that occur in the absence of food. These are the rhythmic contractions of the gut that occur in the absence of food. These are the rhythmic contractions of the gut that occur in the absence of food. Ref: Ganong&;s review of medical physiology, 23rd edition, page number: 1276 Ref: Ganong&;s review of medical physiology, 23rd edition, page number: 1276 Ref: Ganong&;s review of medical physiology, 23rd edition, page number: 1276 Ref: Ganong&;s review of medical physiology, 23rd edition, page number: 1276 Ref: Ganong&;s review of medical"
+8729556c-a513-42d6-abc1-ed7f6c9ca397,106,263,67,3.9254,4.5116,58.29,257,11.8248,21.73,2.6822,True,"Answer: A. Risperidone
+
+Explanation: Ans. is 'a' i.e., RisperidoneRisperidone is an atypical antipsychotic drug that is used in the treatment of schizophrenia, bipolar disorder, and schizoaffective disorder. It is also used in the treatment of mania, depression, and anxiety disorders. It is also used in the treatment of Tourette syndrome. It is also used in the treatment of obsessive-compulsive disorder. It is also used in the treatment of attention-deficit disorder. It is also used in the treatment of autism. It is also used in the treatment of bipolar disorder. It is also used in the treatment of schizophrenia. It is also used in the treatment of schizoaffective disorder. It is also used in the treatment of mania, depression, and anxiety disorders. It is also used in the treatment of obsessive-compulsive disorder. It is also used in the treatment of attention-deficit disorder. It is also used in the treatment of autism. It is also used in the treatment of bipolar disorder. It is also used in the treatment of schizophrenia. It is also used in the treatment of schizoaffective disorder. It is also used in the treatment of mania, depression, and anxiety disorders. It is"
+1348a664-1ccc-422f-a083-91d77cb24b92,46,262,58,4.5172,3.9809,65.81,257,11.974,21.46,3.0663,True,"Answer: B. Meterological
+
+Explanation: Ans. is 'b' i.e., Meterological Ref: Ganong&;s review of medical physiology, 23rd edition, page number: 1225, 1226, 1227, 1228, 1229, 1230, 1231, 1232, 1233, 1234, 1235, 1236, 1237, 1238, 1239, 1240, 1241, 1242, 1243, 1244, 1245, 1246, 1247, 1248, 1249, 1250, 1251, 1252, 1253, 1254, 1255, 1256, 1257, 1258, 1259, 1260, 1261"
+0489f20c-a0ce-4251-9eec-e8d5e691a49e,79,259,57,4.5439,3.9692,65.25,257,11.8994,21.6,3.0212,True,"Answer: B. Bradycardia with AV Block
+
+Explanation: Verapamil is a calcium channel blocker. It is used in the treatment of hypertension and arrhythmias. Verapamil is a negative inotropic agent and is used in the treatment of supraventricular tachycardia. Verapamil is a negative inotropic agent and is used in the treatment of supraventricular tachycardia. Verapamil is a negative inotropic agent and is used in the treatment of supraventricular tachycardia. Verapamil is a negative inotropic agent and is used in the treatment of supraventricular tachycardia. Verapamil is a negative inotropic agent and is used in the treatment of supraventricular tachycardia. Verapamil is a negative inotropic agent and is used in the treatment of supraventricular tachycardia. Verapamil is a negative inotropic agent and is used in the treatment of supraventricular tachycardia. Verapamil is a negative inotropic agent and is used in the treatment of supraventricular tachycardia. Verapamil is a negative in"
+bee78f93-a09e-491f-856e-846b81e4aa5c,88,32,10,3.2,0.746,42.9,31,1.4464,21.43,2.0014,True,"Answer: A. Extended treatment for diabetic retinopathy study
+
+Explanation: ETDRS stands for Extended Treatment for Diabetic Retinopathy Study.
+"
+4c0b406e-5d78-4f1d-99ca-c51f8d240e4f,117,31,10,3.1,0.7425,41.75,30,1.4465,20.74,2.0132,True,"Answer: D. Singeing of eyebrows and facial hair
+
+Explanation: Singing of eyebrows and facial hair is a sign of inhalation burns.
+"
+3745bf96-43aa-40b2-ae62-3be01c0f92a4,95,69,31,2.2258,2.1633,31.9,68,3.1588,21.53,1.4817,True,"Answer: C. Ongoing pregnancy
+
+Explanation: Ans. is 'c' i.e., Ongoing pregnancyThe given condition is spontaneous abortion and secondary amenorrhea. The FSH level is 6 IU/mL. The FSH level is normal in pregnancy. Hence, the most probable cause of amenorrhea is ongoing pregnancy.
+"
+28709e53-cbb8-48d9-aa3e-44aaa7037257,57,262,46,5.6957,3.1486,83.21,257,11.9071,21.58,3.8552,True,"Answer: D. >50%
+
+Explanation: Ans. is 'd' i.e., >50%Moality associated with emergency abdominal aoic surgery is >50%Moality associated with emergency abdominal aoic surgery is >50%Moality associated with emergency abdominal aoic surgery is >50%Moality associated with emergency abdominal aoic surgery is >50%Moality associated with emergency abdominal aoic surgery is >50%Moality associated with emergency abdominal aoic surgery is >50%Moality associated with emergency abdominal aoic surgery is >50%Moality associated with emergency abdominal aoic surgery is >50%Moality associated with emergency abdominal aoic surgery is >50%Moality associated with emergency abdominal aoic surgery is >50%Moality associated with emergency abdominal aoic surgery is >50%Moality associated with emergency abdominal aoic surgery is >50%Moality associated with emergency abdominal aoic surgery is >50%Moality associated with emergency abdominal aoic surgery is >50%Moality associated with emergency abdominal aoic surgery is >50%Moality associated with emergency abdominal aoic surgery is >50%Moality associated with emergency abdominal aoic surgery is >50%Mo"
+7912bdab-3d26-40a1-91c3-9d52e760b930,83,39,18,2.1667,1.2763,30.56,38,1.7963,21.15,1.4444,True,"Answer: B. Sackett
+
+Explanation: Ans. is 'b' i.e., SackettSackett was the first to propose the concept of evidence-based medicine.
+"
+2f6be3a1-0736-4ec3-9e42-aa9732e401d6,95,46,16,2.875,1.1332,40.59,45,2.1014,21.41,1.8956,True,"Answer: A. Pentazocine
+
+Explanation: Pentazocine is a mixed agonist-antagonist at mu and kappa receptors. It is used for the treatment of pain in patients with renal stones.
+"
+c5bc52bf-c316-48d2-9c03-ed4ac17338ab,66,259,97,2.6701,6.5943,39.28,257,11.8307,21.72,1.808,True,"Answer: B. Tamoxifen
+
+Explanation: Ans. is 'b' i.e., Tamoxifen PCOD is a condition of ovulatory dysfunction. It is characterised by irregular ovulation, anovulation, hyperandrogenism and polycystic ovaries. It is a common endocrine disorder in women of reproductive age. PCOD is a common cause of infertility. PCOD is characterised by the following features: - Irregular ovulation - Hyperandrogenism - Polycystic ovaries - Obesity - Insulin resistance - Hyperinsulinemia - Impaired glucose tolerance - Obesity - Insulin resistance - Hyperinsulinemia - Impaired glucose tolerance - Obesity - Insulin resistance - Hyperinsulinemia - Impaired glucose tolerance - Obesity - Insulin resistance - Hyperinsulinemia - Impaired glucose tolerance - Obesity - Insulin resistance - Hyperinsulinemia - Impaired glucose tolerance - Obesity - Insulin resistance - Hyperinsulinemia - Impaired glucose tolerance - Obesity - Insulin resistance - Hyperinsulinemia - Impaired glucose tolerance - Obesity - Insulin resistance - Hyperinsulinemia - Impaired glucose tolerance - Obesity - Insulin resistance - Hyperinsulinemia - Impaired glucose tolerance - Obesity - Insulin resistance - Hyperins"
+543b341f-7350-4a9b-9bc6-63a1a2cee1e8,57,33,14,2.3571,1.0052,32.83,32,1.5001,21.33,1.539,True,"Answer: A. CRISPR
+
+Explanation: Ans. is 'a' i.e., CRISPR CRISPR is a gene editing tool.
+"
+8db7e145-052a-4774-9a5f-db3c4e9ac1d6,85,40,11,3.6364,0.807,49.57,39,1.8575,21.0,2.3608,True,"Answer: D. 146 cm
+
+Explanation: The length of the humerus is 24.5 cm. The height of the person is 146 cm.
+"
+28e47981-c859-48ad-a4b9-14a13c5b3a34,83,92,36,2.5556,2.4781,37.13,91,4.201,21.66,1.7139,True,"Answer: A. Radical cure of Plasmodium vivax
+
+Explanation: Ans. is 'a' i.e., Radical cure of Plasmodium vivaxTafenoquine is a new antimalarial drug that is effective against Plasmodium vivax and Plasmodium ovale. It is used for radical cure of vivax and ovale malaria. It is also used for prophylaxis of malaria in pregnancy.
+"
+46653ca7-d61a-4d6a-a135-91309eff9b49,58,82,34,2.4118,2.3271,35.24,81,3.7498,21.6,1.6313,True,"Answer: D. Disability adjusted life years
+
+Explanation: Ans. is 'd' i.e., Disability adjusted life years (DALYs) DALYs is the best index for burden of disease. DALYs is the sum of years of life lost due to premature death and years of life lost due to disability. Ref: Park 23rd edition, p. 125
+"
+678018c2-3154-4411-937e-0e5d4116739f,74,260,63,4.127,4.2087,61.78,257,11.8651,21.66,2.8521,False,"Answer: B. Alkylation
+
+Explanation: Ans. is 'b' i.e., Alkylation Alkylation is a type of posttranslational modification of proteins. It is a chemical modification that involves the addition of an alkyl group to a protein. Alkyl groups are organic compounds that contain a single carbon atom and a hydrocarbon chain. Alkyl groups are also known as alkylating agents. Alkyl groups are also known as alkylating agents. Alkyl groups are also known as alkylating agents. Alkyl groups are also known as alkylating agents. Alkyl groups are also known as alkylating agents. Alkyl groups are also known as alkylating agents. Alkyl groups are also known as alkylating agents. Alkyl groups are also known as alkylating agents. Alkyl groups are also known as alkylating agents. Alkyl groups are also known as alkylating agents. Alkyl groups are also known as alkylating agents. Alkyl groups are also known as alkylating agents. Alkyl groups are also known as alkylating agents. Alkyl groups are also known as alkylating agents. Alkyl groups"
+93308f4a-1927-4596-981a-58f373a9707e,64,48,18,2.6667,1.3125,36.57,47,2.2263,21.11,1.7324,True,"Answer: C. Polycarboxylate
+
+Explanation: Ans. is 'c' i.e., Polycarboxylate Polycarboxylate has the best modulus of elasticity of all the cements.
+"
+b22457e3-c620-4a3d-bde1-0aa6e6c185a7,59,257,54,4.7593,3.6871,69.7,257,11.7562,21.86,3.1885,False,"Answer: B
+
+Explanation: Ans. is 'b' i.e., B Cluster B personality disorders are characterized by a pervasive pattern of fear, anxiety, and avoidance of interpersonal relationships. These disorders are also called avoidant personality disorder. Cluster B personality disorders are characterized by a pervasive pattern of fear, anxiety, and avoidance of interpersonal relationships. These disorders are also called avoidant personality disorder. Cluster B personality disorders are characterized by a pervasive pattern of fear, anxiety, and avoidance of interpersonal relationships. These disorders are also called avoidant personality disorder. Cluster B personality disorders are characterized by a pervasive pattern of fear, anxiety, and avoidance of interpersonal relationships. These disorders are also called avoidant personality disorder. Cluster B personality disorders are characterized by a pervasive pattern of fear, anxiety, and avoidance of interpersonal relationships. These disorders are also called avoidant personality disorder. Cluster B personality disorders are characterized by a pervasive pattern of fear, anxiety, and avoidance of interpersonal relationships. These disorders are also called avoidant personality disorder. Cluster B personality disorders are characterized by a pervasive pattern of fear, anxiety, and avoidance of interpersonal relationships. These disorders are also called avoidant personality disorder. Cluster B personality disorders are characterized by a pervasive pattern of fear, anxiety, and avoidance of interpersonal relationships. These disorders are"
+cb6588a7-e4ef-4670-b6aa-7eae297fb443,71,33,9,3.6667,0.6733,49.01,32,1.5552,20.58,2.3819,True,"Answer: C. 40 weeks
+
+Explanation: The exact number of weeks between last menstrual period and expected date of delivery is 40 weeks.
+"
+713b94cf-fc1e-4c32-b28e-f187cf86562d,57,44,16,2.75,1.1462,38.39,43,2.0245,21.24,1.8074,True,"Answer: D. Crowding
+
+Explanation: IOTN is used for open bite, CLP, Bimaxillary protrusion. Crowding is not a condition that can be treated by IOTN.
+"
+4f50899d-3016-461b-bd81-c1c29fbe6d29,51,35,11,3.1818,0.793,44.13,34,1.588,21.41,2.0613,True,"Answer: B. Military hospitals
+
+Explanation: A psychiatrist is not posted at military hospitals. He is posted at PHC, District hospitals, hospitals with medical colleges.
+"
+22e9f959-2d98-46de-b35c-601974f8d014,73,48,25,1.92,1.7195,27.91,47,2.1757,21.6,1.2922,True,"Answer: B. Rectal
+
+Explanation: Ans. is 'b' i.e., RectalRef: Park 23rd ed. p. 1227The ideal site for measuring temperature is rectum.
+"
+2c37d934-7b5e-4e0d-9b34-55ae75466301,67,41,16,2.5625,1.1547,35.51,40,1.8583,21.52,1.6496,True,"Answer: B. Submandibular
+
+Explanation: Ans. is 'b' i.e., SubmandibularThe submandibular gland is not removed in radical neck dissection.
+"
+bbb8ca0b-54ed-4f08-a87d-8eef087e37f1,90,45,14,3.2143,0.9914,45.39,44,2.0485,21.48,2.1133,True,"Answer: C. Life expectancy at bih, infant moality and quality of life
+
+Explanation: Human Development Index (HDI) is a composite measure that uses life expectancy at birth, literacy and child mortality.
+"
+71803632-1b88-4332-88f5-be3ac2515b85,61,57,20,2.85,1.3782,41.36,90,4.1177,21.86,1.8923,False,"Answer: A. PAX-6
+
+Explanation: Answer- A (PAX-6)PAX-6 gene is responsible for the formation of the lens and the cornea. Mutations in this gene are responsible for the formation of congenital cataract.
+"
+ced0e6e7-048a-467e-aa7e-e10def9ebb5e,74,61,19,3.2105,1.3206,46.19,60,2.7478,21.84,2.1155,True,"Answer: C. 2% Lysol
+
+Explanation: Ans. is 'c' i.e., 2% Lysol 2% Lysol is not used as a disinfectant. It is used as a disinfectant for the disinfection of the skin.
+"
+af87accb-34b2-42de-be48-16e94bbf22ab,69,262,45,5.8222,3.0103,87.03,257,11.7704,21.83,3.986,True,"Answer: B. Sho-chain fatty acid
+
+Explanation: Sho-chain fatty acid is the only one that accumulates in brain in cerebrohepatorenal syndrome. Sho-chain fatty acid is the only one that accumulates in brain in cerebrohepatorenal syndrome. Sho-chain fatty acid is the only one that accumulates in brain in cerebrohepatorenal syndrome. Sho-chain fatty acid is the only one that accumulates in brain in cerebrohepatorenal syndrome. Sho-chain fatty acid is the only one that accumulates in brain in cerebrohepatorenal syndrome. Sho-chain fatty acid is the only one that accumulates in brain in cerebrohepatorenal syndrome. Sho-chain fatty acid is the only one that accumulates in brain in cerebrohepatorenal syndrome. Sho-chain fatty acid is the only one that accumulates in brain in cerebrohepatorenal syndrome. Sho-chain fatty acid is the only one that accumulates in brain in cerebrohepatorenal syndrome. Sho-chain fatty acid is the only one that accumulates in brain in cerebrohepatorenal syndrome. Sho-chain fatty acid is the only one that accumulates in brain in cerebrohepatorenal syndrome. Sho-chain fatty acid is the only one that"
+860f5673-7e87-4a35-ba17-628c738929fa,74,70,35,2.0,2.427,28.84,69,3.184,21.67,1.3309,True,"Answer: A. Low molecular weight heparin
+
+Explanation: Ans. is 'a' i.e., Low molecular weight heparin (LMWH) LMWHs are the drugs of choice for the treatment of cancer associated thromboembolism. Ref: Harrison 18th ed. p. 1925
+"
+fb8c4e20-6d34-461e-8e14-45fcd8c662e4,107,111,37,3.0,2.5228,44.0,110,5.0688,21.7,2.0275,True,"Answer: A. Ceftriaxone 250 mg IM single dose
+
+Explanation: Ans. is 'a' i.e., Ceftriaxone 250 mg IM single doseRef: Park 23rd ed. p. 1225Gonococcal urethritis is treated with ceftriaxone 250 mg IM single dose. Non-gonococcal urethritis is treated with cefixime 400 mg oral single dose.
+"
+f8a5b0e2-b529-4ad4-b55d-f6e5fc4708e1,108,263,53,4.9623,3.6343,72.37,257,11.9163,21.57,3.3553,True,"Answer: A. 45.70%
+
+Explanation: The formula for positive predictive value is: (True positive / (True positive + False positive)) * 100. The formula for negative predictive value is: (True negative / (True negative + False negative)) * 100. The formula for sensitivity is: (True positive / (True positive + False negative)) * 100. The formula for specificity is: (True negative / (True negative + False positive)) * 100. The formula for the prevalence of a disease is: (True positive + False negative) / (True positive + False negative + True negative + False positive) * 100. The formula for the incidence of a disease is: (True positive + False negative) / (True positive + False negative + True negative + False positive) * 100. The formula for the incidence of a disease is: (True positive + False negative) / (True positive + False negative + True negative + False positive) * 100. The formula for the incidence of a disease is: (True positive + False negative) / (True positive + False negative + True negative + False positive) * 100. The formula for the incidence of"
+8be32dbe-9a46-4a8a-8c08-ff89c3e78c3d,68,257,85,3.0235,5.7956,44.34,72,3.3623,21.41,2.0708,False,"Answer: C. Aldosterone
+
+Explanation: Ans. is 'c' i.e., Aldosterone Fetal adrenals are the adrenal glands of the fetus. They are not functional in the first trimester of pregnancy. The adrenal glands of the fetus are not functional until the second trimester. The adrenal glands of the fetus are not functional until the second trimester. The adrenal glands of the fetus are not functional until the second trimester. The adrenal glands of the fetus are not functional until the second trimester. The adrenal glands of the fetus are not functional until the second trimester. The adrenal glands of the fetus are not functional until the second trimester. The adrenal glands of the fetus are not functional until the second trimester. The adrenal glands of the fetus are not functional until the second trimester. The adrenal glands of the fetus are not functional until the second trimester. The adrenal glands of the fetus are not functional until the second trimester. The adrenal glands of the fetus are not functional until the second trimester. The adrenal glands of the fetus are not functional until the second trimester. The adrenal glands of the fetus are not functional until the second trimester. The adrenal glands of the fetus are not functional until the second trimester. The adrenal"
+2ab8b27b-1646-4886-8378-f2f11f84a79e,57,45,17,2.6471,1.2247,36.75,44,2.1068,20.88,1.7594,True,"Answer: B. H,SO4
+
+Explanation: Ans. is 'b' i.e., H2SO4Acid that does not show coagulation necrosis on contact is H2SO4.
+"
+b3aa72de-f85c-407f-892b-9dae7d953417,61,95,52,1.8269,3.5837,26.51,94,4.3432,21.64,1.2248,True,"Answer: B. Linezolid
+
+Explanation: Ans. is 'b' i.e., LinezolidLinezolid is a bacteriostatic antibiotic that does not affect DNA synthesis. It is a member of the lincosamide class of antibiotics. It is used for treatment of infections caused by anaerobic bacteria. Ref: Ganong&;s review of medical physiology, 23rd edition, page number: 1225
+"
+db180b6d-8b4e-487e-a47d-7c554c8dad2e,75,36,11,3.2727,0.8535,42.18,35,1.6398,21.34,1.9762,True,"Answer: C. Polycarboxylate cements
+
+Explanation: Polycarboxylate cements are the only materials that show chemical bond with enamel.
+"

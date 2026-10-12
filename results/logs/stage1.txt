@@ -1,0 +1,221 @@
+name, memory.total [MiB]
+Tesla T4, 15360 MiB
+Tesla T4, 15360 MiB
+[?25l     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/40.9 kB[0m [31m?[0m eta [36m-:--:--[0m[2K     [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m40.9/40.9 kB[0m [31m1.3 MB/s[0m eta [36m0:00:00[0m
+[?25h[?25l   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/10.8 MB[0m [31m?[0m eta [36m-:--:--[0m[2K   [91m━━[0m[90m╺[0m[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.6/10.8 MB[0m [31m19.0 MB/s[0m eta [36m0:00:01[0m[2K   [91m━━━━━━━━━━━━━━━[0m[91m╸[0m[90m━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m4.3/10.8 MB[0m [31m62.7 MB/s[0m eta [36m0:00:01[0m[2K   [91m━━━━━━━━━━━━━━━━━━━━━━━━[0m[91m╸[0m[90m━━━━━━━━━━━━━━━[0m [32m6.6/10.8 MB[0m [31m64.0 MB/s[0m eta [36m0:00:01[0m[2K   [91m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m[91m╸[0m [32m10.8/10.8 MB[0m [31m109.0 MB/s[0m eta [36m0:00:01[0m[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m10.8/10.8 MB[0m [31m72.4 MB/s[0m eta [36m0:00:00[0m
+[?25h[?25l   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/472.3 kB[0m [31m?[0m eta [36m-:--:--[0m[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m472.3/472.3 kB[0m [31m20.4 MB/s[0m eta [36m0:00:00[0m
+[?25h[?25l   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/566.4 kB[0m [31m?[0m eta [36m-:--:--[0m[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m566.4/566.4 kB[0m [31m27.7 MB/s[0m eta [36m0:00:00[0m
+[?25h[?25l   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m0.0/3.1 MB[0m [31m?[0m eta [36m-:--:--[0m[2K   [90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━[0m [32m3.1/3.1 MB[0m [31m93.2 MB/s[0m eta [36m0:00:00[0m
+[?25h[31mERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+gradio 6.26.0 requires huggingface-hub<2.0,>=1.16.0, but you have huggingface-hub 0.36.2 which is incompatible.
+diffusers 0.40.0 requires huggingface-hub<2.0,>=1.23.0, but you have huggingface-hub 0.36.2 which is incompatible.[0m[31m
+[0mEAGLE commit cb7e084 (Thu Feb 19 21:53:29 2026 -0500)
+torch 2.11.0+cu128 | transformers 4.53.3 | peft 0.16.0 | Tesla T4
+/kaggle/working/drafter-lora
+Writing common.py
+Writing head_lora.py
+Writing make_prompts.py
+Writing check_head.py
+Writing bench.py
+Writing summarize.py
+Writing train_target_lora.py
+Writing gen_head_data.py
+Writing train_head_lora.py
+Writing plot.py
+README.md: 0.00B [00:00, ?B/s]README.md: 7.47kB [00:00, 28.3MB/s]
+data/train-00000-of-00001-a09b74b3ef9c3b(…):   0%|  | 0.00/24.2M [00:00<?, ?B/s]data/train-00000-of-00001-a09b74b3ef9c3b(…): 100%|█| 24.2M/24.2M [00:00<00:00, 5data/train-00000-of-00001-a09b74b3ef9c3b(…): 100%|█| 24.2M/24.2M [00:00<00:00, 4
+Generating train split:   0%|                  | 0/52002 [00:00<?, ? examples/s]Generating train split:  48%|▉ | 25000/52002 [00:00<00:00, 165241.19 examples/s]Generating train split: 100%|██| 52002/52002 [00:00<00:00, 245338.65 examples/s]
+Filter:   0%|                                  | 0/52002 [00:00<?, ? examples/s]Filter:  13%|██▋                 | 7000/52002 [00:00<00:00, 65385.82 examples/s]Filter:  29%|█████▍             | 15000/52002 [00:00<00:00, 72401.29 examples/s]Filter:  44%|████████▍          | 23000/52002 [00:00<00:00, 73170.68 examples/s]Filter:  65%|████████████▍      | 34000/52002 [00:00<00:00, 70692.05 examples/s]Filter:  81%|███████████████▎   | 42000/52002 [00:00<00:00, 69191.85 examples/s]Filter:  94%|█████████████████▉ | 49000/52002 [00:00<00:00, 68546.78 examples/s]Filter: 100%|███████████████████| 52002/52002 [00:00<00:00, 69595.47 examples/s]
+README.md: 0.00B [00:00, ?B/s]README.md: 10.7kB [00:00, 31.2MB/s]
+data/train-00000-of-00001.parquet:   0%|            | 0.00/85.9M [00:00<?, ?B/s]data/train-00000-of-00001.parquet: 100%|███| 85.9M/85.9M [00:00<00:00, 86.1MB/s]data/train-00000-of-00001.parquet: 100%|███| 85.9M/85.9M [00:00<00:00, 86.1MB/s]
+data/test-00000-of-00001.parquet:   0%|              | 0.00/936k [00:00<?, ?B/s]data/test-00000-of-00001.parquet: 100%|██████| 936k/936k [00:00<00:00, 4.56MB/s]data/test-00000-of-00001.parquet: 100%|██████| 936k/936k [00:00<00:00, 4.55MB/s]
+data/validation-00000-of-00001.parquet:   0%|       | 0.00/1.48M [00:00<?, ?B/s]data/validation-00000-of-00001.parquet: 100%|█| 1.48M/1.48M [00:00<00:00, 7.86MBdata/validation-00000-of-00001.parquet: 100%|█| 1.48M/1.48M [00:00<00:00, 7.84MB
+Generating train split:   0%|                 | 0/182822 [00:00<?, ? examples/s]Generating train split:  17%|▏| 31000/182822 [00:00<00:00, 295625.36 examples/s]Generating train split:  39%|▍| 71000/182822 [00:00<00:00, 331308.51 examples/s]Generating train split:  65%|▋| 118000/182822 [00:00<00:00, 387844.91 examples/sGenerating train split:  90%|▉| 164000/182822 [00:00<00:00, 412272.20 examples/sGenerating train split: 100%|█| 182822/182822 [00:00<00:00, 391812.65 examples/s
+Generating test split:   0%|                    | 0/6150 [00:00<?, ? examples/s]Generating test split: 100%|█████| 6150/6150 [00:00<00:00, 666657.27 examples/s]
+Generating validation split:   0%|              | 0/4183 [00:00<?, ? examples/s]Generating validation split: 100%|█| 4183/4183 [00:00<00:00, 381482.76 examples/
+Filter:   0%|                                   | 0/4183 [00:00<?, ? examples/s]Filter:  96%|████████████████████ | 4000/4183 [00:00<00:00, 35690.36 examples/s]Filter: 100%|█████████████████████| 4183/4183 [00:00<00:00, 34627.68 examples/s]
+Filter:   0%|                                 | 0/182822 [00:00<?, ? examples/s]Filter:   2%|▍                  | 4000/182822 [00:00<00:06, 29348.29 examples/s]Filter:   4%|▊                  | 8000/182822 [00:00<00:05, 30196.56 examples/s]Filter:   7%|█▏                | 12000/182822 [00:00<00:05, 31245.99 examples/s]Filter:   9%|█▌                | 16000/182822 [00:00<00:05, 31599.60 examples/s]Filter:  11%|█▉                | 20000/182822 [00:00<00:05, 31689.08 examples/s]Filter:  13%|██▎               | 24000/182822 [00:00<00:04, 31971.73 examples/s]Filter:  15%|██▊               | 28000/182822 [00:00<00:04, 32450.60 examples/s]Filter:  18%|███▏              | 32000/182822 [00:01<00:04, 32720.40 examples/s]Filter:  20%|███▌              | 36000/182822 [00:01<00:04, 32439.72 examples/s]Filter:  22%|███▉              | 40000/182822 [00:01<00:04, 32756.35 examples/s]Filter:  24%|████▎             | 44000/182822 [00:01<00:04, 32924.82 examples/s]Filter:  26%|████▋             | 48000/182822 [00:01<00:04, 33149.63 examples/s]Filter:  28%|█████             | 52000/182822 [00:01<00:03, 33168.15 examples/s]Filter:  31%|█████▌            | 56000/182822 [00:01<00:03, 33182.61 examples/s]Filter:  33%|█████▉            | 60000/182822 [00:01<00:03, 33178.21 examples/s]Filter:  35%|██████▎           | 64000/182822 [00:01<00:03, 32668.09 examples/s]Filter:  37%|██████▋           | 68000/182822 [00:02<00:03, 32334.22 examples/s]Filter:  39%|███████           | 72000/182822 [00:02<00:03, 31894.33 examples/s]Filter:  42%|███████▍          | 76000/182822 [00:02<00:03, 31924.23 examples/s]Filter:  44%|███████▉          | 80000/182822 [00:02<00:03, 32218.89 examples/s]Filter:  46%|████████▎         | 84000/182822 [00:02<00:03, 32507.13 examples/s]Filter:  48%|████████▋         | 88000/182822 [00:02<00:02, 32466.99 examples/s]Filter:  50%|█████████         | 92000/182822 [00:02<00:02, 32111.95 examples/s]Filter:  53%|█████████▍        | 96000/182822 [00:02<00:02, 32526.32 examples/s]Filter:  55%|█████████▎       | 100000/182822 [00:03<00:02, 32840.59 examples/s]Filter:  57%|█████████▋       | 104000/182822 [00:03<00:02, 32873.98 examples/s]Filter:  59%|██████████       | 108000/182822 [00:03<00:02, 33015.56 examples/s]Filter:  61%|██████████▍      | 112000/182822 [00:03<00:02, 33237.53 examples/s]Filter:  63%|██████████▊      | 116000/182822 [00:03<00:02, 33124.49 examples/s]Filter:  66%|███████████▏     | 120000/182822 [00:03<00:01, 33035.22 examples/s]Filter:  68%|███████████▌     | 124000/182822 [00:03<00:01, 33166.71 examples/s]Filter:  70%|███████████▉     | 128000/182822 [00:03<00:01, 32886.52 examples/s]Filter:  72%|████████████▎    | 132000/182822 [00:04<00:01, 32633.07 examples/s]Filter:  74%|████████████▋    | 136000/182822 [00:04<00:01, 32032.41 examples/s]Filter:  77%|█████████████    | 140000/182822 [00:04<00:01, 32066.97 examples/s]Filter:  79%|█████████████▍   | 144000/182822 [00:04<00:01, 32323.43 examples/s]Filter:  81%|█████████████▊   | 148000/182822 [00:04<00:01, 32539.34 examples/s]Filter:  83%|██████████████▏  | 152000/182822 [00:04<00:00, 32637.23 examples/s]Filter:  85%|██████████████▌  | 156000/182822 [00:04<00:00, 32975.64 examples/s]Filter:  88%|██████████████▉  | 160000/182822 [00:04<00:00, 33192.83 examples/s]Filter:  90%|███████████████▏ | 164000/182822 [00:05<00:00, 33309.32 examples/s]Filter:  92%|███████████████▌ | 168000/182822 [00:05<00:00, 33276.28 examples/s]Filter:  94%|███████████████▉ | 172000/182822 [00:05<00:00, 33384.26 examples/s]Filter:  96%|████████████████▎| 176000/182822 [00:05<00:00, 33430.09 examples/s]Filter:  98%|████████████████▋| 180000/182822 [00:05<00:00, 33549.27 examples/s]Filter: 100%|█████████████████| 182822/182822 [00:05<00:00, 32652.89 examples/s]
+general_eval=100 med_eval=100 med_train=1000 med_headtrain=600
+config.json:   0%|                                    | 0.00/726 [00:00<?, ?B/s]config.json: 100%|█████████████████████████████| 726/726 [00:00<00:00, 4.37MB/s]
+model.safetensors.index.json: 0.00B [00:00, ?B/s]model.safetensors.index.json: 25.6kB [00:00, 74.0MB/s]
+Fetching 2 files:   0%|                                   | 0/2 [00:00<?, ?it/s]
+model-00002-of-00002.safetensors:   0%|              | 0.00/622M [00:00<?, ?B/s][A
+
+model-00001-of-00002.safetensors:   0%|             | 0.00/3.44G [00:00<?, ?B/s][A[A
+model-00002-of-00002.safetensors:  43%|███    | 268M/622M [00:01<00:01, 211MB/s][A
+model-00002-of-00002.safetensors:  86%|██████ | 536M/622M [00:01<00:00, 401MB/s][A
+
+model-00001-of-00002.safetensors:   2%|    | 67.1M/3.44G [00:01<01:28, 38.1MB/s][A[A
+model-00002-of-00002.safetensors: 100%|███████| 622M/622M [00:02<00:00, 277MB/s][Amodel-00002-of-00002.safetensors: 100%|███████| 622M/622M [00:02<00:00, 284MB/s]
+
+
+model-00001-of-00002.safetensors:   8%|▍     | 268M/3.44G [00:02<00:22, 143MB/s][A[A
+
+model-00001-of-00002.safetensors:  12%|▋     | 402M/3.44G [00:02<00:14, 210MB/s][A[A
+
+model-00001-of-00002.safetensors:  14%|▊     | 469M/3.44G [00:02<00:13, 222MB/s][A[A
+
+model-00001-of-00002.safetensors:  22%|█▎    | 768M/3.44G [00:03<00:06, 435MB/s][A[A
+
+model-00001-of-00002.safetensors:  27%|█▋    | 939M/3.44G [00:03<00:06, 399MB/s][A[A
+
+model-00001-of-00002.safetensors:  33%|█▋   | 1.14G/3.44G [00:03<00:04, 485MB/s][A[A
+
+model-00001-of-00002.safetensors:  41%|██   | 1.43G/3.44G [00:04<00:03, 521MB/s][A[A
+
+model-00001-of-00002.safetensors:  45%|██▏  | 1.54G/3.44G [00:04<00:03, 506MB/s][A[A
+
+model-00001-of-00002.safetensors:  51%|██▌  | 1.74G/3.44G [00:04<00:02, 577MB/s][A[A
+
+model-00001-of-00002.safetensors:  53%|██▋  | 1.83G/3.44G [00:05<00:03, 520MB/s][A[A
+
+model-00001-of-00002.safetensors:  57%|██▊  | 1.94G/3.44G [00:05<00:02, 504MB/s][A[A
+
+model-00001-of-00002.safetensors:  71%|███▌ | 2.43G/3.44G [00:06<00:02, 494MB/s][A[A
+
+model-00001-of-00002.safetensors:  80%|███▉ | 2.75G/3.44G [00:06<00:01, 630MB/s][A[A
+
+model-00001-of-00002.safetensors:  86%|████▎| 2.95G/3.44G [00:07<00:00, 554MB/s][A[A
+
+model-00001-of-00002.safetensors: 100%|█████| 3.44G/3.44G [00:07<00:00, 827MB/s][A[Amodel-00001-of-00002.safetensors: 100%|█████| 3.44G/3.44G [00:07<00:00, 472MB/s]
+Fetching 2 files:  50%|█████████████▌             | 1/2 [00:07<00:07,  7.52s/it]Fetching 2 files: 100%|███████████████████████████| 2/2 [00:07<00:00,  3.76s/it]
+Loading checkpoint shards:   0%|                          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████████         | 1/2 [00:01<00:01,  1.03s/it]Loading checkpoint shards: 100%|██████████████████| 2/2 [00:01<00:00,  1.94it/s]Loading checkpoint shards: 100%|██████████████████| 2/2 [00:01<00:00,  1.69it/s]
+generation_config.json:   0%|                         | 0.00/239 [00:00<?, ?B/s]generation_config.json: 100%|██████████████████| 239/239 [00:00<00:00, 2.69MB/s]
+config.json:   0%|                                    | 0.00/761 [00:00<?, ?B/s]config.json: 100%|█████████████████████████████| 761/761 [00:00<00:00, 6.19MB/s]
+pytorch_model.bin:   0%|                             | 0.00/274M [00:00<?, ?B/s]pytorch_model.bin:  49%|██████████▊           | 134M/274M [00:01<00:01, 133MB/s]pytorch_model.bin: 100%|██████████████████████| 274M/274M [00:02<00:00, 125MB/s]pytorch_model.bin: 100%|██████████████████████| 274M/274M [00:02<00:00, 126MB/s]
+tokenizer_config.json: 0.00B [00:00, ?B/s]tokenizer_config.json: 9.73kB [00:00, 32.9MB/s]
+vocab.json: 0.00B [00:00, ?B/s]vocab.json: 2.78MB [00:00, 42.6MB/s]
+merges.txt: 0.00B [00:00, ?B/s]merges.txt: 1.67MB [00:00, 129MB/s]
+tokenizer.json:   0%|                               | 0.00/11.4M [00:00<?, ?B/s]tokenizer.json: 100%|██████████████████████| 11.4M/11.4M [00:00<00:00, 44.1MB/s]tokenizer.json: 100%|██████████████████████| 11.4M/11.4M [00:01<00:00, 9.63MB/s]
+head tensors in file: 15
+missing keys: none
+unexpected keys: none
+
+--- EAGLE output ---
+The sky appears blue because of the way sunlight interacts with the Earth's atmosphere. When sunlight enters the atmosphere, it collides with molecules and small particles in the air, causing the light to scatter in all directions. Blue light, which has a shorter wavelength, is scattered more than other colors, making the sky appear blue. This scattering effect is called Rayleigh scattering.
+
+--- plain output ---
+The sky appears blue because of the way sunlight interacts with the Earth's atmosphere. When sunlight enters the atmosphere, it collides with molecules and small particles in the air, causing the light to scatter in all directions. Blue light, which has a shorter wavelength, is scattered more than other colors, making the sky appear blue. This scattering effect is called Rayleigh scattering.
+
+accepted tokens/step on this prompt: 2.21
+outputs identical: True
+Loading checkpoint shards:   0%|                          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████████         | 1/2 [00:00<00:00,  1.03it/s]Loading checkpoint shards: 100%|██████████████████| 2/2 [00:01<00:00,  2.03it/s]Loading checkpoint shards: 100%|██████████████████| 2/2 [00:01<00:00,  1.77it/s]
+[1/5] accept_len=2.60 ea=39.8 tok/s base=22.6 tok/s
+[2/5] accept_len=2.93 ea=43.4 tok/s base=22.5 tok/s
+[3/5] accept_len=3.41 ea=50.1 tok/s base=22.4 tok/s
+[4/5] accept_len=2.50 ea=37.3 tok/s base=22.6 tok/s
+[5/5] accept_len=3.47 ea=49.5 tok/s base=21.7 tok/s
+run    prompts  accept_len  ea_tok_per_s  base_tok_per_s  speedup  same_output_pct
+smoke  5        2.871       42.76         22.45           1.905    100.0          
+Loading checkpoint shards:   0%|                          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████████         | 1/2 [00:00<00:00,  1.01it/s]Loading checkpoint shards: 100%|██████████████████| 2/2 [00:01<00:00,  2.01it/s]Loading checkpoint shards: 100%|██████████████████| 2/2 [00:01<00:00,  1.75it/s]
+[1/100] accept_len=2.86 ea=44.1 tok/s base=22.8 tok/s
+[2/100] accept_len=3.43 ea=53.7 tok/s base=22.8 tok/s
+[3/100] accept_len=3.85 ea=59.1 tok/s base=22.9 tok/s
+[4/100] accept_len=2.99 ea=46.5 tok/s base=23.2 tok/s
+[5/100] accept_len=3.47 ea=51.1 tok/s base=22.7 tok/s
+[6/100] accept_len=3.27 ea=50.0 tok/s base=22.7 tok/s
+[7/100] accept_len=2.91 ea=44.9 tok/s base=22.6 tok/s
+[8/100] accept_len=4.03 ea=61.6 tok/s base=22.8 tok/s
+[9/100] accept_len=3.23 ea=49.9 tok/s base=22.9 tok/s
+[10/100] accept_len=4.26 ea=65.0 tok/s base=22.8 tok/s
+[11/100] accept_len=3.06 ea=48.1 tok/s base=22.9 tok/s
+[12/100] accept_len=3.62 ea=55.5 tok/s base=23.1 tok/s
+[13/100] accept_len=3.84 ea=58.6 tok/s base=22.7 tok/s
+[14/100] accept_len=2.46 ea=38.2 tok/s base=22.8 tok/s
+[15/100] accept_len=2.43 ea=37.2 tok/s base=23.0 tok/s
+[16/100] accept_len=2.77 ea=41.4 tok/s base=22.9 tok/s
+[17/100] accept_len=2.77 ea=42.9 tok/s base=22.9 tok/s
+[18/100] accept_len=3.16 ea=48.7 tok/s base=22.8 tok/s
+[19/100] accept_len=2.00 ea=23.8 tok/s base=19.2 tok/s
+[20/100] accept_len=2.40 ea=36.9 tok/s base=22.4 tok/s
+[21/100] accept_len=3.06 ea=46.8 tok/s base=23.1 tok/s
+[22/100] accept_len=3.25 ea=50.7 tok/s base=22.8 tok/s
+[23/100] accept_len=3.02 ea=46.5 tok/s base=22.7 tok/s
+[24/100] accept_len=2.80 ea=36.5 tok/s base=20.8 tok/s
+[25/100] accept_len=2.69 ea=41.6 tok/s base=22.8 tok/s
+[26/100] accept_len=2.56 ea=39.2 tok/s base=22.7 tok/s
+[27/100] accept_len=2.76 ea=42.6 tok/s base=22.8 tok/s
+[28/100] accept_len=3.29 ea=50.4 tok/s base=22.8 tok/s
+[29/100] accept_len=2.71 ea=41.5 tok/s base=22.8 tok/s
+[30/100] accept_len=3.04 ea=46.5 tok/s base=22.9 tok/s
+[31/100] accept_len=2.38 ea=37.0 tok/s base=22.8 tok/s
+[32/100] accept_len=3.65 ea=55.7 tok/s base=22.9 tok/s
+[33/100] accept_len=2.18 ea=32.2 tok/s base=22.5 tok/s
+[34/100] accept_len=2.54 ea=38.8 tok/s base=22.7 tok/s
+[35/100] accept_len=2.48 ea=37.5 tok/s base=22.9 tok/s
+[36/100] accept_len=2.82 ea=43.4 tok/s base=22.8 tok/s
+[37/100] accept_len=2.82 ea=43.4 tok/s base=22.7 tok/s
+[38/100] accept_len=3.25 ea=48.7 tok/s base=22.8 tok/s
+[39/100] accept_len=2.86 ea=44.0 tok/s base=22.6 tok/s
+[40/100] accept_len=2.26 ea=34.2 tok/s base=22.3 tok/s
+[41/100] accept_len=2.94 ea=43.1 tok/s base=22.5 tok/s
+[42/100] accept_len=2.86 ea=43.9 tok/s base=22.6 tok/s
+[43/100] accept_len=2.75 ea=41.8 tok/s base=22.5 tok/s
+[44/100] accept_len=2.84 ea=43.0 tok/s base=22.4 tok/s
+[45/100] accept_len=3.13 ea=47.8 tok/s base=22.6 tok/s
+[46/100] accept_len=3.32 ea=50.8 tok/s base=22.8 tok/s
+[47/100] accept_len=3.06 ea=46.7 tok/s base=22.8 tok/s
+[48/100] accept_len=4.34 ea=66.2 tok/s base=22.8 tok/s
+[49/100] accept_len=2.20 ea=33.8 tok/s base=23.1 tok/s
+[50/100] accept_len=3.38 ea=53.0 tok/s base=22.7 tok/s
+[51/100] accept_len=2.39 ea=36.1 tok/s base=22.5 tok/s
+[52/100] accept_len=3.02 ea=46.6 tok/s base=23.0 tok/s
+[53/100] accept_len=2.35 ea=36.3 tok/s base=23.0 tok/s
+[54/100] accept_len=2.36 ea=35.8 tok/s base=22.3 tok/s
+[55/100] accept_len=3.52 ea=54.2 tok/s base=22.9 tok/s
+[56/100] accept_len=3.10 ea=47.5 tok/s base=22.9 tok/s
+[57/100] accept_len=2.41 ea=36.5 tok/s base=22.8 tok/s
+[58/100] accept_len=2.75 ea=42.2 tok/s base=22.9 tok/s
+[59/100] accept_len=2.84 ea=43.1 tok/s base=22.9 tok/s
+[60/100] accept_len=2.92 ea=44.8 tok/s base=22.7 tok/s
+[61/100] accept_len=3.23 ea=49.6 tok/s base=22.9 tok/s
+[62/100] accept_len=3.00 ea=46.1 tok/s base=22.8 tok/s
+[63/100] accept_len=2.50 ea=35.6 tok/s base=21.5 tok/s
+[64/100] accept_len=2.82 ea=43.9 tok/s base=22.8 tok/s
+[65/100] accept_len=2.88 ea=43.9 tok/s base=22.9 tok/s
+[66/100] accept_len=4.67 ea=54.6 tok/s base=21.6 tok/s
+[67/100] accept_len=2.84 ea=43.5 tok/s base=22.8 tok/s
+[68/100] accept_len=3.27 ea=50.5 tok/s base=23.0 tok/s
+[69/100] accept_len=3.10 ea=47.8 tok/s base=23.1 tok/s
+[70/100] accept_len=4.70 ea=70.3 tok/s base=22.6 tok/s
+[71/100] accept_len=3.12 ea=48.4 tok/s base=22.8 tok/s
+[72/100] accept_len=3.28 ea=49.0 tok/s base=22.8 tok/s
+[73/100] accept_len=2.88 ea=43.2 tok/s base=22.6 tok/s
+[74/100] accept_len=3.10 ea=47.3 tok/s base=22.8 tok/s
+[75/100] accept_len=3.04 ea=46.6 tok/s base=23.0 tok/s
+[76/100] accept_len=3.19 ea=49.8 tok/s base=22.9 tok/s
+[77/100] accept_len=3.50 ea=52.2 tok/s base=22.5 tok/s
+[78/100] accept_len=2.99 ea=46.5 tok/s base=23.0 tok/s
+[79/100] accept_len=3.02 ea=45.0 tok/s base=23.0 tok/s
+[80/100] accept_len=2.54 ea=38.5 tok/s base=23.0 tok/s
+[81/100] accept_len=3.16 ea=46.5 tok/s base=23.1 tok/s
+[82/100] accept_len=3.47 ea=55.0 tok/s base=22.9 tok/s
+[83/100] accept_len=2.56 ea=39.1 tok/s base=22.6 tok/s
+[84/100] accept_len=3.38 ea=51.5 tok/s base=22.9 tok/s
+[85/100] accept_len=3.11 ea=48.2 tok/s base=22.9 tok/s
+[86/100] accept_len=3.84 ea=59.6 tok/s base=23.0 tok/s
+[87/100] accept_len=4.07 ea=62.1 tok/s base=22.5 tok/s
+[88/100] accept_len=3.57 ea=55.0 tok/s base=22.8 tok/s
+[89/100] accept_len=2.98 ea=45.4 tok/s base=23.2 tok/s
+[90/100] accept_len=2.31 ea=36.1 tok/s base=23.0 tok/s
+[91/100] accept_len=2.90 ea=45.8 tok/s base=23.2 tok/s
+[92/100] accept_len=1.71 ea=22.6 tok/s base=21.6 tok/s
+[93/100] accept_len=4.24 ea=63.7 tok/s base=22.9 tok/s
+[94/100] accept_len=3.02 ea=46.9 tok/s base=22.7 tok/s
+[95/100] accept_len=3.04 ea=46.5 tok/s base=22.7 tok/s
+[96/100] accept_len=2.83 ea=43.5 tok/s base=22.7 tok/s
+[97/100] accept_len=2.55 ea=39.4 tok/s base=22.8 tok/s
+[98/100] accept_len=4.76 ea=70.8 tok/s base=22.7 tok/s
+[99/100] accept_len=3.13 ea=48.2 tok/s base=22.9 tok/s
+[100/100] accept_len=3.00 ea=45.6 tok/s base=22.8 tok/s
+run                 prompts  accept_len  ea_tok_per_s  base_tok_per_s  speedup  same_output_pct
+baseline (general)  100      3.035       46.61         22.82           2.042    81.0           
+zipped
+/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\|'
+  cells[i][c] = re.sub('\\\\\|', '|', cell)
+/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\_'
+  text = re.sub(r'_', '\_', text) # Escape underscores in display text
+[NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+[NbConvertApp] Writing 63592 bytes to __notebook__.ipynb
+[NbConvertApp] Converting notebook __notebook__.ipynb to html
+[NbConvertApp] Writing 448855 bytes to __results__.html

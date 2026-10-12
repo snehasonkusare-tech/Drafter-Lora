@@ -1,0 +1,4 @@
+run,prompts,accept_len,ea_tok_per_s,base_tok_per_s,speedup,looping_pct,accept_len_no_loops,same_output_pct
+original model (general),100,3.035,44.73,22.01,2.032,0.0,3.035,81.0
+"strong LoRA, original head (general)",100,2.611,36.89,21.07,1.751,2.0,2.588,92.0
+"strong LoRA, head + adapter (general)",100,2.956,41.73,21.43,1.947,1.0,2.94,91.0

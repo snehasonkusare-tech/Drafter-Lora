@@ -1,0 +1,2 @@
+run,prompts,accept_len,ea_tok_per_s,base_tok_per_s,speedup,same_output_pct
+baseline (general),100,3.035,46.61,22.82,2.042,81.0

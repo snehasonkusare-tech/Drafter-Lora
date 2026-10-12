@@ -1,0 +1,14 @@
+{
+  "id": "sonkusaresneha/drafter-lora-stage2b",
+  "title": "drafter-lora stage2b",
+  "code_file": "stage2b.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": ["sonkusaresneha/drafter-lora-stage1", "sonkusaresneha/drafter-lora-stage2"]
+}

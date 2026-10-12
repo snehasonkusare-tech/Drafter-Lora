@@ -1,0 +1,502 @@
+id,input_len,ea_new_tokens,ea_steps,accept_len,ea_time_s,ea_tok_per_s,base_new_tokens,base_time_s,base_tok_per_s,speedup,same_output,ea_text
+0d3453ee-77ef-400b-9e64-4ff5b6cbfcc8,67,71,30,2.3667,1.9671,36.09,70,3.1904,21.94,1.6451,True,"Answer: D. 1 mm posterior to plane
+
+Explanation: The esthetic plane of the mandible is the plane perpendicular to the long axis of the mandible, along the midline, and is used as a reference for prosthetic seating.
+The mandible is seated 1 mm posterior to the esthetic plane in the mouthpiece.
+"
+4080f3a3-a88c-4bcb-a8a3-2add0483fca0,54,46,20,2.3,1.3636,33.73,78,3.5035,22.26,1.5152,False,"Answer: B. Southampton score
+
+Explanation: Wound infection is graded on the basis of the number of organisms counted in a swab specimen. The Southampton score is used for wound infection. The score is given as follows:"
+6bd02755-f813-46d8-87ff-e40297a2a949,54,35,17,2.0588,1.1625,30.11,34,1.5395,22.09,1.3633,True,"Answer: C. Estrogen
+
+Explanation: The female's primary sex hormones are estrogen and progesterone. The male's primary sex hormones are testosterone and estrogen.
+"
+cb022556-5a47-402a-b52c-725b6c314e83,98,48,20,2.4,1.3996,34.3,47,2.1295,22.07,1.5539,True,"Answer: C. Guanylate cyclase
+
+Explanation: Sodium nitroprusside is metabolized to form an active metabolite. This active metabolite acts by activating Guanylate cyclase in vascular smooth muscle cells.
+"
+72b14998-6b80-45d4-ad70-9766f94e8026,59,80,37,2.1622,2.4676,32.42,79,3.5323,22.36,1.4496,True,"Answer: B. Ferropoin
+
+Explanation: - Enterocyte absorbs iron by two different mechanisms. - In the acidic medium of the stomach, the iron is bound to the protein ferropin. - In the small intestine, the iron is bound to the protein transferrin. - The iron is then taken up by the enterocyte by the ferroportin transpoer.
+"
+8abcdea2-c351-4df7-ab42-8898201f9949,78,76,39,1.9487,2.62,29.01,75,3.3335,22.5,1.2893,True,"Answer: A. Primary teeth with sinus tract
+
+Explanation: You will not perform pulpectomy in these situations: 
+Tooth has a large pulp canal.
+Tooth has a sinus tract.
+Tooth has a fracture.
+Tooth is vital pulpitis.
+Tooth is apathtetic pulpitis.
+Tooth is necrotic.
+Tooth is immature.
+"
+7cc17f9f-5ecd-4e71-b32f-74fdf3a6537b,101,66,36,1.8333,2.3973,27.53,65,2.8865,22.52,1.2226,True,"Answer: C. Belongs to Herpes family
+
+Explanation: Most likely diagnosis is herpes zoster (shingles/age related herpatic keratoconjunctivitis)
+Characteristic feature of herpes zoster is the presence of large intracytoplasmic vacuoles in the cells of the epidermis.
+"
+dec39d56-fcb3-4cf1-8e83-e09a09a8ce6e,91,46,15,3.0667,1.0703,42.98,45,2.0138,22.35,1.9232,True,"Answer: C. Differentiates between Lactose fermenter and non-lactose fermenters
+
+Explanation: CLED media is a selective media for lactose fermenters, while MacConkey is a differential media.
+"
+747359d5-2ce7-439e-b229-d04381853421,83,46,18,2.5556,1.2328,37.31,45,2.043,22.03,1.694,True,"Answer: A. Respiratory acidosis
+
+Explanation: Since pH is less than 7, it indicates acidosis. Since pCO2 is greater than 45 mm Hg, it indicates respiratory acidosis.
+"
+8ecc6a1a-b653-4b05-81f1-341c356e6c62,90,53,18,2.9444,1.2275,43.18,52,2.3642,21.99,1.9631,True,"Answer: B. Interchange of B29 and B30
+
+Explanation: B29 and B30 are the two heavy chains of insulin. If these two chains are interchanged, there will be minimal effect on the function of insulin.
+"
+f8c972d0-7aa8-45f7-a333-823c27dd5db8,63,48,18,2.6667,1.2643,37.97,47,2.1048,22.33,1.7002,True,"Answer: B. Severe asthma
+
+Explanation: Maximum alveolar aerial oxygen difference (DLCO) is seen in Severe asthma. DLCO is the difference between the alveolar oxygen concentration and the inspired oxygen concentration.
+"
+f4adbaa0-775b-4ef4-89e6-5f8b8290d6d9,61,39,16,2.4375,1.0855,35.93,38,1.7221,22.07,1.6283,True,"Answer: B. Retinoblastoma
+
+Explanation: ""The most common inherited malignancy is retinoblastoma. It is an extremely rare cause of secondary malignancy"".
+"
+ff42704e-3996-4abe-a5b6-574344e7aaf0,76,68,36,1.8889,2.3884,28.47,67,3.0364,22.07,1.2903,True,"Answer: C. Islet cell hyperplasia
+
+Explanation: Etiological factors for pancreatitis: Obesity Hyperlipidemia Alcoholism Ascaris infection Divorce or trauma Cystic fibrosis Genetic factors (mutations in CFTR gene) Islet cell hyperplasia is not an etiological factor for pancreatitis.
+"
+662c0f6c-a3d9-48a4-b21a-0cc20ef76b87,55,58,28,2.0714,1.8734,30.96,57,2.5458,22.39,1.3828,True,"Answer: D. Arginine
+
+Explanation: Buffering capacity of amino acid is propoionate to the concentration of positive charge in the solution. The amino acid with maximum positive charge will have maximum buffering capacity.
+Among the given options, arginine has the maximum positive charge.
+"
+b8e2e066-a036-4d14-8364-4e91a93812d5,99,67,22,3.0455,1.4845,45.13,66,2.9621,22.28,2.0256,True,"Answer: B. Increased activity of hormone sensitive lipase and decreased activity of lipoprotein lipase
+
+Explanation: In uncontrolled diabetes mellitus, there is increased breakdown of triglycerides and VLDL formation. This is due to increased activity of hormone sensitive lipase and decreased activity of lipoprotein lipase.
+"
+876a5607-e467-4745-b315-13812c405904,97,117,49,2.3878,3.2565,35.93,116,5.1262,22.63,1.5877,True,"Answer: A. Spironolactone
+
+Explanation: Spironolactone is a steroid antagonist, so it should be avoided in PCOS patients. PCOS patients can be managed by : Monitoring the cycle and taking OCPs to regulate the cycle. Taking a daily dose of 500 mg of Metformin to reduce insulin resistance. Taking a monthly dose of 50 mg of Clomiphene citrate to stimulate ovulation. Taking a monthly dose of 2.5 mg of Dienogest to increase the chances of ovulation.
+"
+16759fbf-ac94-4ec3-9fde-0702eee3eac5,58,33,12,2.75,0.835,39.52,32,1.4922,21.44,1.8429,True,"Answer: C. Sham surgery
+
+Explanation: A placebo is an inert substance or treatment with no effect that is given to a patient to satisfy their expectations.
+"
+37439d71-3558-4ceb-85af-8332c259afe1,123,60,15,4.0,1.0522,57.02,59,2.645,22.31,2.5563,True,"Answer: B. High anion gap met acidosis
+
+Explanation: Normal anion gap met acidosis
+pH - 7.40
+pCO2 - 40
+HCO3 - 25
+Na -145
+Cl-100
+"
+16ce8442-864b-43f1-b815-f9096e55fa54,56,34,17,2.0,1.1605,29.3,33,1.4934,22.1,1.3258,True,"Answer: B. Ethmoidal
+
+Explanation: First paranasal sinus to develop at bih is: Ethmoidal Maxillary Frontal Sphenoidal
+"
+6343810a-6571-4662-b3a6-aa7e13a7c65b,82,260,68,3.8235,4.5143,57.59,257,11.4341,22.48,2.5624,True,"Answer: B. By observing the movement of air water column in the tube during respiration
+
+Explanation: ICDs are implanted in the hea and function as a secondary barrier against ventricular fibrillation. The ICDs are connected to a programmer which is external to the patient. The ICDs are triggered to fire when they detect an arrhythmia. The programmer can be set to fire the ICDs at a specific interval or when a specific number of arrhythmia have been detected. The ICDs are triggered to fire when they detect an arrhythmia. The programmer can be set to fire the ICDs at a specific interval or when a specific number of arrhythmia have been detected. The ICDs are triggered to fire when they detect an arrhythmia. The programmer can be set to fire the ICDs at a specific interval or when a specific number of arrhythmia have been detected. The ICDs are triggered to fire when they detect an arrhythmia. The programmer can be set to fire the ICDs at a specific interval or when a specific number of arrhythmia have been detected. The ICDs are triggered to fire when they detect an arrhythmia. The programmer can be set to fire the ICD"
+52d643b9-6455-43f0-a04e-a838bf1ba1c8,73,56,27,2.0741,1.8189,30.79,55,2.4509,22.44,1.372,True,"Answer: B. c
+
+Explanation: Left sided failure (left ventricular outflow obstruction) may be seen in
+Pulmonary valvular obstruction
+Patent ductus arteriosus
+Coarctation of aoa
+Tricuspid atresia
+"
+efbacdd9-1c25-4697-8ad9-377c7a8105b8,55,31,15,2.0667,1.0268,30.19,30,1.3576,22.1,1.3662,True,"Answer: B. HNO,
+
+Explanation: Boiled lobster syndrome is seen in poisoning of HNO, i.e. poisoning by nitrite.
+"
+360f90ec-189e-464a-a60d-ed9d9bda46ef,76,59,28,2.1071,1.9394,30.42,58,2.6312,22.04,1.3801,True,"Answer: A. 0.5-1 kg
+
+Explanation: Ocular surgery is performed on young rabbits (8-12 weeks) weighing 2.5-5 kg.
+Ectopic implantation of intraocular lenses is performed on 5-7 kg rabbits.
+"
+09657fa4-eeb3-4860-8b8c-f2e25c7eabab,70,57,26,2.1923,1.7437,32.69,56,2.5369,22.07,1.4808,True,"Answer: A. Primary open angle glaucoma
+
+Explanation: Enlargement of the blind spot is seen in
+
+Primary open angle glaucoma
+Choroidoretinal degeneration
+Optic nerve hypoplasia
+Central Retinal Artery Stenosis
+"
+a1a782cf-d0f2-4645-a96d-79ef0cef3516,55,51,31,1.6452,2.0891,24.41,50,2.2346,22.38,1.091,True,"Answer: B. Mushroom poisoning
+
+Explanation: Uses of atropine :
+
+
+Treatment of organophosphate poisoning.
+Treatment of mushroom poisoning.
+As a pre-anesthetic agent.
+As a prophylactic agent in patients with narrow window of tolerance.
+"
+5b612728-c228-4423-8fd8-fde0ff1d3f68,64,51,23,2.2174,1.5532,32.84,50,2.2511,22.21,1.4783,True,"Answer: D. Malpresentation during bih
+
+Explanation: Infants at risk for SGA are:
+
+Malpresentation during bih
+Overestimated gestational age
+History of previous SGA
+Low socio economic status
+Use of drugs during pregnancy
+"
+0778d314-486a-4af0-b2bd-cab83e7e2166,100,72,27,2.6667,1.8302,39.34,71,3.2143,22.09,1.781,True,"Answer: B. Pyogenic meningitis
+
+Explanation: B i.e. Pyogenic meningitis Given clinical features (Fever convulsions, neck rigidity, CSF findings (protein 150 mg, sugar 40 mg, chloride 2500 mg with lymphadenopathy) suggest the diagnosis of bacterial meningitis.
+"
+5c0f862f-2651-4ed4-88d4-2456dab0f036,85,63,22,2.8636,1.494,42.17,62,2.7582,22.48,1.8759,True,"Answer: C. 12
+
+Explanation: A and endotracheal intubation = Most likely GCS score of 12
+GCS score
+0-3 = Critical
+4-6 = Severe
+7-10 = Moderate
+11-15 = Minor
+"
+afd502ff-b700-4ecf-acec-f849331dd1ed,57,38,19,2.0,1.3079,29.05,37,1.6693,22.17,1.3108,True,"Answer: C. C
+
+Explanation: During coical mastoidectomy, the lateral semicircular canal is identified by its constriction at the end of the bony canal.
+"
+5ce754b8-b358-4270-9bd1-8828700a19b1,53,39,17,2.2941,1.1968,32.59,38,1.7273,22.0,1.4812,True,"Answer: B. B
+
+Explanation: Blade angle for scaling and root planing is 135 degree.
+Blade angle for crown reduction and extraction is 90 degree.
+"
+03952f72-4223-48bc-a0df-51af60400a7a,82,57,29,1.9655,1.9639,29.02,56,2.5163,22.26,1.3041,True,"Answer: B. I/V Phenobarbital
+
+Explanation: - The patient is having seizures so the treatment of choice is IV anti-seizure drugs. - Among the given options, IV phenobarbital is the most effective and has been used for this purpose.
+"
+75ea3569-eb32-44a0-81dd-705aa50c2769,57,79,35,2.2571,2.3283,33.93,78,3.5159,22.18,1.5295,True,"Answer: C. Latency period
+
+Explanation: C i.e. Latency periodLatency period is the period between the onset of an action potential and the time at which it is detected by an electrode placed on the recording apparatus. - The latency period is directly propoionate to the diameter of the nerve fiber/axon. - Larger diameter nerve fibers have longer latency periods.
+"
+a1e41d9c-2e03-4195-a5c9-73ee0ac1b8d1,75,48,24,2.0,1.632,29.41,47,2.1135,22.24,1.3226,True,"Answer: B. Ectoderm
+
+Explanation: The tooth germ is derived from the ectoderm of the oral mucosa. The tooth germ consists of an enamel pulp, cementum, and periodontal ligament.
+"
+62b9add2-a5e9-451f-92c2-2eee629ee143,105,44,14,3.1429,0.9717,45.28,43,1.9301,22.28,2.0325,True,"Answer: C. Pulpectomy and root canal filling with gutta percha
+
+Explanation: Since the necrotic pulp was seen with no other pathological findings, the treatment of choice is root canal therapy.
+"
+a432db53-67f5-4865-af52-18edf81d1225,69,57,32,1.7812,2.1846,26.09,56,2.5016,22.39,1.1656,True,"Answer: B. Sporozoites
+
+Explanation: Malaria haemolytic anemia is seen in cases of R. tachicaudens infection. Trophozoites are not present in the blood. The sporozoites reach liver before red cell destruction.
+"
+20cbdec0-d488-4dcf-9630-2707c948390a,62,142,41,3.4634,2.7342,51.94,141,6.3361,22.25,2.3338,True,"Answer: B. Does not accumulates in tissues
+
+Explanation: Vd is the volume of distribution, and is defined as the volume of fluid in which a drug is distributed. A drug with a large volume of distribution is expected to be present in relatively high concentrations in the body fluids. For example, a drug with a large volume of distribution will be present in high concentrations in the blood, but not necessarily in tissues. A drug with a small volume of distribution is expected to be present in relatively low concentrations in the body fluids. For example, a drug with a small volume of distribution will be present in relatively low concentrations in the blood, but will be present in relatively high concentrations in tissues.
+"
+b6b91d49-7a30-4a9a-91e6-b2f20341470c,53,46,25,1.84,1.6902,27.22,45,2.0453,22.0,1.2369,True,"Answer: A. Lordosis
+
+Explanation: Normal curvature seen in Lumbar lordosis
+Exaggerated curvature seen in Sacroiliitis
+Exaggerated kyphosis seen in Ankylosing spondylitis
+"
+57336e68-8096-4fa9-89f5-36c05dcd5482,73,62,28,2.2143,1.8809,32.96,61,2.8005,21.78,1.5133,True,"Answer: D. Pont's index
+
+Explanation: Moyer's analysis is used to assess the development of the mandibular arches and the relationship of teeth. It is based on the observation that the mandibular first molar is always positioned anterior to the mandibular second molar.
+"
+fe55c8c7-c6ba-4882-a3c0-15171d62e603,62,84,39,2.1538,2.5714,32.67,83,3.7618,22.06,1.4806,True,"Answer: C. Doxycycline
+
+Explanation: Scrub typhus is caused by R. prowazekii. It is treated with doxycycline. Azithromycin is used for treatment of Chlamydia. Ciprofloxacin is used for treatment of gonococcal urethritis. Chloramphenicol is used for treatment of typhoid fever.
+"
+da529e73-61fe-4b52-81b1-8686b6a62ffd,87,41,14,2.9286,0.9643,42.52,40,1.8424,21.71,1.9583,True,"Answer: D. Chronic choroiditis
+
+Explanation: Sudden painless loss of vision with a history of cataract surgery 1 year back, the diagnosis is Choroiditis.
+"
+893ad532-01e8-421e-ac71-d5e8dfb882e5,63,66,37,1.7838,2.4171,27.31,65,2.8505,22.8,1.1974,True,"Answer: C. Hemolytic anemia
+
+Explanation: Wilson's disease
+
+It is a genetic disorder of copper metabolism.
+Accumulation of copper in liver and other organs.
+Clinical features
+
+Hepatitis
+Liver cirrhosis
+Kinky hair
+Yellow nails
+Kayse-Fleischer ring on cornea
+"
+83b776f2-ae9a-42ec-8262-931b29af2d9f,86,133,34,3.9118,2.2368,59.46,132,5.8951,22.39,2.6554,True,"Answer: C. 2b
+
+Explanation: Stages of Necrotizing enterocolitis
+1. Stage 1: Non-bilious vomiting
+2. Stage 2: Bilious vomiting
+3. Stage 3: Non-bilious vomiting
+4. Stage 4: Bilious vomiting
+5. Stage 5: Non-bilious vomiting
+6. Stage 6: Bilious vomiting
+7. Stage 7: Non-bilious vomiting
+8. Stage 8: Bilious vomiting
+9. Stage 9: Non-bilious vomiting
+10. Stage 10: Bilious vomiting
+"
+8e0eacd3-9755-426d-b1c5-2bff71295f88,55,50,25,2.0,1.6925,29.54,49,2.2077,22.19,1.331,True,"Answer: C. Southampton score
+
+Explanation: Wound infection is scored on the basis of the following 5 criteria: 
+
+Presence or absence of wound infection
+Wound size
+Number of infected wounds
+Severity of infection
+Overall score.
+"
+e0c3fa32-b170-46e4-a748-9965e38ca3a9,77,65,23,2.8261,1.5872,40.95,64,2.9522,21.68,1.889,True,"Answer: D. 7.5 K ohm
+
+Explanation: Electric resistance between oral mucosa and PDL is always constant that is: 7.5 K ohm Oral mucosa and periodontal ligament (PDL) is always at same potential, so the resistance between them is constant.
+"
+f6445d02-67c1-458d-8983-debf90b50ebc,74,46,19,2.4211,1.3214,34.81,94,4.2123,22.32,1.5599,False,"Answer: D. Dorsal motor nucleus of vagus
+
+Explanation: The nucleus of the vagus has cardio inhibitory function. It is the final common pathway for parasympathetic control of the heart.
+"
+df493519-1b08-442e-853c-edd9ca4f6f57,81,85,31,2.7419,2.0946,40.58,84,3.7865,22.18,1.8293,True,"Answer: D. It stops metabolic and enzymatic activity of the cell
+
+Explanation: Leishmann stain is used for staining red cells in the presence of acetone. Once the red cells are stained, the cells are fixed by freezing them in acetone. After fixation, the cells are dried by air drying, and the stain is applied. The stain inactivates the cells by freezing them in acetone.
+"
+0447b9a2-22ec-449c-8a23-a52c28ac6b34,103,55,24,2.2917,1.6281,33.78,54,2.4294,22.23,1.5198,True,"Answer: B. | TIBC, | Ferritin, | Transferrin saturation
+
+Explanation: TIBC - Total iron content in the body
+Ferritin - Iron storage protein
+Transferrin saturation - Percentage of iron saturation in the body.
+"
+17cb7e3f-0ca7-4937-a407-76bf9f401143,163,51,17,3.0,1.1741,43.44,50,2.3087,21.66,2.0056,True,"Answer: B. Revascularization in 12 and RCT of 11
+
+Explanation: Since 12 has immature blunderbuss canal, it can be revascularized and 11 can be root canalized.
+"
+014ba2fe-d596-4265-bf46-616641ea4a9f,100,43,19,2.2632,1.2878,33.39,46,2.0656,22.27,1.4994,False,"Answer: D. Non-invasive prenatal testing
+
+Explanation: NIPS is the screening test of choice for Down syndrome and other chromosomal abnormalities. It is done by measuring the free fetal plasma cell phone.
+"
+422e1a54-04f3-4193-ac55-61c4ae8b23a9,61,26,10,2.6,0.7126,36.49,25,1.1471,21.79,1.6742,True,"Answer: C. Citrate
+
+Explanation: Intermediate of KREB cycle used in Heme synthesis is Citrate.
+"
+59110b4f-4074-4293-aa6d-96b1a6b49b82,64,37,11,3.3636,0.7762,47.67,36,1.6322,22.06,2.1611,True,"Answer: A. Albuterol
+
+Explanation: Albuterol is available as a solution for subcutaneous injection. It is also available as an oral solution.
+"
+074d6dbc-2825-4387-ada2-01725dd954e2,76,174,71,2.4507,4.7179,36.88,173,7.8665,21.99,1.677,True,"Answer: A. Radioactive iodine and radiolabelled water
+
+Explanation: • Interstitial fluid volume (IFV) is measured by measuring the concentration of a tracer in the interstitial fluid.
+• The concentration of a tracer in the interstitial fluid is proportional to the volume of the interstitial fluid.
+• Thus, if the concentration of a tracer is measured in the plasma, and the volume of the plasma is known, the concentration of the tracer in the interstitial fluid is proportional to the IFV.
+• A commonly used tracer is radioactive iodine (I131).
+• Another commonly used tracer is radiolabelled water (e.g., I182).
+• A third commonly used tracer is radioactive sodium (Na131).
+• The concentration of the tracer in the interstitial fluid is proportional to the IFV.
+"
+dc918205-fb3a-42a9-805e-ec2c3e1c7352,106,67,24,2.7917,1.6447,40.74,66,3.0279,21.8,1.8689,True,"Answer: B. Seminoma
+
+Explanation: The given history is suggestive of seminoma. The presence of microscopic hematuria and painless mass in scrotal sac are suggestive of seminoma. Alphafetoprotein and lactate dehydrogenase being negative, ruling out the other options.
+"
+fec4f95e-7c1c-4e3e-9245-18cc14fe84e9,93,57,25,2.28,1.7519,32.54,56,2.5788,21.72,1.4983,True,"Answer: B. Blocking voltage gated Ca+ channels on presynaptic membrane
+
+Explanation: Acetyl choline release can be increased by increasing the concentration of Ca++ inside the presynaptic membrane. Ca++ enters the presynaptic membrane through voltage gated Ca++ channels.
+"
+4eb2c660-2893-450f-957c-536b6a6f9b3d,64,75,36,2.0833,2.4393,30.75,74,3.3378,22.17,1.3869,True,"Answer: C. Salivation on smelling food
+
+Explanation: C i.e. Salivation on smelling food - On smelling food, the nerve endings of the olfactory nerve are activatedQ, leading to a signal transmission to the brainQ. This causes the release of neurotransmitters at the synaptic junctionsQ, leading to the contraction of the salivary glands.
+"
+7c6fe266-845b-4f4b-8ddb-ca5d016e0396,139,95,24,3.9583,1.635,58.1,94,4.2991,21.87,2.6573,True,"Answer: B. At least one case of non-polio AFP per year per 100000 population of under 5 year
+
+Explanation: Key indicator for AFP surveillance : At least one case of non-polio AFP per year per 100000 population of under 5 year. Key indicator for polio surveillance : At least one case of polio per year per 1000 population of under 5 years.
+"
+e5be7962-590f-4590-bb2b-84860a14a42a,63,50,24,2.0833,1.6405,30.48,49,2.2347,21.93,1.39,True,"Answer: B. Metabolic alkalosis
+
+Explanation: Massive transfusion is defined as the presence of >50% blood loss with >50% transfusion of blood or blood products. It is associated with severe metabolic alkalosis.
+"
+20f29076-98f9-479b-a77b-96fae28d5689,129,71,30,2.3667,2.046,34.7,70,3.2063,21.83,1.5895,True,"Answer: C. Tuberous sclerosis
+
+Explanation: Tuberous sclerosis is the most common genetic disorder associated with hemangioblastomas. The tumors are usually associated with renal and hepatic lesions. Renal hemangioblastomas are most common and may present with hematuria, hemoglobinuria, or gross hematuria.
+"
+bdc34663-b39a-47bb-b034-7f804e437c09,89,60,25,2.4,1.6893,35.52,59,2.6564,22.21,1.5991,True,"Answer: B. Tardive dyskinesia
+
+Explanation: Tardive dyskinesia is the most common movement disorder seen in elderly patients. It is caused by D2 receptor supersensitivity and is characterized by restlessness, akinesia, and cogwheel rigidity.
+"
+e342fc89-9875-4188-9009-b9065fdf5b9c,54,55,25,2.2,1.6792,32.75,54,2.4487,22.05,1.4852,True,"Answer: D. Al, V
+
+Explanation: The addition of 4% of vanadium to titanium results in the formation of a stable alpha phase. The addition of 6% of vanadium to titanium results in the formation of a metastable beta phase.
+"
+18d5c4a1-cb81-41a8-9bfc-b6f7dec431d2,58,60,30,2.0,2.053,29.23,59,2.6645,22.14,1.3198,True,"Answer: B. Electrical alternans
+
+Explanation: B i.e. Electrical alternans In ECG, the alternans phenomenon is characterized by the presence of two distinct positive deflections in lead II (Pulmonale)Q and a single negative deflection (Left ventricular failure).
+"
+65bef933-00cc-4f7b-8ca0-a77f2fe92c57,62,36,16,2.25,1.1068,32.53,35,1.5824,22.12,1.4706,True,"Answer: C. Schedule X
+
+Explanation: Schedule X drugs are Schedule II controlled drugs. These can be sold only on production of a prescription by a registered medical practitioner.
+"
+97bd8c32-3ea6-41e1-856e-b9a91d20e643,56,48,17,2.8235,1.1739,40.89,47,2.1724,21.64,1.89,True,"Answer: B. VSD
+
+Explanation: Infective endocarditis is most commonly seen in VSD. VSD is the most common congenital hea defect and the most common cause of acquired infective endocarditis.
+"
+770a2934-5df3-4d53-a79c-0d4358b95016,65,46,24,1.9167,1.6369,28.1,45,2.067,21.77,1.2908,True,"Answer: B. Ovary
+
+Explanation: Metastatic disease to the eye is most commonly associated with ovarian cancer. Other primary cancers associated with intraocular metastases are: cervical, endometrial, and breast.
+"
+725d9973-1082-4c9b-b4fb-9c63a4615e63,62,42,18,2.3333,1.2407,33.85,41,1.8949,21.64,1.5646,True,"Answer: B. 2 weeks
+
+Explanation: Postherpetic neuralgia is defined as pain lasting beyond 2 weeks.
+It is the most common complication of shingles/ herpes zoster.
+"
+0fc0b4ce-9bfd-48a2-920d-88c67e2c4e9c,126,52,19,2.7368,1.3147,39.55,51,2.3685,21.53,1.8368,True,"Answer: B. Hypeensive intracranial hemorrhage
+
+Explanation: Hypeensive intracranial hemorrhage is the most common intracranial hemorrhage seen in pregnancy. CT scan is the initial imaging modality of choice.
+"
+be168ef1-fee0-4f80-9c60-6259e78b56b9,66,44,16,2.75,1.114,39.5,43,1.9467,22.09,1.7881,True,"Answer: A. 60 minutes
+
+Explanation: Migratory motor complexes are seen in the gut after intervals of 60-90 minutes.
+They are seen in the absence of obvious cause.
+"
+8729556c-a513-42d6-abc1-ed7f6c9ca397,106,98,39,2.5128,2.5983,37.72,97,4.3671,22.21,1.6981,True,"Answer: A. Risperidone
+
+Explanation: The given history is suggestive of Hypehyroidism. Hypehyroidism is characterized by increased production of thyroid hormones. Hypehyroidism is treated with radioactive iodine, beta blockers, or thyroid hormones inhibitors. Radioactive iodine is the treatment of choice. Imipramine is used for depression. Carbamazepine is used for seizures. Methylphenidate is used for ADHD.
+"
+1348a664-1ccc-422f-a083-91d77cb24b92,46,40,20,2.0,1.3308,30.06,39,1.7375,22.45,1.3391,True,"Answer: B. Meterological
+
+Explanation: B i.e. Meterological Natural disasters which cause maximum deaths are floods, hurricanes, tornadoes, and typhoons (meteorological disasters).
+"
+0489f20c-a0ce-4251-9eec-e8d5e691a49e,79,46,22,2.0909,1.4642,31.42,45,2.0412,22.05,1.425,True,"Answer: B. Bradycardia with AV Block
+
+Explanation: Verapamil and piroxicam are cardioselective NSAIDs. Piroxicam can cause bradycardia with AV block.
+"
+bee78f93-a09e-491f-856e-846b81e4aa5c,88,95,42,2.2619,2.8334,33.53,94,4.2003,22.38,1.4982,True,"Answer: B. Early treatment for diabetic retinopathy study
+
+Explanation: The Early Treatment Diabetic Retinopathy Study (ETDRS) is a multicenter, randomized, clinical trial involving 11,340 participants designed to evaluate the effectiveness of two drugs, metformin and pioglitazone, in the management of patients with type 1 and type 2 diabetes mellitus who have already been diagnosed with diabetic retinopathy.
+"
+4c0b406e-5d78-4f1d-99ca-c51f8d240e4f,117,46,16,2.875,1.1111,41.4,45,2.0197,22.28,1.8581,True,"Answer: D. Singeing of eyebrows and facial hair
+
+Explanation: Singeing of eyebrows and facial hair is not a proof of inhalation burns. Singing of eyebrows and facial hair is a sign of thermal injury.
+"
+3745bf96-43aa-40b2-ae62-3be01c0f92a4,95,83,34,2.4412,2.2986,36.11,82,3.7233,22.02,1.6396,True,"Answer: C. Ongoing pregnancy
+
+Explanation: FSH is the most reliable indicator of ovarian reserve. A value < 5 IU/L is diagnostic of ovarian failure. In the given question FSH is 6 IU/L, which is within the range of ovarian failure. However, the presence of secondary amenorrhea in the question suggests that the patient is pregnant. Thus, the answer is C.
+"
+28709e53-cbb8-48d9-aa3e-44aaa7037257,57,80,49,1.6327,3.2237,24.82,79,3.5601,22.19,1.1183,True,"Answer: D. >50%
+
+Explanation: MOALITY IN EMERGENCY ABDOMINAL SURGERY >50% MOALITY IN ABDOMINAL SURGERY IN PATIENTS WITH COMPLICATED PATS >40% MOALITY IN PATIENTS WITH COMPLICATED PATS AND EMERGENCY ABDOMINAL SURGERY >30%
+"
+7912bdab-3d26-40a1-91c3-9d52e760b930,83,35,14,2.5,0.9682,36.15,34,1.54,22.08,1.6373,True,"Answer: B. Sackett
+
+Explanation: Sackett was the first to propose that a well-conducted clinical trial be the basis for therapeutic decision making.
+"
+2f6be3a1-0736-4ec3-9e42-aa9732e401d6,95,74,29,2.5517,1.9313,38.32,73,3.2419,22.52,1.7016,True,"Answer: B. Buprenorphine
+
+Explanation: Buprenorphine is a partial agonist at mu receptors and antagonist at Kappa receptors. Pentazocine is an opioid agonist at both mu and Kappa receptors. Tramadol is an opioid agonist at mu receptors. Fentanyl is an opioid agonist at mu receptors.
+"
+c5bc52bf-c316-48d2-9c03-ed4ac17338ab,66,69,30,2.3,2.0169,34.21,68,3.0379,22.38,1.5284,True,"Answer: A. Clomiphene
+
+Explanation: Management of PCOD in a 30-year-old lady with infeility: Metformin (first-line treatment) Clomiphene (in case of resistance to metformin) OCPs (for ovulation induction) Letrozole (ovulation induction)
+"
+543b341f-7350-4a9b-9bc6-63a1a2cee1e8,57,37,12,3.0833,0.8484,43.61,36,1.6352,22.02,1.981,True,"Answer: A. CRISPR
+
+Explanation: CRISPR is a tool used in gene editing. It is a sequence of DNA that is guided by an RNA molecule.
+"
+8db7e145-052a-4774-9a5f-db3c4e9ac1d6,85,74,30,2.4667,2.0004,36.99,41,1.8566,22.08,1.6752,False,"Answer: B. 110 cm
+
+Explanation: Prediction of height from length of humerus: -
+
+
+Length of humerus x 3 + 10 cm
+
+
+24.5 cm x 3 + 10 cm
+
+
+73 + 10 = 83 cm
+
+
+Height of the person is 83 cm.
+"
+28e47981-c859-48ad-a4b9-14a13c5b3a34,83,57,28,2.0357,1.9176,29.72,56,2.484,22.54,1.3185,True,"Answer: A. Radical cure of Plasmodium vivax
+
+Explanation: TAFENOQUINE is used for the radical cure of vivax anodal hypnozoite infection. It is also used for the treatment of severe falciparum malaria.
+"
+46653ca7-d61a-4d6a-a135-91309eff9b49,58,87,27,3.2222,1.8081,48.12,86,3.8724,22.21,2.1666,True,"Answer: D. Disability adjusted life years
+
+Explanation: Burden of disease is measured in terms of disability adjusted life years (Dj). Dj is the sum of all the individual's disability adjusted life years. Dj is the best index for burden of disease. Case fatality rate is the best index for mortality. Morbidity data is the best index for disease. Dependency ratio is the best index for burden of disease.
+"
+678018c2-3154-4411-937e-0e5d4116739f,74,47,22,2.1364,1.5332,30.65,46,2.0827,22.09,1.3879,True,"Answer: D. Sumoylation
+
+Explanation: Sumoylation is a post-translational modification in which a small ubiquitin-like molecule (SQ) is covalently attached to a lysine residue of a protein.
+"
+93308f4a-1927-4596-981a-58f373a9707e,64,32,11,2.9091,0.7725,41.42,31,1.4171,21.88,1.8937,True,"Answer: C. Polycarboxylate
+
+Explanation: Polycarboxylate has the highest modulus of elasticity of the given options.
+"
+b22457e3-c620-4a3d-bde1-0aa6e6c185a7,59,31,17,1.8235,1.1573,26.79,30,1.365,21.98,1.2188,True,"Answer: B. B
+
+Explanation: Cluster B Personality Disorders: Histrionic, Borderline, Paranoid, Schizoid Personality Disorders.
+"
+cb6588a7-e4ef-4670-b6aa-7eae297fb443,71,56,21,2.6667,1.434,39.05,55,2.5079,21.93,1.7806,True,"Answer: C. 40 weeks
+
+Explanation: Last menstrual period was 2005-03-01
+Due to 28 weeks of gestation, the expected date of delivery is 2005-05-19
+"
+713b94cf-fc1e-4c32-b28e-f187cf86562d,57,38,20,1.9,1.3904,27.33,37,1.6769,22.07,1.2386,True,"Answer: C. Bimaxillary protrusion
+
+Explanation: Bimaxillary protrusion is not a common cause of TMJ disorders. It is usually associated with other jaw problems.
+"
+4f50899d-3016-461b-bd81-c1c29fbe6d29,51,34,13,2.6154,0.9053,37.56,33,1.4861,22.21,1.6913,True,"Answer: C. District hospitals
+
+Explanation: A psychiatrist is not posted at
+
+Hospitals with medical colleges
+District hospitals
+General hospitals
+In psychiatric hospitals
+"
+22e9f959-2d98-46de-b35c-601974f8d014,73,30,12,2.5,0.8363,35.87,29,1.3289,21.82,1.6438,True,"Answer: B. Rectal
+
+Explanation: Rectal temperature is the most accurate measure of body temperature. Oral temperature is the least accurate.
+"
+2c37d934-7b5e-4e0d-9b34-55ae75466301,67,259,60,4.3167,4.0153,64.5,257,11.507,22.33,2.8881,True,"Answer: B. Submandibular
+
+Explanation: (b) # In a radical neck dissection, the following structures are removed:> # Spinal accessory nerve> # Submandibular gland> # Level 2 B lymph nodes> # Level 3 C lymph nodes> # Level 4 C lymph nodes> # Level 5 C lymph nodes> # Level 6 C lymph nodes> # Level 7 C lymph nodes> # Level 8 C lymph nodes> # Level 9 C lymph nodes> # Level 10 C lymph nodes> # Level 11 C lymph nodes> # Level 12 C lymph nodes> # Level 13 C lymph nodes> # Level 14 C lymph nodes> # Level 15 C lymph nodes> # Level 16 C lymph nodes> # Level 17 C lymph nodes> # Level 18 C lymph nodes> # Level 19 C lymph nodes> # Level 20 C lymph nodes> # Level 21 C lymph nodes> # Level 22 C lymph nodes> # Level 23 C lymph nodes> # Level 24 C lymph nodes> # Level 25 C lymph nodes> # Level 26 C lymph nodes> #"
+bbb8ca0b-54ed-4f08-a87d-8eef087e37f1,90,53,19,2.7895,1.2955,40.91,52,2.3409,22.21,1.8418,True,"Answer: C. Life expectancy at bih, knowledge and decent standard of living.
+
+Explanation: Human Development Index: - HDI is a composite measure, which uses 3 factors: - Life expectancy at bih, knowledge and decent standard of living.
+"
+71803632-1b88-4332-88f5-be3ac2515b85,61,46,15,3.0667,1.0497,43.82,45,2.0557,21.89,2.002,True,"Answer: A. PAX-6
+
+Explanation: PAX6 is the most commonly indicated gene in congenital cataract. Mutations in PAX6 lead to the development of congenital cataract.
+"
+ced0e6e7-048a-467e-aa7e-e10def9ebb5e,74,45,16,2.8125,1.097,41.02,44,1.9732,22.3,1.8396,True,"Answer: C. 2% Lysol
+
+Explanation: 2% Lysol is used as a preservative in some formulations of liquid hand soap. It is not used as a disinfectant.
+"
+af87accb-34b2-42de-be48-16e94bbf22ab,69,48,19,2.5263,1.2988,36.96,47,2.1173,22.2,1.6649,True,"Answer: B. Sho-chain fatty acid
+
+Explanation: Cerebrohepatorenal syndrome is a group of genetic disorders in which a defect in carnitine metabolism leads to the accumulation of sho-chain fatty acids in brain.
+"
+860f5673-7e87-4a35-ba17-628c738929fa,74,35,13,2.6923,0.9141,38.29,34,1.6068,21.16,1.8096,True,"Answer: A. Low molecular weight heparin
+
+Explanation: Low molecular weight heparin is the treatment of choice for cancer associated thromboembolism.
+"
+fb8c4e20-6d34-461e-8e14-45fcd8c662e4,107,62,29,2.1379,1.9406,31.95,61,2.7508,22.18,1.4407,True,"Answer: D. Azithromycin 2 g oral single dose
+
+Explanation: Azithromycin is first-line treatment for gonococcal and nongonococcal urethritis. It is also the only option for patients who cannot afford expensive first-generation cephalosporins.
+"
+f8a5b0e2-b529-4ad4-b55d-f6e5fc4708e1,108,152,55,2.7636,3.6221,41.96,151,6.7576,22.35,1.878,True,"Answer: B. 54.30%
+
+Explanation: Total population = 10000
+Prevalence = 20% → 2000 have the disease, 8000 do not have the disease.
+Test has sensitivity = 95% → 95% of diseased people tested positive.
+Specificity = 80% → 80% of healthy people tested negative.
+(i) Formula for Positive Predictive Value (PPV)
+PPV = (Sensitivity x Prevalence + (1 - Specificity) x (1 - Prevalence)) / (Sensitivity x Prevalence + (1 - Specificity) x (1 - Prevalence))
+"
+8be32dbe-9a46-4a8a-8c08-ff89c3e78c3d,68,35,19,1.8421,1.2977,26.97,34,1.5546,21.87,1.2332,True,"Answer: C. Aldosterone
+
+Explanation: The fetal adrenals produce aldosterone, which is the only steroid hormone that is active in the fetus.
+"
+2ab8b27b-1646-4886-8378-f2f11f84a79e,57,35,11,3.1818,0.8287,42.24,34,1.6178,21.02,2.0097,True,"Answer: D. HNO3
+
+Explanation: Coagulation necrosis is seen with strong acids like HCl, HNO3, H2SO4.
+"
+b3aa72de-f85c-407f-892b-9dae7d953417,61,52,18,2.8889,1.2368,42.04,51,2.2852,22.32,1.8839,True,"Answer: D. Metronidazole
+
+Explanation: Rifampicin, linezolid, and nitrofurantoin are antibiotics that affect DNA synthesis. Metronidazole is an antibiotic that affects transcription by inhibiting RNA polymerase.
+"
+db180b6d-8b4e-487e-a47d-7c554c8dad2e,75,44,24,1.8333,1.6111,27.31,43,1.9447,22.11,1.2351,True,"Answer: B. Direct filling resins
+
+Explanation: Bonding agents are the substances that initiate and sustain adhesion between the bonding substrate and the bonded materials. The ideal bonding agent should have the following characteristics:
+"
